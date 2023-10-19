@@ -2,7 +2,7 @@
 
 ## Infocomm Security Management (AY 2022), now the course is known as "Cyber Security and Digital Forensics" (CDF)  
 
-## For the remaining core modules in the course 
+## For the remaining core modules in the course  
 
 ### DFI  
 
