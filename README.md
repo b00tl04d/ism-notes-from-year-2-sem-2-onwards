@@ -10,6 +10,6 @@
 
 ### EHD-Part2 (Ethical Hacking and Defences) (Might not even take notes for this)  
 
-### SC (Secure Coding)  
+### SC (Secure Coding) (Might not even take notes for this as well)  
 
 ### MRE (Malware Reverse Engineering)  
