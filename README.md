@@ -5,4 +5,8 @@
 
 ### DFI  
 
-### SPIM
+### SPIM  
+
+### EHD-Part2 (Might not even take notes for this)  
+
+### 
