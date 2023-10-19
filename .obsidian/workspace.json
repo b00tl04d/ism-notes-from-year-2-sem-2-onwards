@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             },
             "group": "afa339c244a3c4d7"
@@ -166,7 +166,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "49a9f3c1a32f932f",
+  "active": "fc33a66b264139ed",
   "lastOpenFiles": [
     "README.md"
   ]
