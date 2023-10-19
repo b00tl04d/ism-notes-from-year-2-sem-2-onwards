@@ -5,7 +5,7 @@
 
 ### DFI  
 
-### SPIM  
+### SPIM (Split into 2 parts, 1 each term)  
 
 ### EHD-Part2 (Might not even take notes for this)  
 
