@@ -4,12 +4,12 @@
 
 ## For the remaining core modules in the course  
 
-### DFI  
+### DFI (Digital Forensics and Investigation)  
 
-### SPIM (Split into 2 parts, 1 each term)  
+### SPIM (Security Policy and Incident Management) (Split into 2 parts, 1 each term, IM in the 1st term followed by SP in the 2nd term)  
 
-### EHD-Part2 (Might not even take notes for this)  
+### EHD-Part2 (Ethical Hacking and Defences) (Might not even take notes for this)  
 
-### SC  
+### SC (Secure Coding)  
 
-### MRE  
+### MRE (Malware Reverse Engineering)  
