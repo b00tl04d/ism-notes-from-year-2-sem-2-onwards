@@ -1,6 +1,6 @@
 # ism-notes-from-year-2-sem-2-onwards  
 
-## Infocomm Security Management (AY 2022)
+## Infocomm Security Management (AY 2022), now the course is known as "Cyber Security and Digital Forensics" (CDF)
 
 ## For the remaining core modules in the course that I have to take  
 
