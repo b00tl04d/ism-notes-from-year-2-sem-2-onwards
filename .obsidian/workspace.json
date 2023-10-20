@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSAL-elective-year2-sem2/Week 1.md",
+                "file": "Others/DSAL/README.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             },
             "group": "afa339c244a3c4d7"
@@ -32,8 +32,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSAL-elective-year2-sem2/Week 1.md",
-                "mode": "preview",
+                "file": "Others/DSAL/README.md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSAL-elective-year2-sem2/Week 1.md",
+                "file": "Others/DSAL/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSAL-elective-year2-sem2/Week 1.md",
+                "file": "Others/DSAL/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSAL-elective-year2-sem2/Week 1.md"
+                "file": "Others/DSAL/README.md"
               }
             }
           }
@@ -166,11 +166,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0687dc5c50edddd9",
+  "active": "fc33a66b264139ed",
   "lastOpenFiles": [
+    "Others/Week 1.md",
+    "Others/DSAL/README.md",
+    "Others/DSAL",
     "README.md",
-    "DSAL-elective-year2-sem2/Week 1.md",
-    "DSAL-elective-year2-sem2",
+    "Others",
     "MRE",
     "SPIM",
     "DFI"
