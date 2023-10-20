@@ -13,3 +13,6 @@
 ### SC (Secure Coding) (Might also not take notes for this)  
 
 ### MRE (Malware Reverse Engineering)  
+
+### Electives (No notes for PDS, but maybe some for DSAL)  
+
