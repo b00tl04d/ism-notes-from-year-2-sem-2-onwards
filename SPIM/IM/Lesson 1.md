@@ -28,5 +28,5 @@ Incident (generally a negative event. In the case of IT and cyber security, list
 
 <br>
 
-Service Request (request)  
+Service Request (formal request from a user for something to be provided)  
 * 
