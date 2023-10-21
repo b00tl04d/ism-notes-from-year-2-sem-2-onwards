@@ -21,4 +21,6 @@
 
 ## Key Definitions  
 
-
+* Incident
+Unplanned interruption to an IT service  
+Reduction in the quality of an IT service
