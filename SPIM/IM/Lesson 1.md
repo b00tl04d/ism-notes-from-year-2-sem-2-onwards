@@ -284,6 +284,8 @@ Staff must be familiar with the procedure
 
 ### Incident Diagnosis  
 
+![image](../images/Pasted%20image%2020231021164304.png)  
+
 Service Desk Analyst will determine with the user
 * Full symptoms (what has gone wrong)  
 * How to correct it?
