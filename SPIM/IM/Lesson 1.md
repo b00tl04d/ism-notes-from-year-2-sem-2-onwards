@@ -455,6 +455,24 @@ Defining <b>escalation procedures</b>
 <br>
 
 
-## Risk  
+## Risks  
+
+Incidents not being handled in appropriate timescales  
+
+Insufficient incident backlog  
+
+Poor information availability (for resolving/escalating...)  
+
+Mismatch in objectives/expectations for Incident Management  
+* Due to a lack of or inappropriate training?  
+* Due to inadequate support tools?  
+* Due to lack of support tools integration?  
+* Due to poorly-aligned or non-existent OLAs or UCs/SLAs?  
+* or due to other reasons...  
+
+<br>
+
+
+## Critical Success Factors (CSF) & Key performance Indicators (KPI)  
 
 
