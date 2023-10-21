@@ -475,4 +475,9 @@ Mismatch in objectives/expectations for Incident Management
 
 ## Critical Success Factors (CSF) & Key performance Indicators (KPI)  
 
-Examples
+Examples  
+
+<b>CSF Resolve incidents as quickly as possible minimizing impacts to the business</b>
+* <b>KPI</b> mean elapsed time to achieve incident resolution or circumvention, broken down by impact code  
+* <b>KPI</b> breakdown of incidents at each stage (e.g. logged, work in progress, closed, etc)  
+* 
