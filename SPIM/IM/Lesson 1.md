@@ -438,4 +438,20 @@ Availability Management
 <br>
 
 
-## Challenges
+## Challenges  
+
+Ability to <b>detect incidents as early as possible</b>  
+
+Convincing all staff that <b>ALL incidents must be logged</b>  
+
+Making <b>information available about known errors</b> to ensure staff learn from previous incidents  
+
+<b>Configuration Management System integration</b>  
+
+<b>Integration into the Service Level Management processes</b> in order to correctly assess the impact and priority of incidents  
+
+Defining <b>escalation procedures</b>  
+
+<br>
+
+
