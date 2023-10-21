@@ -356,7 +356,9 @@ As much actions as possible should be performed in parallel to save time
 
 ### Resolution and Recovery  
 
-![[Pasted image 20231021165544.png]]
+![[Pasted image 20231021165544.png]]  
+
+
 
 
 ## Process Interfaces
