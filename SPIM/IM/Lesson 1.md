@@ -203,5 +203,15 @@ Incident Identification:
 
 <br>
 
+Monitoring assures:
+* Early detection of Failure/potential failure  
+* Quick start of Incident Management  
+
+<br>
+
+IDEAL SITUATION: <b>Incident is resolved before it had an influence on users</b>
+
+<br>
+
 
 ## Process Interfaces
