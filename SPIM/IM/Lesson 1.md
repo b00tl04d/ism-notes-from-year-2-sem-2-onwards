@@ -189,3 +189,8 @@ An Incident Model should including the following:
 
 Diagram  
 ![image](../images/Pasted%20image%2020231021162118.png)  
+
+<br>
+
+
+## Pro
