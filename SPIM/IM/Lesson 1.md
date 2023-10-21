@@ -217,7 +217,7 @@ IDEAL SITUATION: <b>Incident is resolved before it had an influence on users</b>
 
 ### Incident Logging  
 
-
+![image](../images/Pasted%20image%2020231021162716.png)  
 
 
 ## Process Interfaces
