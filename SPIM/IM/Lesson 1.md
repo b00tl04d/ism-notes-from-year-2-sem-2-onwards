@@ -253,5 +253,16 @@ It's useful if incident and problem categories are alike
 
 ![image](../images/Pasted%20image%2020231021163305.png)  
 
+A part of categorisation will be to <b>check if it's a Service Request</b>
+* If it is -> It will be transferred to Request Fulfilment process  
+
+Requests are not incidents and should be handled differently  
+
+<br>
+
+### Incident Prioritization  
+
+
+
 
 ## Process Interfaces
