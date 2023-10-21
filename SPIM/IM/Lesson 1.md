@@ -213,5 +213,9 @@ IDEAL SITUATION: <b>Incident is resolved before it had an influence on users</b>
 
 <br>
 
+### Incident Logging  
+
+
+
 
 ## Process Interfaces
