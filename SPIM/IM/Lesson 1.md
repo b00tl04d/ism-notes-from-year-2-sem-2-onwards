@@ -187,10 +187,12 @@ An Incident Model should including the following:
 
 ## Process Workflow  
 
-Diagram  
+Overall diagram  
 ![image](../images/Pasted%20image%2020231021162118.png)  
 
 <br>
 
+###
 
-## Pro
+
+## Process Interfaces
