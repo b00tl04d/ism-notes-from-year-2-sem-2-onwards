@@ -232,6 +232,9 @@ Incident is logged -> <b>Resolution time count starts</b>
 
 <br>
 
-### 
+### Incident Categorization  
+
+
+
 
 ## Process Interfaces
