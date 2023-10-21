@@ -58,3 +58,6 @@ Incident management is the process responsible for managing the lifecycle of all
 <br>
 
 
+## Purpose and Objectives  
+
+
