@@ -401,4 +401,30 @@ Request Fulfilment
 Problem Management  
 * Incidents (repeated) often point to problems  
 * Solving the problems should reduce the number of incidents  
-* 
+
+<br>
+
+Asset & Configuration Mgmt  
+* Provides data used to identify and progress incidents  
+* IM assists in verification of CMS  
+
+<br>
+
+Change Management  
+* Changes are often reasons why incidents occur  
+* Incidents can lead to changes required for resolutions/workarounds  
+
+<br>
+
+Service Level Management  
+* IM must restore service as agreed in SLAs - thus, targets for IM are determined considering SLM and vice-versa  
+
+<br>
+
+Service Catalogue Management  
+* Service Desk will consult Service Catalogue in handling incidents  
+
+<br>
+
+
+
