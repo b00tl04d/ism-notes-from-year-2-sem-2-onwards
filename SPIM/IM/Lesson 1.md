@@ -219,5 +219,16 @@ IDEAL SITUATION: <b>Incident is resolved before it had an influence on users</b>
 
 ![image](../images/Pasted%20image%2020231021162716.png)  
 
+<b>All incidents</b> must be
+* Fully logged (INC. NO., DATE, TIME, OWNER, CONTACT... )  
+* and date/time stamped;  
+* Full historical record of all incidents must be maintained  
+
+<br>
+
+"Opportunity fixes" must also be logged (ALL must be logged)  
+
+Incident is logged -> <b>Resolution time count starts</b>  
+
 
 ## Process Interfaces
