@@ -153,4 +153,15 @@ Should have separate procedure
 
 <b>Escalation</b> is the mechanism that assists timely resolution of an Incident  
 
+<b>Hierarchical Escalation</b> can take place at any moment during resolution  
+
+Possible reasons
+* SLA threat  
+* Extra resources required  
+* Need to inform higher management  
+
+<br>
+
+<b>Functional Escalation</b> means involving more specialist personnel or access privileges to solve the incident. Departmental boundaries may be exceeded  
+
 
