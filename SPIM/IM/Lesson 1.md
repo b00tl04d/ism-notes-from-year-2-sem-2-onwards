@@ -6,7 +6,7 @@
 * [Incident Priority](#incident-priority)  
 * [Incident Priority and Target resolution times](#incident-priority-and-target-resolution-times)  
 * [Major Incidents](#major-incidents)  
-* [Escalations - Hierarchical & Functional](#escalations---hierarchical-&-functional)  
+* [Escalations - Hierarchical & Functional](#escalations---hierarchical--functional)  
 * [Standard Incident Models](#standard-incident-models)  
 * [Process Workflow](#process-workflow)  
 * [Process Interfaces](#process-interfaces)  
