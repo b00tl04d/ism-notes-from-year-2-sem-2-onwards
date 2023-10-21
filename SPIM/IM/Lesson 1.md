@@ -300,7 +300,9 @@ If the incident is resolved -> it will be closed (after informing the user)
 
 ### Functional Escalation  
 
+![image](../images/Pasted%20image%2020231021164339.png)  
 
+If the incident is not resolved -> it will be escalated (and )
 
 
 ## Process Interfaces
