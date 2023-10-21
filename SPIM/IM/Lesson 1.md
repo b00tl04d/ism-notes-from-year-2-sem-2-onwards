@@ -45,4 +45,14 @@ Workaround (Method of bypassing an Incident or Problem, a temporary fix)
 
 Status codes to indicate where incidents are in relation to their lifecycle/status  
 
-4 
+5 of them:  
+
+* Open  
+* In progress  
+* Resolved  
+* Closed  
+* (Pending)  
+
+<br>
+
+
