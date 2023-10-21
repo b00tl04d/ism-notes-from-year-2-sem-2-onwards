@@ -503,4 +503,32 @@ Examples
 
 ## Roles  
 
+Incident Management Process Owner
+* accountable for the process  
+
+<br>
+
+Incident Manager, manages the work of Incident Support Staff
+* Developing and maintaining IM process and procedures (driving efficiency and effectiveness)  
+* Managing the work of incident support staff (first and second-line)  
+* Managing Major Incidents  
+* Monitoring the effectiveness of IM ... recommending improvement  
+* Developing and maintaining the IM systems  
+* Producing management information  
+
+<br>
+
+1st line support (normally the service desk)  
+* Identify, log, categorize, prioritize, diagnose, resolve/escalate and close an incident  
+
+<br>
+
+2nd line support (generally Technical/Application Management)  
+* Investigate, diagnose, resolve (recover) an incident  
+
+<br>
+
+3rd line support (External experts or Internal ones)  
+* Investigate, diagnose, resolve (recover) an incident  
+
 
