@@ -192,7 +192,16 @@ Overall diagram
 
 <br>
 
-###
+### Incident Identification  
+
+TRIGGERS: Incidents ... from Event Mgmt, from web interface, from Users, from suppliers, from technical Stuff  
+
+<br>
+
+Incident Identification:  
+* Usually it's unacceptable to wait until a user logs an incident  
+
+<br>
 
 
 ## Process Interfaces
