@@ -274,6 +274,8 @@ High &nbsp;&nbsp; Medium &nbsp;&nbsp; Low &nbsp;&nbsp; Priority code &nbsp;&nbsp
 
 ### Major Incident?  
 
+![image](../images/Pasted%20image%2020231021163732.png)  
+
 
 
 
