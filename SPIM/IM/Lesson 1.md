@@ -463,6 +463,8 @@ Insufficient incident backlog
 
 Poor information availability (for resolving/escalating...)  
 
+<br>
+
 Mismatch in objectives/expectations for Incident Management  
 * Due to a lack of or inappropriate training?  
 * Due to inadequate support tools?  
