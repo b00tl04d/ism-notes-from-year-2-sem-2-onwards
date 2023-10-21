@@ -388,4 +388,17 @@ The incident is closed by Service Desk
 
 ## Process Interfaces
 
+Event Mgmt  
+* Event can (automatically) raise incident  
 
+<br>
+
+Request Fulfilment  
+* Request handling can also be handled by IM process  
+
+<br>
+
+Problem Management  
+* Incidents (repeated) often point to problems  
+* Solving the problems should reduce the number of incidents  
+* 
