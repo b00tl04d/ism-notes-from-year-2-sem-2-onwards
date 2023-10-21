@@ -98,7 +98,7 @@ Note: Value of IM is highly visible to the business. For this reason, IM is ofte
 
 <br>
 
-General formula is...
+General formula is...  
 Impact + Urgency = Priority  
 
 Impact: How much damage, if not fixed soon?
