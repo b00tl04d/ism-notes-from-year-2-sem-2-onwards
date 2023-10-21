@@ -268,7 +268,13 @@ Prioritisation determines how the incident will be handled by support staff and 
 
 Remember: <b>PRIORITY = Urgency + Impact (+ SLA)</b>  
 
-High &nbsp; Medium Low Priority code
+High &nbsp;&nbsp; Medium &nbsp;&nbsp; Low &nbsp;&nbsp; Priority code &nbsp;&nbsp; Description &nbsp;&nbsp; Target Resolution Time  
+
+<br>
+
+### Major Incident?  
+
+
 
 
 ## Process Interfaces
