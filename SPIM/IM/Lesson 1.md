@@ -337,6 +337,25 @@ May also be initiated by the customer/user if they see it necessary
 
 ![image](../images/Pasted%20image%2020231021165339.png)  
 
+More information might be collected on
+* Exactly what has gone wrong  
+* Understanding the chronological order of events  
+* Confirming the full impact  
+* Identifying events that may have triggered the incident  
+* Knowledge searches  
+* Previous incidents  
+* Changes made  
+
+<br>
+
+All actions and findings must be recorded  
+
+As much actions as possible should be performed in parallel to save time  
+
+<br>
+
+### Resolution and Recovery  
+
 
 
 
