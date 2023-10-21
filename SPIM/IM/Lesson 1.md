@@ -318,6 +318,8 @@ Service Desk will track and monitor progress
 
 ### Hierarchical Escalation  
 
+![image](../images/Pasted%20image%2020231021164639.png)  
+
 
 
 
