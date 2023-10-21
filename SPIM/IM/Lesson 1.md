@@ -194,6 +194,8 @@ Overall diagram
 
 ### Incident Identification  
 
+![image](../images/Pasted%20image%2020231021162641.png)  
+
 TRIGGERS: Incidents ... from Event Mgmt, from web interface, from Users, from suppliers, from technical Stuff  
 
 <br>
