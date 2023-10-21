@@ -482,4 +482,16 @@ Examples
 <b>CSF Resolve incidents as quickly as possible minimizing impacts to the business</b>
 * <b>KPI</b> mean elapsed time to achieve incident resolution or circumvention, broken down by impact code  
 * <b>KPI</b> breakdown of incidents at each stage (e.g. logged, work in progress, closed, ....etc)  
-* 
+* <b>KPI</b> percentage of incidents closed by the service desk without reference to other levels of support (often referred to as 'first point of contact')  
+* <b>KPI</b> number and percentage of incidents resolved remotely, without the need for a visit  
+
+<br>
+
+<b>CSF Maintain quality of IT services</b>  
+* <b>KPI</b> total numbers of incidents (as a control measure)  
+* <b>KPI</b> size of current incident backlog for each IT service  
+* <b>KPI</b> number and percentage of major incidents for each IT service  
+
+<br>
+
+
