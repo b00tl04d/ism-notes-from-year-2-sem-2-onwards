@@ -174,4 +174,18 @@ Possible reasons
 Designed and implemented for handling standard (reoccurring) incidents more efficiently  
 
 An Incident Model should including the following:
-* 
+* Steps required to handle the incident and their order  
+* Responsibilities  
+* Timescales and thresholds for completion  
+* Any escalation procedure  
+* Any evidence prevention activities  
+
+<b>Support tools can then be used to automate handling of standard incidents</b>  
+
+<br>
+
+
+## Process Workflow  
+
+Diagram  
+
