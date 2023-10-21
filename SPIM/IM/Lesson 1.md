@@ -262,7 +262,13 @@ Requests are not incidents and should be handled differently
 
 ### Incident Prioritization  
 
+![image](../images/Pasted%20image%2020231021163432.png)  
 
+Prioritisation determines how the incident will be handled by support staff and by support tools  
+
+Remember: <b>PRIORITY = Urgency + Impact (+ SLA)</b>  
+
+High<t>Medium Low Priority code
 
 
 ## Process Interfaces
