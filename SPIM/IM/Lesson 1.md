@@ -230,5 +230,8 @@ IDEAL SITUATION: <b>Incident is resolved before it had an influence on users</b>
 
 Incident is logged -> <b>Resolution time count starts</b>  
 
+<br>
+
+### 
 
 ## Process Interfaces
