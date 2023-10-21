@@ -149,6 +149,6 @@ Should have separate procedure
 <br>
 
 
-## Functional and Hierarchical Escalation  
+## Escalations - Hierarchical & Functional  
 
 
