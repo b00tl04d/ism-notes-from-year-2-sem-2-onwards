@@ -123,4 +123,4 @@ Service Management tools automate and escalate as required
 <br>
 
 Example of priority coding system  
-![image](../images/)
+![image](../images/)![[Pasted image 20231021153015.png]]
