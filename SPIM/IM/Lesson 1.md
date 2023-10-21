@@ -1,2 +1,2 @@
 # Navigation
-* [Key Definitions]
+* [Key Definitions](#key-definitions)
