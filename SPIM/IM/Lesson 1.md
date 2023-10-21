@@ -294,6 +294,11 @@ Service Desk Analyst will determine with the user
 
 If the incident is resolved -> it will be closed (after informing the user)  
 
+<br>
+
+### Functional Escalation  
+
+
 
 
 ## Process Interfaces
