@@ -126,3 +126,8 @@ Example of priority coding system
 ![image](../images/Pasted%20image%2020231021153015.png)  
 
 <br>
+
+
+## Major Incidents  
+
+
