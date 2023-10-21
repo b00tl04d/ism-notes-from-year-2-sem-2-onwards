@@ -494,4 +494,13 @@ Examples
 
 <br>
 
+<b>CSF Maintain user satisfaction with IT services</b>  
+* <b>KPI</b> Average user/customer survey score (total and by question category)  
+* <b>KPI</b> Percentage of satisfaction surveys answered versus total number of satisfaction surveys sent  
+
+<br>
+
+
+## Roles  
+
 
