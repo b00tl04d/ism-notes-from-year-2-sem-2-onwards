@@ -310,6 +310,14 @@ If the incident is not resolved -> it will be escalated (and informed to the use
 
 <br>
 
+Ownership of the incident stays with the Service Desk  
+
+Service Desk will track and monitor progress  
+
+<br>
+
+### Hierarchical Escalation  
+
 
 
 
