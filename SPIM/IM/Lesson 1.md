@@ -370,7 +370,22 @@ The incident should be returned to the Service Desk for closure action
 
 ### Incident Closure  
 
-![[Pasted image 20231021165756.png]]
+![image](../images/Pasted%20image%2020231021165756.png)  
+
+Before closing the incident the SD Analyst must
+* Make sure the user is informed and happy with the solution  
+* The assigned incident category is the correct one (if not, correct it)  
+* The incident documentation is complete  
+
+<br>
+
+The incident is closed by Service Desk  
+
+<b>Re-opening incidents</b> - strict rules must exist for this action  
+
+<br>
 
 
 ## Process Interfaces
+
+
