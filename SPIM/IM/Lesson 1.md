@@ -130,4 +130,25 @@ Example of priority coding system
 
 ## Major Incidents  
 
+<b>Major Incident</b> = High Impact + High Urgency  
+
+Highest category of impact for an incident  
+
+Results in significant disruption to the business  
+
+Should have separate procedure  
+
+<br>
+
+<b>A separate procedure (for major incidents)</b>
+* Shorter timescales and greater urgency  
+* Separate major incident team under the direct leadership of the incident manager  
+* Informing Management and Customer  
+* Service Desk ensures that all activities are recorded and users are kept fully informed of the progress  
+
+<br>
+
+
+## Functional and Hierarchical Escalation  
+
 
