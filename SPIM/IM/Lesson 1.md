@@ -171,4 +171,4 @@ Possible reasons
 
 ## Standard Incident models  
 
-
+Designed and implemented for handling standard (reoccuring) incidents more efficiently
