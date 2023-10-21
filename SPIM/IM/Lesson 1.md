@@ -234,7 +234,7 @@ Incident is logged -> <b>Resolution time count starts</b>
 
 ### Incident Categorization  
 
-
+![image](../images/Pasted%20image%2020231021162949.png)  
 
 
 ## Process Interfaces
