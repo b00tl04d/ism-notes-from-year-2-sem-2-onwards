@@ -21,6 +21,7 @@
 
 ## Key Definitions  
 
-* Incident
+* Incident (generally a negative event, in the case of IT and cyber security below are a few examples)  
 Unplanned interruption to an IT service  
-Reduction in the quality of an IT service
+Reduction in the quality of an IT service  
+Failure of a CI that has not yet impacted an IT service
