@@ -38,4 +38,9 @@ Service Request (formal request from a user for something to be provided)
 Workaround (Method of bypassing an Incident or Problem, a temporary fix)  
 * It is <b>not a permanent solution</b> but something used to get the service up and running till the real solution is found  
 
+<br>
+
+
+## Incident Lifecycle  
+
 
