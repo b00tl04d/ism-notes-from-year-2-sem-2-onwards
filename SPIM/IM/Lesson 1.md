@@ -251,7 +251,7 @@ It's useful if incident and problem categories are alike
 
 ### Service Request?  
 
-
+![image](../images/Pasted%20image%2020231021163305.png)  
 
 
 ## Process Interfaces
