@@ -96,4 +96,18 @@ Note: Value of IM is highly visible to the business. For this reason, IM is ofte
 * Assigned, to ensure that the support groups will pay the required attention to the incident  
 * Based on the Urgency and Impact  
 
+<br>
+
+General formula is...
+Impact + Urgency = Priority  
+
+Impact: How much damage, if not fixed soon?
+
+Urgency: How fast does it need to be fixed  
+
+<br>
+
+
+## Incident Priority & Timescales  
+
 
