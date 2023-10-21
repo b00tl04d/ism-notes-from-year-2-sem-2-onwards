@@ -13,8 +13,7 @@
 * [Information Management](#information-management)  
 * [Challenges](#challenges)  
 * [Risks](#risks)  
-* [Critical success factors (CSF) & Key Performance Indicators (KPI)](#critical-success-factors-\(csf\))  
-* [Key Performance Indicators (KPI)](#key-performance-indicators-\(kpi\))  
+* [Critical success factors (CSF) & Key Performance Indicators (KPI)](#critical-success-factors-csf--key-performance-indicators-kpi)  
 * [Roles and Responsibilities](#roles)  
 
 <br>
