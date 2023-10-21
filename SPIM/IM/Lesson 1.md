@@ -120,4 +120,7 @@ Support groups should be made aware of these timescales
 
 Service Management tools automate and escalate as required  
 
+<br>
+
+Example of priority coding system  
 
