@@ -188,4 +188,4 @@ An Incident Model should including the following:
 ## Process Workflow  
 
 Diagram  
-
+![image](../images/Pasted%20image%2020231021162118.png)  
