@@ -276,6 +276,14 @@ High &nbsp;&nbsp; Medium &nbsp;&nbsp; Low &nbsp;&nbsp; Priority code &nbsp;&nbsp
 
 ![image](../images/Pasted%20image%2020231021163732.png)  
 
+If priority indicates Major Incident it must be handled by following the Major Incident Procedure  
+
+Staff must be familiar with the procedure  
+
+<br>
+
+### Incident Diagnosis  
+
 
 
 
