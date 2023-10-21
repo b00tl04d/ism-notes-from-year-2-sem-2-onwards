@@ -322,6 +322,19 @@ Service Desk will track and monitor progress
 
 ![image](../images/Pasted%20image%2020231021164639.png)  
 
+If the incident is NOT resolved -> it will be escalated (and informed to the user)  
+
+<b>Hierarchic Escalation</b> (up the management chain) occurs when  
+* SLA breaches are threatened  
+* Extra resources are needed to resolved the incident  
+* Senior Management needs to be aware/ approve the steps required  
+
+May also be initiated by the customer/user if they see it necessary  
+
+<br>
+
+### Investigation & Diagnosis  
+
 
 
 
