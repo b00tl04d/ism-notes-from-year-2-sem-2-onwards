@@ -29,4 +29,13 @@ Incident (generally a negative event. In the case of IT and cyber security, list
 <br>
 
 Service Request (formal request from a user for something to be provided)  
-* 
+* Request for info or advice; to reset a password; or to install a workstation for a new user  
+* NOT a disruption to the agreed service  
+* Request Fulfilment process. Manages lifecycle of Service Requests  
+
+<br>
+
+Workaround (Method of bypassing an Incident or Problem, a temporary fix)  
+* It is <b>not a permanent solution</b> but something used to get the service up and running till the real solution is found  
+
+
