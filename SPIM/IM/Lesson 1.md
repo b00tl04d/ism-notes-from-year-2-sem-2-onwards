@@ -45,6 +45,8 @@ Workaround (Method of bypassing an Incident or Problem, a temporary fix)
 
 Status codes to indicate where incidents are in relation to their lifecycle/status  
 
+Incident management is the process responsible for managing the lifecycle of all incidents  
+
 5 of them:  
 
 * Open  
