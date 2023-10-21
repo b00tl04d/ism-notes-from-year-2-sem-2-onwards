@@ -289,7 +289,10 @@ Service Desk Analyst will determine with the user
 * How to correct it?
 
 (Correcting methods) using
-* Diagnositc scripts
+* Diagnostic scripts  
+* Known Error information  
+
+I
 
 
 ## Process Interfaces
