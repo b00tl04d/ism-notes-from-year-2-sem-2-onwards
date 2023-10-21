@@ -151,4 +151,6 @@ Should have separate procedure
 
 ## Escalations - Hierarchical & Functional  
 
+<b>Escalation</b> is the mechanism that assists timely resolution of an Incident  
+
 
