@@ -292,7 +292,8 @@ Service Desk Analyst will determine with the user
 * Diagnostic scripts  
 * Known Error information  
 
-I
+If the incident is resolved -> it will be closed (after informing the user)  
+
 
 
 ## Process Interfaces
