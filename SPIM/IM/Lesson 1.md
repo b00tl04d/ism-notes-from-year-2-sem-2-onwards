@@ -370,7 +370,7 @@ The incident should be returned to the Service Desk for closure action
 
 ### Incident Closure  
 
-
+![[Pasted image 20231021165756.png]]
 
 
 ## Process Interfaces
