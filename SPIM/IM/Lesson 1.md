@@ -43,4 +43,6 @@ Workaround (Method of bypassing an Incident or Problem, a temporary fix)
 
 ## Incident Lifecycle  
 
+Status codes to indicate where incidents are in relation to their lifecycle/status  
 
+4 
