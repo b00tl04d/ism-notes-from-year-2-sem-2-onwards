@@ -10,7 +10,6 @@
 * [Standard Incident Models](#standard-incident-models)  
 * [Process Workflow](#process-workflow)  
 * [Process Interfaces](#process-interfaces)  
-* [Information Management](#information-management)  
 * [Challenges](#challenges)  
 * [Risks](#risks)  
 * [Critical success factors (CSF) & Key Performance Indicators (KPI)](#critical-success-factors-csf--key-performance-indicators-kpi)  
