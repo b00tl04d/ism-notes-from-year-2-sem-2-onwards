@@ -238,14 +238,18 @@ Incident is logged -> <b>Resolution time count starts</b>
 
 Categorization indicates the <b>type of incident</b> being logged  
 
-Category is often related to team that will handle the incident from the Service Desk 
+Category is often related to team that will handle the incident from the Service Desk  
 
-Categories are often multi-level
-For Example: 
-- Hardware – Server – Memory Board – CardFailure
+Categories are often multi-level  
+For Example:  
+- Hardware – Server – Memory Board – Card Failure  
 - Software – Application – Finance Suite – Purchase Order System 
 
-It's useful if incident and problem categories are alike
+It's useful if incident and problem categories are alike  
+
+<br>
+
+###
 
 
 ## Process Interfaces
