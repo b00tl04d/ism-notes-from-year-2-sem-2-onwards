@@ -60,4 +60,40 @@ Incident management is the process responsible for managing the lifecycle of all
 
 ## Purpose and Objectives  
 
+Purpose  
+* <b>Restore normal service operations as quickly as possible</b>  
+* Minimize the adverse impact on business  
+* Ensuring best possible levels of service quality and availability are maintained according to SLA's (Service Level Agreements or Terms and Conditions)  
+
+<br>
+
+Objectives  
+* Standardized methods and procedures  
+* Increased visibility and better communication  
+* Priorities aligned with business  
+* User satisfaction with the quality of IT services  
+
+<br>
+
+
+## Value to business  
+
+* Reducing service downtime  
+* Reducing Incident impact to business  
+* Aligning IT to business priority  
+* Identify possible improvements to service  
+* Identification of additional requirements (e.g. training, new service) as a result of handling multiple incidents  
+
+<br>
+
+Note: Value of IM is highly visible to the business. For this reason, IM is often one of the first processes to be implemented in Service Management projects  
+
+<br>
+
+
+## Incident Priority  
+
+* Assigned, to ensure that the support groups will pay the required attention to the incident  
+* Based on the Urgency and Impact  
+
 
