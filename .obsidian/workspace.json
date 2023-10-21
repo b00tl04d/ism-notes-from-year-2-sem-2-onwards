@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/DSAL/README.md",
+                "file": "Electives/DSAL/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Others/DSAL/README.md",
+                "file": "Electives/DSAL/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/DSAL/README.md",
+                "file": "Electives/DSAL/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/DSAL/README.md",
+                "file": "Electives/DSAL/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/DSAL/README.md"
+                "file": "Electives/DSAL/README.md"
               }
             }
           }
@@ -168,11 +168,13 @@
   },
   "active": "fc33a66b264139ed",
   "lastOpenFiles": [
+    "SPIM/IM/Lesson 1.md",
+    "Electives/DSAL/README.md",
+    "SPIM/IM",
     "README.md",
-    "Others/DSAL/README.md",
     "Others/Week 1.md",
-    "Others/DSAL",
-    "Others",
+    "Electives/DSAL",
+    "Electives",
     "MRE",
     "SPIM",
     "DFI"
