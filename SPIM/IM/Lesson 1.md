@@ -171,4 +171,7 @@ Possible reasons
 
 ## Standard Incident models  
 
-Designed and implemented for handling standard (reoccuring) incidents more efficiently
+Designed and implemented for handling standard (reoccurring) incidents more efficiently  
+
+An Incident Model should including the following:
+* 
