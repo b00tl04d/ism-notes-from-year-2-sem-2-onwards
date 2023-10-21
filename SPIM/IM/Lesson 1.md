@@ -164,4 +164,6 @@ Possible reasons
 
 <b>Functional Escalation</b> means involving more specialist personnel or access privileges to solve the incident. Departmental boundaries may be exceeded  
 
+![image](../images/Pasted%20image%2020231021154001.png)  
+
 
