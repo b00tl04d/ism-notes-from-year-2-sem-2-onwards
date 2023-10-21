@@ -356,7 +356,19 @@ As much actions as possible should be performed in parallel to save time
 
 ### Resolution and Recovery  
 
-![[Pasted image 20231021165544.png]]  
+![image](../images/Pasted%20image%2020231021165544.png)  
+
+When the resolution has been identified it should be applied and tested  
+
+If satisfactory, a time / date stamp is recorded as this is the end of downtime  
+
+The incident record must be updated with the details of actions taken  
+
+The incident should be returned to the Service Desk for closure action  
+
+<br>
+
+### Incident Closure  
 
 
 
