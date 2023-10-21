@@ -290,6 +290,8 @@ Service Desk Analyst will determine with the user
 * Full symptoms (what has gone wrong)  
 * How to correct it?
 
+<br>
+
 (Correcting methods) using
 * Diagnostic scripts  
 * Known Error information  
@@ -302,7 +304,7 @@ If the incident is resolved -> it will be closed (after informing the user)
 
 ![image](../images/Pasted%20image%2020231021164339.png)  
 
-If the incident is not resolved -> it will be escalated (and informed to the user)  
+If the incident is NOT resolved -> it will be escalated (and informed to the user)  
 
 <b>Functional Escalation</b> (to the next level of support) occurs when
 * Current level of support <b>can't resolve the incident</b>
