@@ -335,6 +335,8 @@ May also be initiated by the customer/user if they see it necessary
 
 ### Investigation & Diagnosis  
 
+![image](../images/Pasted%20image%2020231021165339.png)  
+
 
 
 
