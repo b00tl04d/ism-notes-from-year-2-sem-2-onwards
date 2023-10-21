@@ -426,5 +426,16 @@ Service Catalogue Management
 
 <br>
 
+Capacity Management  
+* IM may trigger monitoring of a system or service performed by Capacity Management  
+* Workarounds used by Incident Management can come from Capacity Management  
+
+<br>
+
+Availability Management  
+* Incident data is important in determining availability  
+
+<br>
 
 
+## Challenges
