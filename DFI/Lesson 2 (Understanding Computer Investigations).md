@@ -129,3 +129,176 @@ As an investigator, you need to develop formal procedures and informal checklist
 <br>
 
 
+## Example #1: Employee Termination Cases  
+
+The majority of investigative work for termination cases involves employee abuse of corporate assets  
+
+<br>
+
+Incidents that create a hostile work environment are the predominant types of cases investigated  
+* Viewing pornography in the workplace  
+* Sending inappropriate e-mails  
+
+<br>
+
+Organizations must have appropriate policies in place - <b>consult HR department</b>  
+
+<br>
+
+
+## Example #2: Internet Abuse Investigations  
+
+To conduct an investigation you need:
+* Organization's <b>Internet proxy server logs</b>  
+* Suspect computer's <b>IP address</b>  
+* Suspect computer's disk drive  
+* Your preferred computer forensics analysis tool  
+
+<br>
+
+Recommended steps
+* Use standard forensic analysis techniques and procedures  
+* Use appropriate tools to extract all Web page URL info  
+* Contact the network firewall admin and request a proxy server log  
+* Compare the data recovered from forensic analysis to the proxy server log  
+* Continue analysing the computer's disk drive data  
+
+<br>
+
+
+## Example #3: E-mail Abuse Investigations  
+
+To conduct an investigation you need:
+* An electronic copy of the offending e-mail that contains message header data  
+* If available, e-mail server log records  
+* For e-mail systems that store user's messages on a central server, access to the server  
+* Access to the computer so that you can perform a forensic analysis on it  
+* Your preferred computer forensics analysis tool  
+
+<br>
+
+Recommended steps:  
+* Use the standard forensic analysis techniques  
+* Obtain an electronic copy of the suspect's and victim's e-mail folder or data  
+* For Web-based e-mail investigations, use tools such as FTK's Internet Keyword Search option to extract all related e-mail address information  
+* Examine header data of all messages of interest to the investigation  
+
+<br>
+
+
+## Example #4: Industrial Espionage Investigations  
+
+All suspected <b>industrial espionage cases</b> should be treated as criminal investigations: <b>Very common</b>  
+
+<br>
+
+<b>Staff needed</b> include:
+* <b>Computing investigator</b> who is responsible for disk forensic examinations  
+* <b>Technology specialist</b> who is knowledgeable of the suspected compromised technical data  
+* <b>Network specialist</b> who can perform log analysis and set up network sniffers  
+* <b>Threat assessment specialist</b> (typically an attorney)  
+
+<br>
+
+<b>Guidelines</b> when initiating an investigation  
+1. Determine whether this investigation involves a possible industrial espionage incident  
+2. Consult with corporate attorneys and upper management  
+3. Determine what info is needed to substantiate the allegation  
+4. Generate a list of keywords for disk forensics and sniffer monitoring  
+5. List and collect resources for the investigation  
+6. Determine goal and scope of the investigation  
+7. Initiate investigation after approval from management  
+
+<br>
+
+<b>Planning</b> considerations  
+1. Examine all e-mail of suspected employees  
+2. Search Internet newsgroups or message boards  
+3. Initiate physical surveillance  
+4. Examine facility physical access logs for sensitive areas  
+5. Determine suspect location in relation to the vulnerable asset  
+6. Study the suspect's work habits  
+7. Collect all incoming and outgoing phone logs  
+
+<br>
+
+<b>Steps to conducting an industrial espionage case</b>  
+1. Gather all personnel assigned to the investigation and brief them on the plan  
+2. Gather resources to conduct the investigation  
+3. Place surveillance systems at key locations  
+4. Discreetly gather any additional evidence  
+5. Collect all log data form networks and e-mail servers  
+6. Report regularly to management and corporate attorneys  
+7. Review the investigation's scope with management and corporate attorneys  
+
+<br>
+
+
+## Interviews and Interrogations in High-Tech Investigations  
+
+Becoming a skilled <b>interviewer and interrogator</b> can take many years of experience  
+
+<br>
+
+Definitions  
+* <b>Interview</b>, Usually conducted to collect info from a witness or suspect (About specific facts related to an investigation)  
+* <b>Interrogation</b>, Process of trying to get a suspect to confess  
+
+<br>
+
+Role as a computing investigator  
+* To instruct the investigator, who is conducting the interview on what questions to ask an what the answers should be  
+
+<br>
+
+Ingredients for a successful interview or interrogation  
+* Being patient throughout the session  
+* Repeating or rephrasing questions to zero in on specific facts from a reluctant witness or suspect  
+* Being tenacious  
+
+<br>
+
+
+## Understanding <b>Data Recovery Workstations</b> and <b>Software</b>  
+
+Investigations are conducted on a computer forensics lab (or data-recovery lab)  
+* In data recovery, the customer or your company just wants the data back  
+
+<br>
+
+<b>Computer forensics workstation</b>
+* A specifically configured PC  
+* Loaded with additional bays and forensics software  
+
+<br>
+
+To avoid altering the evidence use:  
+* <b>Write-blockers devices</b> enable you to boot to Windows without writing data to the evidence drive  
+
+<br>
+
+
+## Setting Up Your Workstation for Digital Forensics  
+
+Basic requirements  
+1. A workstation running Windows XP or later  
+2. A write-blocker device: <b>prevents writes to storage devices</b>  
+3. Digital forensics <b>acquisition tool</b>  
+4. Digital forensics <b>analysis tool</b>  
+5. Target drive to receive the source or suspect disk data  
+6. Spare PATA (<b>parallel</b>) or SATA (<b>Serial</b>) ports  
+7. USB ports  
+
+<br>
+
+Additional useful items  
+1. Network interface card (NIC)  
+2. Extra USB ports  
+3. FireWire (<b>IEEE 1394</b>) 400/800 ports  
+4. SCSI card  
+5. Disk editor tool  
+6. Text editor tool  
+7. Graphics viewer program  
+8. Other specialized viewing tools  
+
+
