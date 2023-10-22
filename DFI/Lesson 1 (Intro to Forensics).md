@@ -11,6 +11,8 @@ Explain the importance of maintaining professional conduct
 # Navigation
 
 * [Overview of Digital Forensics](#overview-of-digital-forensics)  
+* [Case Law](#case-law)  
+* 
 
 
 <br>
@@ -36,5 +38,27 @@ The <b>Fourth Amendment</b> to the U.S. Constitution protects everyone's right t
 Separate <b>search warrants</b> might not be necessary for digital evidence although "Fourth amendment particularly describe ... the things to be seized"  
 
 Investigator is in position to observe the evidence and its incriminating character is apparent  
+
+<br>
+
+
+## Case Law  
+
+Existing laws can't keep up with the rate of technological change  
+
+When statues (a written law passed by a legislative body) don't exist, case law is used  
+- Allows legal counsel to apply <b>previous similar cases</b> to current one in an effort to address ambiguity in laws  
+
+Examiners must be familiar with recent court rulings on search and seizure in the electronic environment  
+
+<br>
+
+
+## Developing Digital Forensics Resources  
+
+To <b>supplement</b> your knowledge:  
+* Develop and maintain contact with computing, network, and investigative professionals  
+* Join computer user groups in both the public and private sectors, for example: <b>Computer Technology Investigators Network (CTIN)</b> meets to discuss problems that digital forensics examiners encounter  
+
 
 
