@@ -450,4 +450,4 @@ A bit-stream copy is a bit-by-bit duplicate of the original disk
 
 Always maintain a journal to keep notes on exactly what you did - We always forget!  
 
-You should always critique your own work – review is always necessary!
+You should always <b>critique</b> your own work – review is always necessary!
