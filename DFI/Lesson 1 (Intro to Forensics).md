@@ -263,4 +263,8 @@ In general, steps for problem solving include:
 
 ## Summary  
 
+Digital forensics involves systematically accumulating and analyzing digital information for use as evidence in civil, criminal, and administrative cases  
 
+Investigators need specialized workstations to examine digital evidence  
+
+Public-sector and private-sector investigations differ; public-sector typically require search warrants before seizing digital evidence  
