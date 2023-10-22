@@ -441,3 +441,11 @@ Both criminal cases and corporate-policy violations can go to court
 Plan for <b>contingencies</b> for any problems you might encounter  
 
 Keep track of the chain of custody of your evidence  
+
+Internet abuse investigations require examining server log data  
+
+For attorney-client privilege cases, all written communication should remain confidential  
+
+A bit-stream copy is a bit-by-bit duplicate of the original disk  
+
+Always maintain a journal to keep notes on exactly what you did - We always forget! • You should always critique your own work – review is always necessary!
