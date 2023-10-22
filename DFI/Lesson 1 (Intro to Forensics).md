@@ -127,4 +127,14 @@ Private-sector investigations involve private companies and lawyers who address 
 
 <br>
 
-Businesses strive to minimize or eliminate litigation
+Businesses strive to minimize or eliminate litigation  
+
+<br>
+
+Private-sector crime can involve:
+* E-mail harassment, falsification of data, gender and age discrimination, embezzlement, sabotage, and industrial espionage  
+
+<br>
+
+
+
