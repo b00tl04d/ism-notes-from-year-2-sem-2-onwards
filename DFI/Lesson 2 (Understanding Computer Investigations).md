@@ -434,4 +434,10 @@ Public-sector and private-sector investigations differ; public-sector typically 
 
 Always use a <b>systematic approach</b> to your investigations  
 
+Always <b>plan</b> a <b>case</b> taking into account the <b>nature of the case, case requirements, and gathering evidence techniques</b>  
 
+Both criminal cases and corporate-policy violations can go to court  
+
+Plan for <b>contingencies</b> for any problems you might encounter  
+
+Keep track of the chain of custody of your evidence
