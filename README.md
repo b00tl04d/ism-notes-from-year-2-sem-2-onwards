@@ -6,7 +6,7 @@
 
 <br>
 
-## For the 5 remaining core modules in the course  
+## For the 5 remaining core modules in the course (that I am studying for)  
 
 <br>
 
