@@ -23,7 +23,7 @@ Summarize <b>how to conduct an investigation</b> including critiquing a case
 * [Example #4: Industrial Espionage Investigations](#example-4-industrial-espionage-investigations)  
 * [Interviews and Interrogations in High-Tech Investigations](#interviews-and-interrogations-in-high-tech-investigations)  
 * [Understanding Data Recovery Workstations and Software](#understanding-data-recovery-workstations-and-software)  
-* 
+* [Setting Up Your Workstation for Digital Forensics]()  
 
 <br>
 
