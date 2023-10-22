@@ -119,3 +119,13 @@ Consider computer specific temperature and humidity ranges
 <br>
 
 
+## Procedures for Private-Sector High-Tech Investigations  
+
+As an investigator, you need to develop formal procedures and informal checklists  
+* To cover all issues important to high-tech investigations  
+* Ensures that correct techniques are used in an investigation  
+* <b>Different case may have different procedure</b>  
+
+<br>
+
+
