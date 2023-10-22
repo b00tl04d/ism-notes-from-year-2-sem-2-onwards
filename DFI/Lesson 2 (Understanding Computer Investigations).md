@@ -341,4 +341,16 @@ Steps
 ## Understanding <b>Bit-Stream Copies</b>  
 
 <b>Bit-stream copy</b>  
-* Bit-by-bit
+* Bit-by-bit copy of the original storage medium  
+* <b>Exact copy</b> of the original disk  
+* Different from a simple backup copy, backup software only copy known files. <b>Backup software cannot copy deleted files, e-mail messages or recover file fragments</b>  
+
+<br>
+
+<b>Bit-stream image</b>  
+* File containing the bit-stream copy of all data on a disk or partition  
+* Also known as "image" or "image file"  
+
+<br>
+
+C
