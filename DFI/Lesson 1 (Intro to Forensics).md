@@ -167,4 +167,16 @@ During private investigations, you search for evidence to support allegations of
 
 A private-sector investigator's job is to <b>minimize risk to the company</b>  
 
+The distinction between personal and company computer property can be difficult with cell phones, smartphones, personal notebooks, and tablet computers  
+
+<br>
+
+Bring your own device (BYOD) environment  
+* Some companies state that if you connect a personal device to the business network, it falls under the same rules as company property  
+
+<br>
+
+
+## Maintaining Professional Conduct  
+
 
