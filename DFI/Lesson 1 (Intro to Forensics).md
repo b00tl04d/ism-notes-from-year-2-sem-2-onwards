@@ -251,4 +251,16 @@ Misuse includes:
 
 ## Taking a Systematic Approach  
 
-In
+In general, steps for problem solving include:  
+* Make an initial assessment about the type of case you are investigating  
+* Determine a preliminary design or approach to the case  
+* Create a detailed checklist  
+* Determine the resources you need  
+* Obtain and copy and evidence drive  
+
+<br>
+
+
+## Summary  
+
+
