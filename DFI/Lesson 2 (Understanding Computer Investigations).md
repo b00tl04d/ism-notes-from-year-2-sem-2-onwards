@@ -84,4 +84,38 @@ Examples:
 * <b>Evidence recovered</b> by - the name of the investigator who recovered the evidence. The chain of custody starts with this info. The person placing his or her name on this line is responsible for preserving, transporting, and securing the evidence.  
 * <b>Date and time</b> - The date and time the evidence was taken into custody  
 
+<br>
+
+
+## Securing Your Evidence  
+
+Use <b>evidence bags</b> to secure and catalogue the evidence  
+
+<br>
+
+Use computer safe products when collecting computer evidence  
+* Antistatic bags
+* Antistatic pads  
+
+<br>
+
+Use well padded containers  
+
+<br>
+
+Use <b>evidence tape</b> to seal all openings  
+* CD drive bays  
+* Insertion slots for power supply electrical cords and USB cables  
+
+<br>
+
+<b>Write your initials on tape</b> to prove that evidence has not been tampered with  
+
+<br>
+
+Consider computer specific temperature and humidity ranges  
+* Make sure you have a safe environment for transporting and storing it until a secure evidence container is available  
+
+<br>
+
 
