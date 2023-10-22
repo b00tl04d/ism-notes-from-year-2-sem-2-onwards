@@ -431,3 +431,7 @@ Digital forensics involves <b>systematically accumulating and analyzing digital 
 Investigators need specialized workstations to examine digital evidence (<b>must always have the right tools!!</b>)  
 
 Public-sector and private-sector investigations differ; public-sector typically require search warrants before seizing digital evidence  
+
+Always use a <b>systematic approach</b> to your investigations  
+
+
