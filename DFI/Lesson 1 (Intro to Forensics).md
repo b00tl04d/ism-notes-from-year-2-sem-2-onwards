@@ -16,7 +16,8 @@ Explain the importance of maintaining professional conduct
 * [Following Legal Processes](#following-legal-processes)  
 * [Understanding Private-Sector Investigations](#understanding-private-sector-investigations)  
 * [Maintaining Professional Conduct](#maintaining-professional-conduct)  
-* [Preparing a Digital Forensics Investigation]  
+* [Preparing a Digital Forensics Investigation](#preparing-a-digital-forensics-investigation)  
+* [Overview of a Computer Crime](#overview-of-a-computer-crime)  
 
 
 <br>
