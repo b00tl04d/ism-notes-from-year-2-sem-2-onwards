@@ -13,6 +13,7 @@ Explain the importance of maintaining professional conduct
 * [Overview of Digital Forensics](#overview-of-digital-forensics)  
 * [Case Law](#case-law)  
 * [Preparing for Digital Investigations](#preparing-for-digital-investigations)  
+* [Following Legal Processes](#following-legal-processes)  
 
 
 <br>
@@ -70,5 +71,28 @@ Digital investigations fall into 2 categories:
 * Public-sector investigations  
 * Private-sector investigations  
 
+<br>
+
+<b>Public-sector investigations</b> involve government agencies responsible for criminal investigations and prosecution  
+
+Be familiar with "Fourth Amendment" to the U.S. Constitution - Restrict government <b>search and seizure</b>  
+
+The Department of Justice (DOJ) updates info on computer search and seizure regularly  
+* Private-sector investigations focus more on company policy violations  
+
+<br>
 
 
+## Following Legal Processes  
+
+A criminal investigation usually begins when someone finds evidence of or witnesses a crime  
+* Witness or victim makes an <b>allegation</b> to the police  
+
+<br>
+
+Police interview the complainant and writes a report about the crime  
+
+<br>
+
+Report is processed and management decides to start an investigation or log the info in a police blotter
+* <b>Blotter</b> is a historical database of previous crimes
