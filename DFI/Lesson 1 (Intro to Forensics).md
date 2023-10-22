@@ -23,4 +23,10 @@ Application of <b>computer science</b> and <b>investigative procedures</b> for a
 
 <br>
 
-The 
+The Federal Rules of Evidence (FRE) was created to ensure consistency in federal proceedings  
+
+FBI Computer Analysis and Response Team (CART) was formed in 1984 to handle cases involving digital evidence  
+
+By late 1990s, CART teamed up with Department of Defence Computer Forensics Laboratory (DCFL)  
+
+
