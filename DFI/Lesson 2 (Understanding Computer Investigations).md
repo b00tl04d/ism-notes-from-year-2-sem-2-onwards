@@ -353,4 +353,77 @@ Steps
 
 <br>
 
-C
+Copy image file to a target disk that matches the original disk's manufacturer, size and model  
+
+<br>
+
+
+## Acquiring an Image of Evidence Media  
+
+First rule of computer forensics  
+* <b>Preserve the original evidence</b>  
+
+<br>
+
+Conduct your analysis only on a <b>copy</b> of the data  
+
+<br>
+
+Several vendors provide MS-DOS, Linux, and Windows acquisition tools  
+* Windows tools require a write-blocking device when acquiring data from <b>FAT or NTFS</b> file systems  
+
+<br>
+
+
+## Completing the Case  
+
+You need to produce a <b>final report</b>  
+* State what you did and what you found  
+
+<br>
+
+<b>Repeatable findings</b>  
+* Repeat the steps and produce the same results  
+
+<br>
+
+If required, use a report template  
+
+<br>
+
+Report should show conclusive evidence  
+* Suspect did or did not commit a crime or violate a company policy  
+
+<br>
+
+Keep a written journal of everything you do  
+* Your notes can be used in court  
+
+<br>
+
+Answer the six <b>W</b>s:  
+* Who, what, when, where, why, and how  
+
+<br>
+
+You must also explain computer and network processes. (<b>good to identify who is your report reader and write something that is suitable for the reader</b>)  
+
+<br>
+
+
+## <b>Critiquing</b> the Case  
+
+Ask yourself the following questions:  
+1. How could you improve your performance in the case?  
+2. Did you expect the results you found? Did the case develop in ways you did not expect?  
+3. Was the documentation as thorough as it could have been?  
+4. What feedback has been received from the requesting source?  
+5. Did you discover any new problems? If so, what are they?  
+6. Did you use new techniques during the case or during research?  
+
+<br>
+
+
+## Summary  
+
+
