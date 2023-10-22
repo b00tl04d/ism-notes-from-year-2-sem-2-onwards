@@ -216,3 +216,23 @@ Collect evidence that can be <b>offered in court</b> or at a <b>corporate inquir
 
 
 ## Overview of a Computer Crime
+
+Computers can contain info that helps law enforcement determine:  
+* Chain of events leading to a crime  
+* Evidence that can lead to a conviction  
+
+<br>
+
+Law enforcement officers should follow proper procedure when acquiring the evidence  
+* Digital evidence can easily be altered by an overeager investigator  
+
+<br>
+
+A potential challenge: info on hard disks might be password protected so forensic tools may need to be used in investigations  
+
+<br>
+
+
+## An Overview of a Company Policy Violation  
+
+
