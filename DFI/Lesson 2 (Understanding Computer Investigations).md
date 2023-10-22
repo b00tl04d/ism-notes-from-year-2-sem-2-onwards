@@ -16,7 +16,7 @@ Summarize <b>how to conduct an investigation</b> including critiquing a case
 * [Assessing the Case](#assessing-the-case)  
 * [Planning Your Investigation](#planning-your-investigation)  
 * [Securing Your Evidence](#securing-your-evidence)  
-* 
+* [Procedures for Private-Sector High-Tech Investigations](#)
 
 <br>
 
