@@ -12,7 +12,8 @@ Summarize <b>how to conduct an investigation</b> including critiquing a case
 
 
 # Navigation  
-
+* [Taking a Systematic Approach](#taking-a-systematic-approach)  
+* 
 
 <br>
 
