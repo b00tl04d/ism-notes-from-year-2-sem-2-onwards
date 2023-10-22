@@ -47,8 +47,12 @@ Investigator is in position to observe the evidence and its incriminating charac
 
 Existing laws can't keep up with the rate of technological change  
 
+<br>
+
 When statues (a written law passed by a legislative body) don't exist, case law is used  
 - Allows legal counsel to apply <b>previous similar cases</b> to current one in an effort to address ambiguity in laws  
+
+<br>
 
 Examiners must be familiar with recent court rulings on search and seizure in the electronic environment  
 
