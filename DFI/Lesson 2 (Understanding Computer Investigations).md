@@ -65,4 +65,23 @@ A basic <b>investigation plan</b> should include the following activities:
 7. Make a <b>forensic copy of the evidence</b>  
 8. Return the evidence to the secure container  
 9. Process the copied evidence with computer forensic tools (i.e Encase)  
-10. 
+
+<br>
+
+An <b>evidence custody form</b> helps you document what has been done with the original evidence and its forensics copies  
+* Also called a <b>chain-of-evidence form</b>  
+
+<br>
+
+2 Types  
+* Single-evidence form, lists each piece of evidence on a separate page  
+* Multi-evidence form  
+
+<br>
+
+Examples:
+* <b>Model number or serial number</b> - List the model number or serial number (if available) of the computer component  
+* <b>Evidence recovered</b> by - the name of the investigator who recovered the evidence. The chain of custody starts with this info. The person placing his or her name on this line is responsible for preserving, transporting, and securing the evidence.  
+* <b>Date and time</b> - The date and time the evidence was taken into custody  
+
+
