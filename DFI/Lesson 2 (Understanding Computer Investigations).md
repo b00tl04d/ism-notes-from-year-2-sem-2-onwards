@@ -426,4 +426,8 @@ Ask yourself the following questions:
 
 ## Summary  
 
+Digital forensics involves <b>systematically accumulating and analyzing digital information for use as evidence in civil, criminal, and administrative cases</b>  
 
+Investigators need specialized workstations to examine digital evidence (<b>must always have the right tools!!</b>)  
+
+Public-sector and private-sector investigations differ; public-sector typically require search warrants before seizing digital evidence  
