@@ -15,6 +15,8 @@ Explain the importance of maintaining professional conduct
 * [Preparing for Digital Investigations](#preparing-for-digital-investigations)  
 * [Following Legal Processes](#following-legal-processes)  
 * [Understanding Private-Sector Investigations](#understanding-private-sector-investigations)  
+* [Maintaining Professional Conduct](#maintaining-professional-conduct)  
+* [Preparing a Digital Forensics Investigation]  
 
 
 <br>
@@ -178,5 +180,22 @@ Bring your own device (BYOD) environment
 
 
 ## Maintaining Professional Conduct  
+
+<b>Professional conduct</b> - includes ethics, morals, and standards of behaviour  
+
+<br>
+
+An investigator must exhibit <b>the highest level of professional behaviour at all times</b>  
+* Maintain objectivity  
+* Maintain credibility by <b>maintaining confidentiality</b>  
+
+<br>
+
+Investigators should also <b>attend training</b> to stay current with the latest technical changes in computer hardware and software, networking, and forensic tools  
+
+<br>
+
+
+## Preparing a Digital Forensics Investigation  
 
 
