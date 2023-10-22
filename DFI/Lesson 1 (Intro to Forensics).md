@@ -202,4 +202,16 @@ The role of digital forensics professional is to <b>gather evidence</b> to prove
 
 <br>
 
-Collect evidence that can be <b>offered in court</b> or at a <b>corporate inquiry</b>
+Collect evidence that can be <b>offered in court</b> or at a <b>corporate inquiry</b>  
+* Investigate the suspect's computer  
+* Preserve the evidence on a different computer  
+
+<br>
+
+<b>Chain of custody</b>  
+* <b>Route</b> the evidence takes from the time you find it until the case is closed or goes to court  
+
+<br>
+
+
+## Overview of a Computer Crime
