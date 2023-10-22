@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 2 (Understanding Computer Investigations).md",
+                "file": "SPIM/IM/Lesson 2.md",
                 "mode": "source",
                 "source": true
               }
@@ -32,7 +32,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 2 (Understanding Computer Investigations).md",
+                "file": "SPIM/IM/Lesson 2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/Lesson 2 (Understanding Computer Investigations).md",
+                "file": "SPIM/IM/Lesson 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DFI/Lesson 2 (Understanding Computer Investigations).md",
+                "file": "SPIM/IM/Lesson 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/Lesson 2 (Understanding Computer Investigations).md"
+                "file": "SPIM/IM/Lesson 2.md"
               }
             }
           }
@@ -168,9 +168,9 @@
   },
   "active": "fc33a66b264139ed",
   "lastOpenFiles": [
+    "DFI/Lesson 2 (Understanding Computer Investigations).md",
     "SPIM/IM/Lesson 1.md",
     "SPIM/IM/Lesson 2.md",
-    "DFI/Lesson 2 (Understanding Computer Investigations).md",
     "DFI/Lesson 1 (Intro to Forensics).md",
     "SPIM/images/Pasted image 20231021165756.png",
     "SPIM/images/Pasted image 20231021165544.png",
