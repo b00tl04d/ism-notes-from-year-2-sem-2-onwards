@@ -198,4 +198,8 @@ Investigators should also <b>attend training</b> to stay current with the latest
 
 ## Preparing a Digital Forensics Investigation  
 
+The role of digital forensics professional is to <b>gather evidence</b> to prove that a suspect <b>committed a crime</b> or <b>violated a company policy</b>  
 
+<br>
+
+Collect evidence that can be <b>offered in court</b> or at a <b>corporate inquiry</b>
