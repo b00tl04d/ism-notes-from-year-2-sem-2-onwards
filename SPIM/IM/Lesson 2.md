@@ -99,4 +99,52 @@ Assessing the risk to business processes
 
 Escalating to relevant personnel for further analysis, analyse if it is a targeted attack or an in-the-wild threat (stay silent?)  
 
-<
+<br>
+
+Analysis steps:
+
+* Correlation, identify if the detected activity is a characteristic of an intrusion attempt  
+* Structural Analysis, identify if the detected activity is a characteristic of a known intrusion path  
+* Intrusion Path Analysis, identify if the intended target is vulnerable to the detected activity  
+* Behaviour analysis, identify if the detected ability is permitted by security policy  
+
+<br>
+
+
+## Life Cycle - Containment / Eradication  
+
+Contain the threat  
+
+If it is of a spreading nature, prevent it from spreading further  
+
+Prevent data leakage to the attacker (block communication, disable accounts....)  
+
+Elimination of incident components  
+
+Clean infected machines  
+
+Disable breached accounts  
+
+Evidence should be collected according to procedures that meet all applicable law and regulations  
+
+If the alert is of a known issue, act of predefined knowledge base and decision support  
+
+<br>
+
+
+## Life Cycle - Recovery  
+
+Restore systems to normal operation  
+
+Revert any limitations that were used for isolation (fw)  
+
+Confirm that the systems are functioning normally  
+
+If needed, restoring systems and/or files from clean backups  
+
+<br>
+
+
+## Life Cycle - Post-Incident Activity (AR)  
+
+AR meetings with all involved parties after a major incident
