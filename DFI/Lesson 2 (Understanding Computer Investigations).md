@@ -442,9 +442,9 @@ Plan for <b>contingencies</b> for any problems you might encounter
 
 Keep track of the chain of custody of your evidence  
 
-Internet abuse investigations require examining server log data  
+<b>Internet abuse investigations</b> require examining server log data  
 
-For attorney-client privilege cases, all written communication should remain confidential  
+For <b>attorney-client privilege cases</b>, all written communication should remain confidential  
 
 A bit-stream copy is a bit-by-bit duplicate of the original disk  
 
