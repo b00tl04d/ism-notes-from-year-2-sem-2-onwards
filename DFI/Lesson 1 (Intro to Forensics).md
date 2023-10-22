@@ -12,7 +12,7 @@ Explain the importance of maintaining professional conduct
 
 * [Overview of Digital Forensics](#overview-of-digital-forensics)  
 * [Case Law](#case-law)  
-* 
+* [Preparing for Digital Investigations](#preparing-for-digital-investigations)  
 
 
 <br>
@@ -59,6 +59,16 @@ Examiners must be familiar with recent court rulings on search and seizure in th
 To <b>supplement</b> your knowledge:  
 * Develop and maintain contact with computing, network, and investigative professionals  
 * Join computer user groups in both the public and private sectors, for example: <b>Computer Technology Investigators Network (CTIN)</b> meets to discuss problems that digital forensics examiners encounter  
+* Consult outside experts  
+
+<br>
+
+
+## Preparing for Digital Investigations  
+
+Digital investigations fall into 2 categories:  
+* Public-sector investigations  
+* Private-sector investigations  
 
 
 
