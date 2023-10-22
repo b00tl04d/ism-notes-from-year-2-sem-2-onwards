@@ -148,3 +148,4 @@ If needed, restoring systems and/or files from clean backups
 ## Life Cycle - Post-Incident Activity (AR)  
 
 AR meetings with all involved parties after a major incident
+(note: continue from slide 12)
