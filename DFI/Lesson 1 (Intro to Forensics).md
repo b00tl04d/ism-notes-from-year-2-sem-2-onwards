@@ -14,6 +14,7 @@ Explain the importance of maintaining professional conduct
 * [Case Law](#case-law)  
 * [Preparing for Digital Investigations](#preparing-for-digital-investigations)  
 * [Following Legal Processes](#following-legal-processes)  
+* [Understanding Private-Sector Investigations](#understanding-private-sector-investigations)  
 
 
 <br>
@@ -100,3 +101,30 @@ Police interview the complainant and writes a report about the crime
 
 Report is processed and management decides to start an investigation or log the info in a police blotter
 * <b>Blotter</b> is a historical database of previous crimes
+
+<br>
+
+<b>Digital Evidence First Responder (DEFR)</b>  
+* Arrives on an incident scene, assesses the situation, and takes precaution to acquire and preserve evidence  
+
+<br>
+
+<b>Digital Evidence Specialist (DES)</b>  
+* Has the skill to analyse the data and determine when another specialist should be called in to assist  
+
+<br>
+
+<b>Affidavit</b> - a <b>sworn statement</b> of support of facts about or evidence of a crime  
+* Must include <b>exhibits</b> that support the allegation  
+
+<br>
+
+
+## Understanding Private-Sector Investigations  
+
+Private-sector investigations involve private companies and lawyers who address <b>company policy violations</b> and <b>litigation disputes</b>  
+* Example: wrongful termination  
+
+<br>
+
+Businesses strive to minimize or eliminate litigation
