@@ -323,4 +323,22 @@ Items needed
 
 ## <b>Gathering</b> the Evidence  
 
+Avoid damaging the evidence: <b>Important</b>  
 
+<br>
+
+Steps  
+1. Meet the IT manager to interview him  
+2. Fill out the <b>evidence form</b>, have the IT manager sign  
+3. Place the evidence in a secure container  
+4. Carry the evidence to the computer forensics lab  
+5. Complete the evidence <b>custody form</b>  
+6. Secure evidence by locking the container  
+
+<br>
+
+
+## Understanding <b>Bit-Stream Copies</b>  
+
+<b>Bit-stream copy</b>  
+* Bit-by-bit
