@@ -20,9 +20,15 @@
 
 ### EHD-Part2 (Ethical Hacking and Defences) (Might not even take notes for this)  
 
+<br>
+
 ### SC (Secure Coding) (Might also not take notes for this)  
 
+<br>
+
 ### MRE (Malware Reverse Engineering)  
+
+<br>
 
 ### Electives (No notes for PDS, but maybe some for DSAL)  
 
