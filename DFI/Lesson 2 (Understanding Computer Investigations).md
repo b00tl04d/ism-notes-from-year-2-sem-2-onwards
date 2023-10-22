@@ -301,4 +301,26 @@ Additional useful items
 7. Graphics viewer program  
 8. Other specialized viewing tools  
 
+<br>
+
+
+## <b>Conducting</b> an Investigation  
+
+Gather resources identified in investigation plan  
+
+<br>
+
+Items needed  
+1. Original storage media  
+2. Evidence custody form  
+3. Evidence container for the storage media  
+4. Bit-stream imaging tool  
+5. Forensic workstation to copy and examine your evidence  
+6. Securable evidence locker, cabinet, or safe  
+
+<br>
+
+
+## <b>Gathering</b> the Evidence  
+
 
