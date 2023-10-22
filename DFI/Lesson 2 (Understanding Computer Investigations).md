@@ -22,7 +22,8 @@ Summarize <b>how to conduct an investigation</b> including critiquing a case
 * [Example #3: E-mail Abuse Investigations](#example-3-e-mail-abuse-investigations)  
 * [Example #4: Industrial Espionage Investigations](#example-4-industrial-espionage-investigations)  
 * [Interviews and Interrogations in High-Tech Investigations](#interviews-and-interrogations-in-high-tech-investigations)  
-* [Understanding Data Recovery Workstations and Software]()
+* [Understanding Data Recovery Workstations and Software](#understanding-data-recovery-workstations-and-software)  
+* 
 
 <br>
 
