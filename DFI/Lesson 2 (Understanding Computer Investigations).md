@@ -43,3 +43,26 @@ Systematically <b>outline</b> the <b>case details</b> includes:
 2. Nature of the case: <b>use email for personal matter</b>  
 3. Specifics of the case: <b> detailed information of case</b>  
 4. Type of evidence: <b> USB drive</b>
+5. Known disk format: <b>FAT</b>
+6. Location of evidence: <b>USB recovered from employee's desk</b>  
+
+<br>
+
+Based on these details, the case requirements can be determined  
+
+<br>
+
+
+## Planning Your investigation  
+
+A basic <b>investigation plan</b> should include the following activities:  
+1. Acquire the evidence  
+2. Complete an evidence form and establish a <b>chain of custody (helps show where the file came from, who created it, and the type of equipment that was used)</b>  
+3. Transport the evidence to a computer forensics lab  
+4. Secure evidence in an <b>approved secure container</b>  
+5. Prepare your <b>forensics workstation</b>
+6. Retrieve the evidence from the secure container <b>(5. To ensure info is confidential. Container should be locked, fireproof locker or cabinet that has limited access)</b>  
+7. Make a <b>forensic copy of the evidence</b>  
+8. Return the evidence to the secure container  
+9. Process the copied evidence with computer forensic tools (i.e Encase)  
+10. 
