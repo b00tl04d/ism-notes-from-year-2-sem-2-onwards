@@ -136,5 +136,20 @@ Private-sector crime can involve:
 
 <br>
 
+Businesses can reduce the risk of litigation by publishing and maintaining <b>policies</b> that employees find easy to read and follow  
+
+<br>
+
+Most important <b>policies define rules for using the company's computers and networks</b>
+* Known as an "<b>Acceptable use policy</b>"  
+
+<br>
+
+<b>Line of authority</b> - states who has the legal right to initiate an investigation, who can take possession of evidence, and who can have access to evidence  
+
+<br>
+
+Businesses can avoid litigation by displaying a <b>warning banner</b> on computer screens  
+* Informs end users that the organization reserves the right to inspect computer systems and network traffic at will  
 
 
