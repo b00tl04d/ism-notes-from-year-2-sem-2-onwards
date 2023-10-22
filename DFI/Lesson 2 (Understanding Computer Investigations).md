@@ -19,7 +19,7 @@ Summarize <b>how to conduct an investigation</b> including critiquing a case
 * [Procedures for Private-Sector High-Tech Investigations](#procedures-for-private-sector-high-tech-investigations)  
 * [Example #1: Employee Termination Cases](#example-1-employee-termination-cases)
 * [Example #2: Internet Abuse Investigations](#example-2-internet-abuse-investigations)  
-* 
+* [Example #3: E-mail Abuse Investigations]()
 
 <br>
 
