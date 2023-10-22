@@ -15,6 +15,7 @@ Summarize <b>how to conduct an investigation</b> including critiquing a case
 * [Taking a Systematic Approach](#taking-a-systematic-approach)  
 * [Assessing the Case](#assessing-the-case)  
 * [Planning Your investigation](#planning-your-investigation)  
+* [Securing Your Evidence](#securing-your-evidence)  
 * 
 
 <br>
