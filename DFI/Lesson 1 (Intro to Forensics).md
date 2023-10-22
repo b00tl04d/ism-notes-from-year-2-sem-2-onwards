@@ -152,4 +152,19 @@ Most important <b>policies define rules for using the company's computers and ne
 Businesses can avoid litigation by displaying a <b>warning banner</b> on computer screens  
 * Informs end users that the organization reserves the right to inspect computer systems and network traffic at will  
 
+<br>
+
+During private investigations, you search for evidence to support allegations of violations of a company's rules or an attack on its assets  
+
+<br>
+
+3 types of common situations:
+* Abuse or misuse of computing assets  
+* E-mail abuse  
+* Internet abuse  
+
+<br>
+
+A private-sector investigator's job is to <b>minimize risk to the company</b>  
+
 
