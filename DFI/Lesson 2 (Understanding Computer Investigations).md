@@ -26,6 +26,7 @@ Summarize <b>how to conduct an investigation</b> including critiquing a case
 * [Setting Up Your Workstation for Digital Forensics](#setting-up-your-workstation-for-digital-forensics)  
 * [Conducting an Investigation](#conducting-an-investigation)  
 * [Gathering the Evidence](#gathering-the-evidence)  
+* [Understanding Bit-Stream Copies](#understanding-bit-stream-copies)  
 * 
 
 <br>
