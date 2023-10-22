@@ -448,4 +448,6 @@ For attorney-client privilege cases, all written communication should remain con
 
 A bit-stream copy is a bit-by-bit duplicate of the original disk  
 
-Always maintain a journal to keep notes on exactly what you did - We always forget! • You should always critique your own work – review is always necessary!
+Always maintain a journal to keep notes on exactly what you did - We always forget!  
+
+You should always critique your own work – review is always necessary!
