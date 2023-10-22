@@ -21,5 +21,6 @@ Digital forensics is the
 
 Application of <b>computer science</b> and <b>investigative procedures</b> for a legal purpose involving the analysis of digital evidence after proper search authority, chain of custody, validation with mathematics, use of validated tools, repeatability, reporting, and possible expert presentation  
 
+<br>
 
-
+The 
