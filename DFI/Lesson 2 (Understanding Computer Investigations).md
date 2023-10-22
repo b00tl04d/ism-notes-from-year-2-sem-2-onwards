@@ -14,7 +14,7 @@ Summarize <b>how to conduct an investigation</b> including critiquing a case
 # Navigation  
 * [Taking a Systematic Approach](#taking-a-systematic-approach)  
 * [Assessing the Case](#assessing-the-case)  
-* [Planning Your investigation](#planning-your-investigation)  
+* [Planning Your Investigation](#planning-your-investigation)  
 * [Securing Your Evidence](#securing-your-evidence)  
 * 
 
@@ -57,7 +57,7 @@ Based on these details, the case requirements can be determined
 <br>
 
 
-## Planning Your investigation  
+## Planning Your Investigation  
 
 A basic <b>investigation plan</b> should include the following activities:  
 1. Acquire the evidence  
