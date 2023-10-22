@@ -19,6 +19,8 @@ Explain the importance of maintaining professional conduct
 * [Preparing a Digital Forensics Investigation](#preparing-a-digital-forensics-investigation)  
 * [Overview of a Computer Crime](#overview-of-a-computer-crime)  
 * [An Overview of a Company Policy Violation](#an-overview-of-a-company-policy-violation)  
+* [Taking a Systematic Approach](#taking-a-systematic-approach)  
+* [Summary](#Summary)  
 
 <br>
 
@@ -235,4 +237,18 @@ A potential challenge: info on hard disks might be password protected so forensi
 
 ## An Overview of a Company Policy Violation  
 
+Employees misusing resources can cost companies millions of dollars  
 
+<br>
+
+Misuse includes:  
+* Surfing the Internet  
+* Sending personal e-mails  
+* Using company computers for personal tasks  
+
+<br>
+
+
+## Taking a Systematic Approach  
+
+In
