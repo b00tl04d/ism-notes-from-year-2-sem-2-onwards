@@ -25,6 +25,7 @@ Summarize <b>how to conduct an investigation</b> including critiquing a case
 * [Understanding Data Recovery Workstations and Software](#understanding-data-recovery-workstations-and-software)  
 * [Setting Up Your Workstation for Digital Forensics](#setting-up-your-workstation-for-digital-forensics)  
 * [Conducting an Investigation](#conducting-an-investigation)  
+* [Gathering the Evidence](#gathering-the-evidence)  
 * 
 
 <br>
