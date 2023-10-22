@@ -28,7 +28,9 @@ Summarize <b>how to conduct an investigation</b> including critiquing a case
 * [Gathering the Evidence](#gathering-the-evidence)  
 * [Understanding Bit-Stream Copies](#understanding-bit-stream-copies)  
 * [Acquiring an Image of Evidence Media](#acquiring-an-image-of-evidence-media)  
-* 
+* [Completing the Case](#completing-the-case)  
+* [Critiquing the Case](#critiquing-the-case)  
+* [Summary](#summary)  
 
 <br>
 
