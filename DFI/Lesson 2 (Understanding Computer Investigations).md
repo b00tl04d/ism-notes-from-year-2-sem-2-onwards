@@ -20,7 +20,8 @@ Summarize <b>how to conduct an investigation</b> including critiquing a case
 * [Example #1: Employee Termination Cases](#example-1-employee-termination-cases)
 * [Example #2: Internet Abuse Investigations](#example-2-internet-abuse-investigations)  
 * [Example #3: E-mail Abuse Investigations](#example-3-e-mail-abuse-investigations)  
-* [Example #4: Industrial Espionage Investigations]
+* [Example #4: Industrial Espionage Investigations](#example-4-industrial-espionage-investigations)  
+* 
 
 <br>
 
