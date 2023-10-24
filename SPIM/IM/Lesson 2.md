@@ -155,4 +155,9 @@ AR meetings with all involved parties after a major incident
 
 <br>
 
-Updating the knowledge base with the specific incident
+Updating the knowledge base with the specific incident details for the next time handling  
+
+Recognize security weaknesses and threats  
+
+Identifying and mitigating all vulnerabilities that were exploited  
+
