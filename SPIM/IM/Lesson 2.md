@@ -195,3 +195,8 @@ An entity (whether an individual or an organization) that can process this cycle
 Diagram of the OODA loop (source: https://commons.wikimedia.org/w/index.php?curid=3904554)  
 ![image](../images/Pasted%20image%2020231024172124.png)  
 
+<br>
+
+
+## Conflict in Incident Handling  
+
