@@ -513,3 +513,19 @@ Maintaining Incident Response Skills In House
 * Situations may arise in which the outsourcer is unavailable  
 * E.g. outsourcer is busy handling incidents at other customer's sites  
 
+<br>
+
+
+## Dependencies Within Organisations  
+
+Incident response team relies on the expertise, judgment, and abilities of others, including:  
+* Management  
+* Information Security  
+* Telecommunications  
+* IT support  
+* Legal department  
+* Public affairs and media relations  
+* Human resources  
+* Physical security and facility management  
+* Business continuity planning  
+
