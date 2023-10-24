@@ -453,4 +453,14 @@ Coordinating Team
 <br>
 
 
-## 
+## Factors to be considered when selecting team model  
+
+Employee Morale  
+* Incident response work is very stressful, as are on-call responsibilities of most team members  
+* This combination makes it easy for incident response team members to become overly stressed  
+* Many organisations will also struggle to find willing, available, experienced, and properly skilled people to participate, particularly in 24-hour support  
+
+<br>
+
+Organisational Structures  
+* If an organisation has 3 departments that function <b>independently</b>
