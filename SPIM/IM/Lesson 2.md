@@ -357,3 +357,5 @@ Dealing properly with legal issues that may arise during incidents
 
 ## Information Security Incident Management Framework  
 
+![image](../images/Pasted%20image%2020231024180230.png)  
+
