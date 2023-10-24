@@ -504,4 +504,12 @@ Lack of Correlation
 <br>
 
 Handling Incidents at Multiple Locations  
-* If the outsourcer is offsite, consider where the outsourcer is located, how quickly it can have an incident response team at any facility, and how much this will cost
+* If the outsourcer is offsite, consider where the outsourcer is located, how quickly it can have an incident response team at any facility, and how much this will cost  
+
+<br>
+
+Maintaining Incident Response Skills In House  
+* Organisations that completely outsource incident response should strive to maintain basic incident response skills in-house  
+* Situations may arise in which the outsourcer is unavailable  
+* E.g. outsourcer is busy handling incidents at other customer's sites  
+
