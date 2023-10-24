@@ -149,4 +149,7 @@ If needed, restoring systems and/or files from clean backups
 
 AR meetings with all involved parties after a major incident
 * Chain of events (events and times)  
-* Findings - what 
+* Findings - what actually happened (unauthorized access)  
+* Conclusions - what is the problem that allowed it (open port, weak password...)  
+* Recommendations - what needs to be done (action items. Close ports, stronger password...) / Proactive updates (security policy update, training, new product)  
+
