@@ -101,7 +101,7 @@ Escalating to relevant personnel for further analysis, analyse if it is a target
 
 <br>
 
-Analysis steps:
+Analysis steps:  
 
 * Correlation, identify if the detected activity is a characteristic of an intrusion attempt  
 * Structural Analysis, identify if the detected activity is a characteristic of a known intrusion path  
