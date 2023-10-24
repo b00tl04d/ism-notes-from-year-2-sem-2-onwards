@@ -192,4 +192,4 @@ An entity (whether an individual or an organization) that can process this cycle
 
 <br>
 
-Diagram of the OODA loop  
+Diagram of the OODA loop (source: https://commons.wikimedia.org/w/index.php?curid=3904554)  
