@@ -297,3 +297,10 @@ A SOC also provides for capabilities in incident detection and response
 
 ## Processes in a SOC  
 
+![image](../images/Pasted%20image%2020231024175341.png)  
+
+<br>
+
+
+## Technology - From Raw Logs to Correlated Security Events  
+
