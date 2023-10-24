@@ -287,3 +287,6 @@ A SOC also provides for capabilities in incident detection and response
 
 <br>
 
+
+## People - Typical SOC Staffing  
+
