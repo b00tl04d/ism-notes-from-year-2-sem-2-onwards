@@ -237,4 +237,12 @@ After which, it redirects again to the infected URL "hxxp\[://\]super\[.\]koumas
 <br>
 
 Response Phase (Containment)  
-* Blacklist the malicious URLs: hxxp\[://\]super\[.\]koumas\[.\]net, and hxxp[://]news[.]geltuihameleon[.]info/hellomylittlepiggy/
+* Blacklist the malicious URLs: hxxp\[://\]super\[.\]koumas\[.\]net, and hxxp\[://\]news\[.\]geltuihameleon\[.\]info/hellomylittlepiggy/  
+* Disconnect and isolate the host from the network  
+* Backup  
+
+<br>
+
+Response Phase (Eradication and Recovery)  
+* Format and do a clean reinstallation of the operating system (OS)  
+* Update to the latest version of flash player for all the end hosts  
