@@ -304,3 +304,10 @@ A SOC also provides for capabilities in incident detection and response
 
 ## Technology - From Raw Logs to Correlated Security Events  
 
+![image](../images/Pasted%20image%2020231024175448.png)  
+
+<br>
+
+
+## The Need for An Incident Response Plan  
+
