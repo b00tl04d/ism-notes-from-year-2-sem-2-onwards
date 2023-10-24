@@ -161,3 +161,9 @@ Recognize security weaknesses and threats
 
 Identifying and mitigating all vulnerabilities that were exploited  
 
+<br>
+
+
+## Incident Handling Boundaries  
+
+Department Manager suspects an employee is using the company's official email to lend credibility to himself, so that he can conduct
