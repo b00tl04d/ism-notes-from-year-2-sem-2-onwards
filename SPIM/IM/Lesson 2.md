@@ -269,3 +269,18 @@ Once the malware is installed, the attacker can steal banking credentials and cr
 
 ![image](../images/Pasted%20image%2020231024174924.png)  
 
+<br>
+
+
+## What is a Security Operation Centre?  
+
+Centralised facility that collects info on threats, and protects an organisation's IT systems against attacks:  
+* Internal Threats  
+* External Threats  
+* User Activities  
+* Policy Violation  
+* Systems Availability  
+
+<br>
+
+A SOC also
