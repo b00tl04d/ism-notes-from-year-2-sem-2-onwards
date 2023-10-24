@@ -250,4 +250,8 @@ Response Phase (Eradication and Recovery)
 <br>
 
 
-## Recent Real World Incidents
+## Recent Real World Incidents  
+
+![image](../images/Pasted%20image%2020231024174633.png)  
+
+
