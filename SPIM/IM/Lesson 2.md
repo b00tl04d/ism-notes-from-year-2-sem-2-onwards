@@ -359,3 +359,18 @@ Dealing properly with legal issues that may arise during incidents
 
 ![image](../images/Pasted%20image%2020231024180230.png)  
 
+<br>
+
+
+## Establish an Incident Response Team  
+
+Incident response team personnel  
+
+Incident response team staffing  
+
+Selection of team models  
+
+Outsourcing contractor issues  
+
+Dependencies within organizations  
+
