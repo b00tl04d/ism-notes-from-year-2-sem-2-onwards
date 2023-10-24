@@ -230,4 +230,6 @@ Which causes the first redirect to an encoded URL of "hxxp\[://\]news\[.\]geltui
 
 From the first redirect URL, it goes to the second redirect URL "hxxp\[://\]news\[.\]geltuihameleon\[.\]info/hellomylittlepiggy/search/?keyword=84190"  
 
-After which, it redirects again to the infected URL ""
+After which, it redirects again to the infected URL "hxxp\[://\]super[.]koumas[.]net/boards/viewforum[.]php?f=a87&sid=59_huz5pl0p9v1d4a07t7zyzgp7g7tklnwawie7lofiwwz9xsb3-5txyiettf5k23nn2sqs3_36eujtvflqgx4z3nfl5lgj2q"
+"hxxp[://]super[.]koumas[.]net/to[.]jss?go=nJmE29EALJ&suppose=&game=N1-W&eye=&rule=NvZw&watch=rpLPWf3YFCQXH__XX3XOnL9HnU9vxn"
+"hxxp[://]super[.]koumas[.]net/change[.]wrf?out=&ask=lhOwwlz&drive=&respect=JDTia&literature=spKn&direct=txIdT&however=&close=fjWaE&meeting=kcs8umaaGXwD3xtMwpXeX
