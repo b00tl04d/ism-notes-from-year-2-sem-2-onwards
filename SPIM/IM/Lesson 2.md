@@ -147,7 +147,7 @@ If needed, restoring systems and/or files from clean backups
 
 ## Life Cycle - Post-Incident Activity (AR)  
 
-AR meetings with all involved parties after a major incident
+AR meetings with all involved parties after a major incident  
 * Chain of events (events and times)  
 * Findings - what actually happened (unauthorized access)  
 * Conclusions - what is the problem that allowed it (open port, weak password...)  
