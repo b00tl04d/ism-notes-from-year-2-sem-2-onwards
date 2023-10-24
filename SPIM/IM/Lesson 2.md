@@ -202,3 +202,8 @@ Diagram of the OODA loop (source: https://commons.wikimedia.org/w/index.php?curi
 
 ![image](../images/Pasted%20image%2020231024172207.png)  
 
+<br>
+
+
+## Real Example of Detection, Analysis and Response - Silicon SOC  
+
