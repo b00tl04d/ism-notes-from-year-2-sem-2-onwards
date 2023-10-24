@@ -374,3 +374,37 @@ Outsourcing contractor issues
 
 Dependencies within organizations  
 
+<br>
+
+
+## Incident Response Team Personnel  
+
+Team manager and duty team manager  
+* Regardless of which incident response model an organization chooses, a single employee should be in charge of incident response  
+* In a fully outsourced model, team manager is responsible for overseeing and evaluating the outsourcer's work  
+* In all other models, this responsibility is generally achieved by having a team manager and a deputy team manager who assumes authority in the absence of the team manager  
+
+<br>
+
+Technical lead  
+
+Team members with good technical and communication skills  
+
+<br>
+
+
+## Incident Response Team Staffing  
+
+Employees  
+* The organization performs all of its incident response work, with limited technical and administrative support from contractors  
+
+<br>
+
+Partially Outsourced  
+* The organization outsources portions of its incident response work  
+* The most prevalent arrangement is for the organization to outsource 24/7 monitoring of intrusion detection sensors, firewalls, and other security devices to an offsite managed security services provider  
+* Some organisations perform basic incident response work in-house can call on contractors to assist with handling incidents, particularly those that are more serious or widespread. The services most often performed by the contractors are computer forensics, advanced incident analysis, incident containment and eradication, and vulnerability mitigation  
+
+<br>
+
+
