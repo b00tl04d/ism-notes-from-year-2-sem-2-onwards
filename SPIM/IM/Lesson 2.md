@@ -463,4 +463,9 @@ Employee Morale
 <br>
 
 Organisational Structures  
-* If an organisation has 3 departments that function <b>independently</b>
+* If an organisation has 3 departments that function <b>independently</b>, incident response may be more effective if each department has its own response team  
+* The main organisation can host a centralised incident response entity that facilitates standard practices and communications among the teams  
+
+<br>
+
+
