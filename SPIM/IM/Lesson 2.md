@@ -236,5 +236,5 @@ After which, it redirects again to the infected URL "hxxp\[://\]super\[.\]koumas
 
 <br>
 
-Response Phase:  
-* Containment
+Response Phase (Containment)  
+* Blacklist the malicious URLs: h
