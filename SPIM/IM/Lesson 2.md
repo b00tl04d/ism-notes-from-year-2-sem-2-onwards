@@ -246,3 +246,8 @@ Response Phase (Containment)
 Response Phase (Eradication and Recovery)  
 * Format and do a clean reinstallation of the operating system (OS)  
 * Update to the latest version of flash player for all the end hosts  
+
+<br>
+
+
+## Recent Real World Incidents
