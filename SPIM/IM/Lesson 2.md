@@ -283,4 +283,7 @@ Centralised facility that collects info on threats, and protects an organisation
 
 <br>
 
-A SOC also
+A SOC also provides for capabilities in incident detection and response  
+
+<br>
+
