@@ -166,4 +166,21 @@ Identifying and mitigating all vulnerabilities that were exploited
 
 ## Incident Handling Boundaries  
 
-Department Manager suspects an employee is using the company's official email to lend credibility to himself, so that he can conduct
+Department Manager suspects an employee is using the company's official email to lend credibility to himself, so that he can conduct a profit making businesses  
+
+<br>
+
+Department Manager puts up a request to:  
+* Access a staff member's email  
+* Track a staff members activities  
+* Copy a staff member's hard drive when he is away  
+
+<br>
+
+Should we do that?  
+
+<br>
+
+
+## OODA loop  
+
