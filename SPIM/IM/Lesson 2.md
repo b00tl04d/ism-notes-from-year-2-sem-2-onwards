@@ -311,3 +311,49 @@ A SOC also provides for capabilities in incident detection and response
 
 ## The Need for An Incident Response Plan  
 
+Preventive activities based on the results of risk assessments can lower the number of incidents, <u>but not all incidents can be prevented</u>  
+
+A computer security incident is a violation or <u>imminent threat of violation</u> of computer security policies, acceptable use policies, or standard security practices  
+
+An incident response capability is therefore necessary for <b>rapidly detecting</b> incidents, <b>minimizing loss</b> and destruction, <b>mitigating the weaknesses</b> that were exploited, and <b>restoring business services</b>  
+
+<br>
+
+
+## Incident Management Guidelines  
+
+In order to facilitate an efficient and effective incident response capability, the following actions are recommended:  
+* Defining incident response policy and plan  
+* Procedures planning for incident handling and reporting  
+* Setting guidelines for communicating with internal/external groups regarding incidents  
+* Selecting and staffing an incident response team according to pre-defined structure and staffing model  
+* Determining the services provided by the incident response team  
+* Training plans for the incident response team  
+
+<br>
+
+
+## Why Incident Response?  
+
+Preventative activities based on the results of risk assessments can lower the number of incidents, but not all incidents can be prevented  
+
+An incident response capability is therefore necessary for rapidly <b>detecting incidents</b>, <b>minimizing loss</b> and destruction, mitigating the weaknesses that were exploited, and restoring computing services  
+
+<br>
+
+
+## Need for Incident Response and its Benefits  
+
+Responding to incidents systematically so that the appropriate steps are taken  
+
+Helping personnel to recover quickly and efficiently from security incidents, minimizing loss or theft of information, and disruption of services  
+
+Using information gained during incident handling to better prepare for handling future incidents and to provide stronger protection for systems and data  
+
+Dealing properly with legal issues that may arise during incidents  
+
+<br>
+
+
+## Information Security Incident Management Framework  
+
