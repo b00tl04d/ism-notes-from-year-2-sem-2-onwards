@@ -153,3 +153,6 @@ AR meetings with all involved parties after a major incident
 * Conclusions - what is the problem that allowed it (open port, weak password...)  
 * Recommendations - what needs to be done (action items. Close ports, stronger password...) / Proactive updates (security policy update, training, new product)  
 
+<br>
+
+Updating the knowledge base with the specific incident
