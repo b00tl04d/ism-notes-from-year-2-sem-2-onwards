@@ -503,4 +503,5 @@ Lack of Correlation
 
 <br>
 
-Handling Incident
+Handling Incidents at Multiple Locations  
+* If the outsourcer is offsite, consider where the outsourcer is located, how quickly it can have an incident response team at any facility, and how much this will cost
