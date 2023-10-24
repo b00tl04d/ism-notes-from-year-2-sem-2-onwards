@@ -200,3 +200,5 @@ Diagram of the OODA loop (source: https://commons.wikimedia.org/w/index.php?curi
 
 ## Conflict in Incident Handling  
 
+![image](../images/Pasted%20image%2020231024172207.png)  
+
