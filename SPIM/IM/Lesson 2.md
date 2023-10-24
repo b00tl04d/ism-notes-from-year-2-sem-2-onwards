@@ -486,3 +486,21 @@ Organisational Structures
 <br>
 
 
+## Outsourcing Contractor Issues  
+
+Sensitive Information Revealed to the Contractor  
+
+Current and Future Quality of Work of the contractor  
+
+Division of Responsibilities  
+
+Lack of Organisation-Specific Knowledge  
+
+<br>
+
+Lack of Correlation  
+* If the intrusion detection system records an attempted attack against a Web server, but the outsourcer has no access to the Web logs, it may be unable to determine whether the attack was successful  
+
+<br>
+
+Handling Incident
