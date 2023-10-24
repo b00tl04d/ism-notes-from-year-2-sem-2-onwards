@@ -224,4 +224,6 @@ Analysis: The incident was analysed and the compromised site that was surfed by 
 
 <br>
 
-Further analysis shows that the user is browsing the website "hxxp\[://\]www\[.\]acetraining\[.\]com\[.\]sg/index\[.\]php/course/photoshop-cc-camera-raw/"
+Further analysis shows that the user is browsing the website "hxxp\[://\]www\[.\]acetraining\[.\]com\[.\]sg/index\[.\]php/course/photoshop-cc-camera-raw/"  
+
+Which causes the first redirect to an encoded URL of 
