@@ -435,3 +435,22 @@ An incident database, with detailed info on each incident that occurs, can be an
 
 ## Selection of Team models  
 
+Central Incident Response Team  
+* A single incident response team handles incidents throughout the organisation  
+* This model is effective for small organisations and for large organisations with minimal geographic diversity in terms of computing resources  
+
+<br>
+
+Distributed Incident Response Teams  
+* An organisation has multiple incident response teams, each responsible for handling incidents for a particular logical or physical segment of the organisation  
+* This model is effective for large organisations (e.g. one team per division) and for organisations with major computing resources at distant locations  
+
+<br>
+
+Coordinating Team  
+* An incident response team provides guidance and advice to other teams without having authority over those teams  
+
+<br>
+
+
+## 
