@@ -184,3 +184,12 @@ Should we do that?
 
 ## OODA loop  
 
+Concepts developed by USAF <b>Colonel John Boyd</b> for air-to-air combat, later extended to organizations  
+
+Decision-making occurs in a recurring cycle of <b>observe-orient-decide-act</b>  
+
+An entity (whether an individual or an organization) that can process this cycle quickly, observing and reacting to unfolding events more rapidly than an opponent can thereby "get inside" the opponent's decision cycle and gain the advantage  
+
+<br>
+
+Diagram of the OODA loop  
