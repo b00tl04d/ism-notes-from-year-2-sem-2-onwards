@@ -428,4 +428,7 @@ After a major incident has been handled, the organisation should hold a lessons 
 
 Lessons learned meetings should also be held periodically for lesser incidents. The information accumulated from all lessons learned meetings should be used to identify systemic security weaknesses and deficiencies in policies and procedures  
 
+Follow-up reports generated for each resolved incident can be important not only for evidentiary purposes but also for reference in handling future incidents and in training new incident response team members  
+
+An incident database, with detailed info on each incident that occurs, can be another valuable source of info for incident handlers  
 
