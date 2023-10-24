@@ -254,4 +254,15 @@ Response Phase (Eradication and Recovery)
 
 ![image](../images/Pasted%20image%2020231024174633.png)  
 
+The attacker uses a Microsoft Office document embedded with the Dridex malware, if macros are enabled, the document will try to drop malware and infect the Windows host  
+
+Once the malware is installed, the attacker can steal banking credentials and create fraudulent transactions  
+
+"Word Exploit CVE-2015" were used to embed these malwares and the attachment has no threat detection  
+
+<br>
+
+
+## IR Hierarchy of Capabilities  
+
 
