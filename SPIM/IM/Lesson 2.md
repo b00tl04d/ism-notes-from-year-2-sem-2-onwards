@@ -266,3 +266,4 @@ Once the malware is installed, the attacker can steal banking credentials and cr
 ## IR Hierarchy of Capabilities  
 
 ![image](../images/Pasted%20image%2020231024174837.png)  
+
