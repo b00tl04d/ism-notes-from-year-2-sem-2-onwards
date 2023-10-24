@@ -407,4 +407,25 @@ Partially Outsourced
 
 <br>
 
+Fully Outsourced  
+* The organisation completely outsources its incident response work, typically to an onsite contractor  
+* This model is most likely to be used when the organisation needs a full-time, onsite incident response team but does not have enough available, qualified employees  
+
+<br>
+
+
+## Training  
+
+Regular mock-up incident response exercise  
+
+Walkthrough the incident response policy and procedures  
+
+Attend external training courses  
+
+Drafting new incident response procedures  
+
+After a major incident has been handled, the organisation should hold a lessons learned meeting to review how effective the incident handling process was and identify necessary improvements to existing security controls and practices  
+
+Lessons learned meetings should also be held periodically for lesser incidents. The information accumulated from all lessons learned meetings should be used to identify systemic security weaknesses and deficiencies in policies and procedures  
+
 
