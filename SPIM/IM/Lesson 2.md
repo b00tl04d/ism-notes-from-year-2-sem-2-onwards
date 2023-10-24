@@ -212,7 +212,11 @@ Detection :Silicon SOC received an corelated alert on Exploit.url.MVX – Host I
 
 These behaviours were observed: Suspicious JS Activity, Exploit Code Generic Detection, Evasion Behaviour, Exploit code Activity  
 
-Analysis: The incident was analysed and the compromised site that was surfed by the user is summarised as such 
+Analysis: The incident was analysed and the compromised site that was surfed by the user is summarised as such  
 
-• GET Request: hxxp://super.koumas.net/boards/viewforum.php? f=a87&sid=59_huz5pl0p9v1d4a07t7zyzgp7g7tklnwawie7lofiwwz9xsb3- 5txyiettf5k23nn2sqs3_36eujtvflqgx4z3nfl5lgj2q •Referrer : hxxp://news.geltuihameleon.info/hellomylittlepiggy/search/? keyword=84190 •Malicious Host: hxxp://super.koumas.net
+• GET Request: hxxp://super.koumas.net/boards/viewforum.php? f=a87&sid=59_huz5pl0p9v1d4a07t7zyzgp7g7tklnwawie7lofiwwz9xsb3- 5txyiettf5k23nn2sqs3_36eujtvflqgx4z3nfl5lgj2q  
+
+• Referrer: hxxp://news.geltuihameleon.info/hellomylittlepiggy/search/? keyword=84190  
+
+• Malicious Host: hxxp://super.koumas.net  
 ```
