@@ -455,6 +455,23 @@ Coordinating Team
 
 ## Factors to be considered when selecting team model  
 
+The need for 24/7 Availability  
+* Larger organisations, as well as smaller ones that support critical infrastructures, usually need incident response staff to be available 24/7  
+
+<br>
+
+Full-Time Versus Part-Time Team Members  
+* Organisations with limited funding, staffing, or incident response needs may have only part-time incident response team members  
+* In this case, the incident response team can be thought of as a volunteer fire department  
+
+<br>
+
+Cost  
+
+Staff Expertise  
+
+<br>
+
 Employee Morale  
 * Incident response work is very stressful, as are on-call responsibilities of most team members  
 * This combination makes it easy for incident response team members to become overly stressed  
