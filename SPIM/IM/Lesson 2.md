@@ -226,4 +226,6 @@ Analysis: The incident was analysed and the compromised site that was surfed by 
 
 Further analysis shows that the user is browsing the website "hxxp\[://\]www\[.\]acetraining\[.\]com\[.\]sg/index\[.\]php/course/photoshop-cc-camera-raw/"  
 
-Which causes the first redirect to an encoded URL of "hxxp\[://\]news\[.\]geltuihameleon\[.\]info/hellomylittlepiggy/?tLEYlnzXlL=mOgjKAPr&Xyatnm=fuObOsjP&keyword=269d169903fd859965d8673c54354c75&ARumlXdxCbVUns=sbSfsvHL&TmxBJHkoPDGfcO=suBKPjPgciz&JQkHhCEwi=EYOgToHPvYlPfpeY&pXfiYXbpSuoPlkJRkKQ=LkiqOynEXw&aruMGr=BpkBhIRsugmGyV&muOdlOBZeP=SZGZaHy&aMzXzkZpcsAAueRtE=KgZimbmwemCXpS"
+Which causes the first redirect to an encoded URL of "hxxp\[://\]news\[.\]geltuihameleon\[.\]info/hellomylittlepiggy/?tLEYlnzXlL=mOgjKAPr&Xyatnm=fuObOsjP&keyword=269d169903fd859965d8673c54354c75&ARumlXdxCbVUns=sbSfsvHL&TmxBJHkoPDGfcO=suBKPjPgciz&JQkHhCEwi=EYOgToHPvYlPfpeY&pXfiYXbpSuoPlkJRkKQ=LkiqOynEXw&aruMGr=BpkBhIRsugmGyV&muOdlOBZeP=SZGZaHy&aMzXzkZpcsAAueRtE=KgZimbmwemCXpS" being served to the user  
+
+From the first redirect URL, it goes to the second redirect URL
