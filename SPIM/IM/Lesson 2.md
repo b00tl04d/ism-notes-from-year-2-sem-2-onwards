@@ -207,6 +207,7 @@ Diagram of the OODA loop (source: https://commons.wikimedia.org/w/index.php?curi
 
 ## Real Example of Detection, Analysis and Response - Silicon SOC  
 
+Example  
 ```
 Detection :Silicon SOC received an corelated alert on Exploit.url.MVX – Host IP: 10.67.25.197 Date: 26 Feb 2016 10.22:06 SGT  
 
@@ -220,3 +221,6 @@ Analysis: The incident was analysed and the compromised site that was surfed by 
 
 • Malicious Host: hxxp://super.koumas.net  
 ```
+
+<br>
+
