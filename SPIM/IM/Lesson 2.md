@@ -432,3 +432,6 @@ Follow-up reports generated for each resolved incident can be important not only
 
 An incident database, with detailed info on each incident that occurs, can be another valuable source of info for incident handlers  
 
+
+## Selection of Team models  
+
