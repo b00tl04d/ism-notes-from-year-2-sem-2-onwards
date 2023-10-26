@@ -209,7 +209,7 @@ Diagram of the OODA loop (source: https://commons.wikimedia.org/w/index.php?curi
 
 Example  
 ```
-Detection :Silicon SOC received an corelated alert on Exploit.url.MVX – Host IP: 10.67.25.197 Date: 26 Feb 2016 10.22:06 SGT  
+Detection: Silicon SOC received an corelated alert on Exploit.url.MVX – Host IP: 10.67.25.197 Date: 26 Feb 2016 10.22:06 SGT  
 
 These behaviours were observed: Suspicious JS Activity, Exploit Code Generic Detection, Evasion Behaviour, Exploit code Activity  
 
