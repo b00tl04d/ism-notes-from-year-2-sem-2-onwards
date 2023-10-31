@@ -42,3 +42,42 @@ Basically, the image file can be in 1 of 3 formats
 
 <br>
 
+## Raw Format  
+
+Makes it possible to write bit-stream data to files (Sequence flat file)  
+* In the past we only do bit by bit copy to media same size or bigger to create evidence  
+
+<br>
+
+Advantages  
+* Fast data transfers  
+* Ignores minor data read errors on source drive  
+* Most computer forensics tools can read raw format  
+
+<br>
+
+Disadvantages  
+* Requires as much storage as original disk or data  
+* Tools might not collect marginal (bad) sectors - due to low threshold of retry reads on weak media spots on a drive  
+
+<br>
+
+## Proprietary Formats  
+
+Most forensics tools have their own formats  
+
+<br>
+
+Features offered  
+* Option to compress or not compress image files - save space  
+* Can split an image into smaller segmented files - provide integrity check for split data  
+* Can integrate metadata into the image file  
+
+<br>
+
+Disadvantages  
+* Inability to share an image between different tools/vendors  
+* File size limitation for each segmented volume - typically 650MB, can adjust up or down at a limit of 2GB  
+
+<br>
+
