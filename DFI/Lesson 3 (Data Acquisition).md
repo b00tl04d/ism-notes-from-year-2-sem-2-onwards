@@ -130,4 +130,4 @@ Creating a <b>disk-to-image file</b>
 * Most common method and offers most flexibility  
 * Can make more than 1 copy  
 * Copies are bit-for-bit replications of the original drive  
-* ProDiscover, EnCase, FTK, SMART, Sleuth Kit, X-Ways, 
+* ProDiscover, EnCase, FTK, SMART, Sleuth Kit, X-Ways, iLookIX - Tools that perform disk-to-image file copy. These programs read the disk-to-image file as though it were the original disk  
