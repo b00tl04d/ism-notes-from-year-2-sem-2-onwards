@@ -141,4 +141,4 @@ Creating a <b>disk-to-disk</b>
 
 <br>
 
-<b>Logical acquisition</b> or <b>sparse acquisition</b> (Collect evidence from a large device can take several hours)
+<b>Logical acquisition</b> or <b>sparse acquisition</b> (Collect evidence from a large device can take several hours). Reasons
