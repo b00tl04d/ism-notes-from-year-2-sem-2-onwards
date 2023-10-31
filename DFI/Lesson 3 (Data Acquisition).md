@@ -131,3 +131,8 @@ Creating a <b>disk-to-image file</b>
 * Can make more than 1 copy  
 * Copies are bit-for-bit replications of the original drive  
 * ProDiscover, EnCase, FTK, SMART, Sleuth Kit, X-Ways, iLookIX - Tools that perform disk-to-image file copy. These programs read the disk-to-image file as though it were the original disk  
+
+<br>
+
+Creating a <b>disk-to-disk</b>  
+* 
