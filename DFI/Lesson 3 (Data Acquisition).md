@@ -142,4 +142,7 @@ Creating a <b>disk-to-disk</b>
 <br>
 
 <b>Logical acquisition</b> or <b>sparse acquisition</b> (Collect evidence from a large device can take several hours). Reasons for using these acquisition methods:  
-* Use when your time is limited as <b>Logical acquisition</b> captures only specific files of interest to the case (i.e. only want to invest)
+* Use when your time is limited as <b>Logical acquisition</b> captures only specific files of interest to the case (i.e. only want to investigate outlook email) and <b>Sparse acquisition</b> collects fragments of unallocated (deleted) data  
+* For large disks  
+* For PST or OST mail files, RAID servers (can be up to a several TBytes)  
+
