@@ -137,4 +137,4 @@ Creating a <b>disk-to-image file</b>
 Creating a <b>disk-to-disk</b>  
 * When disk-to-image copy is not possible  
 * Tools can adjust disk's geometry (track, sectors, etc) configuration  
-* EnCase,
+* EnCase, SnapCopy, SafeBack  
