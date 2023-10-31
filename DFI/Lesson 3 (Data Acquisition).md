@@ -85,4 +85,40 @@ The Expert Witness format is unofficial standard - default for Guidance Software
 
 <br>
 
-## Advanced
+## Advanced Forensics Format (AFF)  
+
+Developed by Dr. Simson L. Garfinkel as an open source acquisition format  
+
+<br>
+
+Design goals  
+1. Provide compressed or uncompressed image files  
+2. No size restriction for disk-to-image files  
+3. Provide space in the image file or segmented files for metadata  
+4. Simple design with extensibility  
+5. Open source for multiple platforms and OSes  
+6. Vendors will have no implementation restrictions on this format. Possibly the future standard  
+7. Internal consistency checks for self-authentication  
+
+<br>
+
+File extensions include <b>.afd</b> for segmented image files and <b>.afm</b> for AFF metadata  
+
+AFF is <b>open source</b>  
+
+## Determining the <b>Best Acquisition Method</b>  
+
+Types of acquisitions include <b>Static acquisitions</b> and <b>Live acquisitions</b>  
+
+<br>
+
+4 methods of data collection  
+* Creating a disk-to-image file  
+* Creating a disk-to-disk  
+* Creating a logical disk-to-disk  
+* Creating a sparse data copy of a file or folder  
+
+<br>
+
+<b>Determining the best method depends on the circumstances of the investigation</b>  
+
