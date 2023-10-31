@@ -31,4 +31,14 @@ Forensic Data Acquisition
 
 ## Understanding <b>Storage Formats</b> for Digital Evidence  
 
-Data in a forensics acqu
+Data in a forensics acquisition tool is stored as an <b>image file</b>  
+
+<br>
+
+Basically, the image file can be in 1 of 3 formats  
+1. Raw format  
+2. Proprietary formats  
+3. Advanced Forensics Format (AFF) - Newer  
+
+<br>
+
