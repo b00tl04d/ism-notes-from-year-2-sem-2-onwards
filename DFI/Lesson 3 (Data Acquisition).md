@@ -149,4 +149,4 @@ Creating a <b>disk-to-disk</b>
 <br>
 
 When making a copy, consider:  
-* Size of the source disk
+* Size of the source disk, lo
