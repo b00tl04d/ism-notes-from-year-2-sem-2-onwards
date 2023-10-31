@@ -155,4 +155,6 @@ When making a copy, consider:
 
 <br>
 
-## <b>Contingency Planning</b> for Image Acquisitions
+## <b>Contingency Planning</b> for Image Acquisitions  
+
+Create a duplicate copy of your evidence image file  
