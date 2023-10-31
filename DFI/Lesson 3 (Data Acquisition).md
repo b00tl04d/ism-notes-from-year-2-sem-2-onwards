@@ -81,3 +81,8 @@ Disadvantages
 
 <br>
 
+The Expert Witness format is unofficial standard - default for Guidance Software EnCase (i.e. ex01, e01)  
+
+<br>
+
+## Advanced
