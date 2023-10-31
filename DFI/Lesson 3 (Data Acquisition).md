@@ -149,4 +149,6 @@ Creating a <b>disk-to-disk</b>
 <br>
 
 When making a copy, consider:  
-* Size of the source disk, lo
+* Size of the source disk, lossless compression might be useful (does not permanently remove data, original data can be reconstructed) - Target does not need to be so big. Use digital signatures for verification  
+* When working with large drives, an alternative <b>is using tape backup systems</b> (i.e. SDLT. Can be slow if data is large)  
+* <b>Whether you can retain the disk</b>:
