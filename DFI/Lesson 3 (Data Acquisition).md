@@ -158,3 +158,26 @@ When making a copy, consider:
 ## <b>Contingency Planning</b> for Image Acquisitions  
 
 Create a duplicate copy of your evidence image file  
+* In case of failure but can be time consuming  
+
+<br>
+
+Make <b>at least 2 images</b> of digital evidence  
+* Use different tools (Encase/Prodiscover) or techniques  
+
+<br>
+
+Copy <b>host protected area</b> (<b>HPA</b> - An area not visible for OS on drive) of a disk drive as well  
+* Consider using a hardware acquisition tool that can access the drive at the BIOS level so as to access HPA  
+
+<br>
+
+Be prepared to deal with encrypted drives  
+* <b>Whole disk encryption</b> feature in Windows called <b>BitLocker</b> makes static acquisitions more difficult  
+* May require user to provide decryption key - suspect may not cooperate  
+
+<br>
+
+## Using Acquisition Tools  
+
+Acquisition tools for Windows  
