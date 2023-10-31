@@ -122,3 +122,10 @@ Types of acquisitions include <b>Static acquisitions</b> and <b>Live acquisition
 
 <b>Determining the best method depends on the circumstances of the investigation</b>  
 
+<br>
+
+Creating a <b>disk-to-image file</b>  
+* Most common method and offers most flexibility  
+* Can make more than 1 copy  
+* Copies are bit-for-bit replications of the original drive  
+* ProDiscover, EnCase, FTK, SMART,
