@@ -106,6 +106,8 @@ File extensions include <b>.afd</b> for segmented image files and <b>.afm</b> fo
 
 AFF is <b>open source</b>  
 
+<br>
+
 ## Determining the <b>Best Acquisition Method</b>  
 
 Types of acquisitions include <b>Static acquisitions</b> and <b>Live acquisitions</b>  
