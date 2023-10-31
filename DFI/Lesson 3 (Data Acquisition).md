@@ -146,3 +146,7 @@ Creating a <b>disk-to-disk</b>
 * For large disks  
 * For PST or OST mail files, RAID servers (can be up to a several TBytes)  
 
+<br>
+
+When making a copy, consider:  
+* Size of the source disk
