@@ -141,4 +141,5 @@ Creating a <b>disk-to-disk</b>
 
 <br>
 
-<b>Logical acquisition</b> or <b>sparse acquisition</b> (Collect evidence from a large device can take several hours). Reasons
+<b>Logical acquisition</b> or <b>sparse acquisition</b> (Collect evidence from a large device can take several hours). Reasons for using these acquisition methods are:  
+* Use
