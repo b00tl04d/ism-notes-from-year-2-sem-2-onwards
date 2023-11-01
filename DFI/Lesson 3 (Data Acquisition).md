@@ -232,3 +232,52 @@ Makes disk-to-image copies of evidence drives
 
 Evidence drive must have a hardware write-blocking device  
 * Or run from a Live CD, such as Mini-WinFE  
+
+<br>
+
+FTK Imager can't acquire a drive's Host Protected Area (HPA)  
+
+<br>
+
+Use a write-blocking device and follow these steps  
+* Boot to Windows  
+* Connect evidence disk to a write-blocker  
+* Connect target disk to write-blocker  
+* Start FTK Imager Lite  
+* Create Disk Image - use Physical Drive option  
+
+<br>
+
+## Validating Data Acquisitions  
+
+Validating evidence may be the most critical aspect of PC forensics  
+
+Requires using a <b>hashing algorithm utility</b>  
+
+<br>
+
+Validation techniques  
+* CRC-32, MD5, and SHA-1 to SHA-512  
+
+<br>
+
+## Windows Validation Methods  
+
+Windows has no built-in hashing algorithm tools for PC forensics  
+* 3rd party utilities can be used: hexadecimal editors such as WinHex  
+
+<br>
+
+Commercial PC forensics programs have built-in validation features  
+* Each program has its own validation technique  
+* <b>ProDiscover's .eve files</b> contain <b>metadata</b> in the acquisition file or segmented files, including the hash value for the suspect drive or partition  
+
+<br>
+
+Raw format image files don't contain metadata  
+* Separate manual validation is recommended for all raw acquisitions  
+
+<br>
+
+## Using Remote Network Acquisition Tools  
+
