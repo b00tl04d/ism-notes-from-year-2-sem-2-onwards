@@ -302,3 +302,21 @@ Drawbacks
 
 ## Remote Acquisition Tool  
 
+Other functions may include:  
+1. Capture volatile system state info  
+2. Analyse current running processes on a remote system  
+3. Locate unseen files and processes on a remote system that might be running malware or spyware  
+4. Remotely view and listen to IP ports on a compromised system  
+5. Run hash comparisons on a remote system to search for known Trojans and rootkits  
+6. Create a hash inventory of all files on a system remotely (a negative hash search capability) to establish a baseline if it gets attacked  
+
+<br>
+
+Other commercial acquisition tools  
+* <b>Magnet Axiom</b>  
+* <b>PassMark</b> Software ImageUSB  
+* ASRData SMART  
+* <b>Runtime</b> Software  
+* ILookIX Investigator IXimager  
+* <b>SourceForge Projects Repository</b>  
+
