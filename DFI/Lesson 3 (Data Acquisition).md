@@ -349,3 +349,29 @@ This tool is gaining popularity as it's user base increases
 
 ## <b>Runtime</b> Software  
 
+<b>Runtime Software</b> offers shareware programs for data acquisition and recovery  
+* DiskExplorer for FAT and NTFS  
+
+<br>
+
+Features  
+* Create a raw format image file  
+* Segment the raw format or compressed image for archiving purposes  
+* Access network PC's drives  
+
+<br>
+
+## SourceForge  
+
+<b>SourceForge</b> provides several apps for security, analysis, and investigations  
+* Was the preferred source code repository and distribution platform for free and open source software (FOSS) projects  
+
+<br>
+
+A current list of tools
+* [link](http://sourceforge.net/directory/security-utilities/storage/archiving/os:windows/freshness:recently-updated)  
+
+<br>
+
+## Summary  
+
