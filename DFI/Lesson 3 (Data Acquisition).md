@@ -180,4 +180,55 @@ Be prepared to deal with encrypted drives
 
 ## Using Acquisition Tools  
 
-Acquisition tools for Windows  
+### Acquisition tools for Windows  
+
+Advantages  
+* Make acquiring evidence from a suspect drive more <b>convenient</b>  
+* Many tools developed for Windows platform  
+* Especially when used with hot-swappable devices (i.e. USB, Fireware)  
+
+<br>
+
+Disadvantages  
+* Must protect acquired data with a <b>well-tested write-blocking</b> hardware device  
+* Tools can't acquire data from a disk's host protected area  
+* Some countries haven't accepted the use of write-blocking devices for data acquisitions (Need to check with legal)  
+
+<br>
+
+## Capturing an Image with ProDiscover Basic  
+
+Connecting the suspect's drive to your workstation  
+* Document the chain of evidence for the drive  
+* Remove the drive from the suspect's PC  
+* Configure the suspect drive's jumpers as needed  
+* Connect the suspect's drive to a write-blocker device  
+* Create a storage folder on the target drive  
+
+<br>
+
+Using ProDiscover's Proprietary Acquisition Format  
+* Refer to <b>"Guide to Computer and Forensics And Investigations"</b> for details to start ProDiscover Basic and configure settings for acquisition  
+* ProDiscover creates image files with an <b>.eve</b> extension, a log file (<b>.log</b> extension), and a special inventory file (<b>.pds</b> extension)  
+* If the compression option was selected, ProDiscover uses a <b>.cmp</b> rather than an .eve extension on all segmented volumes  
+
+<br>
+
+## Capturing an Image with AccessData <b>FTK</b> Imager Lite  
+
+### Another New Forensic Tool  
+
+FTK Imager is a Windows data acquisition tool that's included within the AccessData Forensic Toolkit  
+
+Designed for viewing evidence disks and disk-to-image files  
+
+<br>
+
+Makes disk-to-image copies of evidence drives  
+* At logical partition and physical drive level  
+* Can segment the image file  
+
+<br>
+
+Evidence drive must have a hardware write-blocking device  
+* Or run from a Live CD, such as Mini-WinFE  
