@@ -376,4 +376,28 @@ A current list of tools
 ## Summary  
 
 Forensics data acquisitions are stored in three different formats:
-* Raw, proprietary, and AFF • Data acquisition methods – Disk-to-image file – Disk-to-disk copy – Logical disk-to-disk or disk-to-data file – Sparse data copy
+* Raw, proprietary, and AFF  
+
+<br>
+
+Data acquisition methods  
+* Disk-to-image file  
+* Disk-to-disk copy  
+* Logical disk-to-disk or disk-to-data file  
+* Sparse data copy  
+
+<br>
+
+Several tools available  
+* Lossless compression is acceptable  
+
+<br>
+
+Plan your digital evidence contingencies  
+* Make a copy of each acquisition  
+
+<br>
+
+Write-blocking devices or utilities can be used with GUI acquisition tools  
+
+Always validate acquisition  
