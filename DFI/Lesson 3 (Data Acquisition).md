@@ -281,3 +281,22 @@ Raw format image files don't contain metadata
 
 ## Using Remote Network Acquisition Tools  
 
+You can <b>remotely connect</b> to a suspect PC via a network connection and copy data from it  
+
+<br>
+
+Remote acquisition tools vary in configurations and capabilities  
+* i.e. Some require manual intervention on remote suspect PCs to initiate the data copy  
+
+<br>
+
+Many tools such as EnCase, ProDiscover allow remote acquisition  
+
+<br>
+
+Drawbacks  
+* Antivirus, antispyware, and firewall tools can be configured to ignore remote access programs - access could be blocked  
+* Suspects could easily install their own security tools that trigger an alarm to notify them of remote access intrusions  
+
+<br>
+
