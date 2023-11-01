@@ -326,7 +326,7 @@ Other commercial acquisition tools
 
 ## Magnet Axiom  
 
-Like many forensics tools, <b>MA is able to recover digital evidence from most sources, including smartphones, cloud services, PCs, IoT devices and 3rd party images  
+Like many forensics tools, <b>MA is able to recover digital evidence from most sources, including smartphones, cloud services, PCs, IoT devices and 3rd party images</b>  
 
 The examination tool helps forensics professionals find most relevant data and <b>visualize</b> it for better analysis  
 
