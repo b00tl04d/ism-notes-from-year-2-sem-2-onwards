@@ -343,4 +343,9 @@ This tool is gaining popularity as it's user base increases
 <br>
 
 <b>ImageUSB</b> is a free utility  
-* 
+* You can write an image concurrently to multiple USB Flash Drives  
+
+<br>
+
+## <b>Runtime</b> Software  
+
