@@ -18,7 +18,11 @@ List other forensic tools available for data acquisitions
 
 # Navigation  
 * [Data Acquisition Recap...](#data-acquisition-recap)  
-* 
+* [Understanding Storage Formats for Digital Evidence](#understanding-storage-formats-for-digital-evidence)  
+* [Raw Format](#raw-format)  
+* [Proprietary Formats](#proprietary-formats)  
+* [Advanced Forensics Format \(AFF\)](#advanced-forensics-format-aff)  
+* [Determining the Best Acquisition Method](#determining-the-best-acquisition-method)  
 * [Summary](#summary)
 
 <br>
