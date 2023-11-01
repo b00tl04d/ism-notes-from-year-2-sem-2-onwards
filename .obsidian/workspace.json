@@ -6,6 +6,7 @@
       {
         "id": "d8941afcbd702f42",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "fc33a66b264139ed",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 3 (Data Acquisition).md",
+                "file": "SPIM/IM/Lesson 2.md",
                 "mode": "source",
                 "source": true
               }
@@ -25,6 +26,7 @@
       {
         "id": "8948fba3b19ad4dc",
         "type": "tabs",
+        "dimension": 50,
         "children": [
           {
             "id": "49a9f3c1a32f932f",
@@ -32,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 3 (Data Acquisition).md",
+                "file": "SPIM/IM/Lesson 2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/Lesson 3 (Data Acquisition).md",
+                "file": "SPIM/IM/Lesson 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DFI/Lesson 3 (Data Acquisition).md",
+                "file": "SPIM/IM/Lesson 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/Lesson 3 (Data Acquisition).md"
+                "file": "SPIM/IM/Lesson 2.md"
               }
             }
           }
@@ -168,10 +170,11 @@
   },
   "active": "fc33a66b264139ed",
   "lastOpenFiles": [
-    "DFI/Lesson 2 (Understanding Computer Investigations).md",
-    "DFI/Lesson 3 (Data Acquisition).md",
-    "SPIM/IM/Lesson 1.md",
+    "SPIM/images/Pasted image 20231021153015.png",
     "SPIM/IM/Lesson 2.md",
+    "SPIM/IM/Lesson 1.md",
+    "DFI/Lesson 3 (Data Acquisition).md",
+    "DFI/Lesson 2 (Understanding Computer Investigations).md",
     "SPIM/images/Pasted image 20231024180230.png",
     "SPIM/images/Pasted image 20231024175448.png",
     "SPIM/images/Pasted image 20231024175341.png",

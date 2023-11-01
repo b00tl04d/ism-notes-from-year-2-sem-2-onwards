@@ -42,6 +42,7 @@ A <u>precursor</u> is a sign that an incident may occur in the future
 
 An <u>indication</u> is a sign that an incident may have occurred or may be occurring now  
 
+<br>
 
 ## Indications of Incident  
 
