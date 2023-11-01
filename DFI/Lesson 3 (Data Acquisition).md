@@ -322,3 +322,25 @@ Other commercial acquisition tools
 * ILookIX Investigator IXimager  
 * <b>SourceForge Projects Repository</b>  
 
+<br>
+
+## Magnet Axiom  
+
+Like many forensics tools, <b>MA is able to recover digital evidence from most sources, including smartphones, cloud services, PCs, IoT devices and 3rd party images  
+
+The examination tool helps forensics professionals find most relevant data and <b>visualize</b> it for better analysis  
+
+This tool is gaining popularity as it's user base increases
+
+<br>
+
+## <b>PassMark Software</b> ImageUSB  
+
+<b>PassMark Software</b> has an acquisition tool called <b>ImageUSB</b> for its <b>OSForensics analysis</b> product  
+
+<b>ImageUSB</b> downloaded from the OSForensiccs Website  
+
+<br>
+
+<b>ImageUSB</b> is a free utility  
+* 
