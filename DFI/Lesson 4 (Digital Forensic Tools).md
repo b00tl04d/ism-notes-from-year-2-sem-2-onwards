@@ -410,3 +410,51 @@ Computer Forensics Examination Protocol
 * Perform the investigation with a GUI tool  
 * Verify your results with a disk editor  
 * Compare hash values obtained with both tools  
+
+<br>
+
+<b>Digital Forensics Tool Upgrade Protocol</b> - To ensure evidence data will not be corrupted  
+* Test new releases for tools, and test OS patches and upgrades  
+* If a problem is found, report it to the forensics tool vendor and do not use the forensics tool until the problem has been fixed  
+* Use a test hard disk for validation purposes  
+* Check the Web for new editions, updates, patches, and validation tests for your tools  
+
+<br>
+
+## Summary  
+
+Consult business plan to get the best hardware and software  
+
+<br>
+
+PC forensics tools and their functions  
+* Acquisition  
+* Validation and verification  
+* Extraction  
+* Reconstruction  
+* Reporting  
+
+<br>
+
+Maintain a software library on your lab  
+
+<br>
+
+PC Forensics tools types  
+* Software  
+* Hardware  
+
+<br>
+
+Forensics software, GUI
+
+<br>
+
+Forensics hardware  
+* Customized equipment - Make 1 yourself  
+* Commercial options - Buy off the shelf  
+* Include workstations and write-blockers  
+
+<br>
+
+Always run a validation test when upgrading your forensics tools  
