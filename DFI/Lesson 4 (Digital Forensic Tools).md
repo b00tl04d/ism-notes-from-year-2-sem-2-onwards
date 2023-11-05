@@ -65,6 +65,8 @@ Acquisition
 * Making a copy of the original drive  
 * 2 types of data-copying methods used in software acquisitions, Physical copying of entire drive, and Logical copying of disk partition  
 * Formats for disk acquisitions vary from raw data to vendor-specific proprietary  
+* Creating smaller <b>segmented files</b> is a typical feature in vendor acquisition tools - segmented files are smaller and therefore can be be stored in smaller media  
+* Remote acquisition of files is common in larger organisations, popular tools such as AccessData and EnCase can do remote acquisitions of forensics drive images on a network  
 
 <br>
 
@@ -74,3 +76,10 @@ Acquisition subfunctions
 * Data acquisition format - raw data format  
 * GUI acquisition  
 * Remote, live (login), and memory acquisitions  
+
+<br>
+
+You can view the contents of a raw image file with any hexadecimal editor  
+
+<br>
+
