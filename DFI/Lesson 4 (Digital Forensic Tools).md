@@ -19,7 +19,8 @@ Describe methods for validating and testing forensics tools
 * [Forensic Workstations](#forensic-workstations)  
 * [Recommendations for a Forensic Workstation](#recommendations-for-a-forensic-workstation)  
 * [Using a Write-Blocker](#using-a-write-blocker)  
-* 
+* [Validating and Testing Forensic Software](#validating-and-testing-forensic-software)  
+* [Using National Institute of Standards and Technology Tools](#using-national-institute-of-standards-and-technology-tools)  
 * [Using Validation Protocols](#using-validation-protocols)  
 * [Summary](#summary)
 
