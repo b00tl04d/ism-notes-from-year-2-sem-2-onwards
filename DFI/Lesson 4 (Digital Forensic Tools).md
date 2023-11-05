@@ -176,3 +176,28 @@ Considerations
 <br>
 
 Create a software library containing older versions of forensics utilities, OSes, and other programs  
+
+<br>
+
+## GUI Forensics Tools  
+
+GUI forensics tools can simplify digital forensics investigations  
+
+Have also simplified training for beginner examiners  
+
+Most of them are put together as suites of tools  
+
+<br>
+
+Advantages  
+* Ease of use  
+* Multitasking  
+* No need for learning older OSes  
+
+<br>
+
+Disadvantages  
+* Excessive resource requirements - i.e. PC RAM  
+* Produce inconsistent results - Because of the type of OS used. 32 bits OS vs 64 bits OS  
+* Create tool dependencies, investigators may want to use only 1 tool - Refuse to change. Should be familiar with more than 1 type of tool  
+
