@@ -83,3 +83,5 @@ You can view the contents of a raw image file with any hexadecimal editor
 
 <br>
 
+Validation and Verification  
+* Validation is a way to confirm that a tool is functioning as intended 
