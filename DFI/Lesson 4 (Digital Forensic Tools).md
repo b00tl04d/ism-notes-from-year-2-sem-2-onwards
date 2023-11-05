@@ -14,7 +14,9 @@ Describe methods for validating and testing forensics tools
 * [Types of Digital Forensics Tools](#types-of-digital-forensics-tools)  
 * [Tasks Performed by Digital Forensics Tools](#tasks-performed-by-digital-forensics-tools)  
 * [Considerations for Tools](#considerations-for-tools)  
-* [GUI Forensics Tools](#gui-forensics-tools)
+* [GUI Forensics Tools](#gui-forensics-tools)  
+* [Using Validation Protocols](#using-validation-protocols)  
+* [Summary](#summary)
 
 <br>
 
