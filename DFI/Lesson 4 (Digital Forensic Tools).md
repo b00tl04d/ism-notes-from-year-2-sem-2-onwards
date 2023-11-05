@@ -292,4 +292,5 @@ Recommendations when choosing a stationary or lightweight workstation
 * Different sizes of hard drives  
 * 400-watt or better power supply with battery backup  
 * External FireWire and USB 2.0 ports  
-* Assortment of drive adapter bridges
+* Assortment of drive adapter bridges  
+* 
