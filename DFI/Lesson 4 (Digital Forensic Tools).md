@@ -98,3 +98,24 @@ Subfunctions of validation and verification
 * <b>Hashing - ensure that data hasn't been changed</b>, e.g. CRC-32, MD5, SHA-1  
 * <b>Filtering - To separate good files and files that need to be investigated</b>, based on hash value sets  
 * <b>Analysing file headers - To check on change file type</b>, discriminate files based on their types  
+* National Software Reference Library (NSRL) has compiled a list of known file hashes, for a variety of OSes, apps, and images  
+* Many PC forensics programs include a list of common header values, with this info, you can see whether a file extension is incorrect for the file type  
+* Most forensics tools can identify header values  
+
+<br>
+
+Extraction  
+* Recovery task in a digital investigation  
+* <b>Most challenging of all tasks to master!!</b>  
+* Recovering data is the 1st step in analysing an investigation's data  
+* <b>Keyword search</b> speeds up analysis for investigators  
+
+<br>
+
+Subfunctions of extraction  
+* Data viewing - different tools provide different ways of viewing data  
+* Keyword searching - A good function but if wrong key word is used, it may produce "noise"  
+* Decompressing or uncompressing  
+* Carving - Reconstructing fragments of files  
+* Decrypting - Can be a potential problem for investigation  
+* Bookmarking or tagging  
