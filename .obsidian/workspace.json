@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electives/DSAL/Doubly Linked List.md",
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electives/DSAL/Doubly Linked List.md",
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electives/DSAL/Doubly Linked List.md",
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electives/DSAL/Doubly Linked List.md",
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electives/DSAL/Doubly Linked List.md"
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md"
               }
             }
           }
@@ -168,16 +168,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0687dc5c50edddd9",
+  "active": "fc33a66b264139ed",
   "lastOpenFiles": [
+    "DFI/Lesson 3 (Data Acquisition).md",
+    "DFI/Lesson 4 (Digital Forensic Tools).md",
+    "Electives/DSAL/Doubly Linked List.md",
+    "SPIM/IM/Lesson 3.md",
     "Electives/DSAL/images/Pasted image 20231105155913.png",
     "Electives/DSAL/images",
     "Electives/DSAL/images/Pasted image 20231105155358.png",
     "SPIM/IM/Lesson 2.md",
-    "Electives/DSAL/Doubly Linked List.md",
     "SPIM/images/Pasted image 20231021153015.png",
     "SPIM/IM/Lesson 1.md",
-    "DFI/Lesson 3 (Data Acquisition).md",
     "DFI/Lesson 2 (Understanding Computer Investigations).md",
     "SPIM/images/Pasted image 20231024180230.png",
     "SPIM/images/Pasted image 20231024175448.png",
@@ -186,7 +188,6 @@
     "SPIM/images/Pasted image 20231024175154.png",
     "SPIM/images/Pasted image 20231024174924.png",
     "SPIM/images/Pasted image 20231024174837.png",
-    "SPIM/images/Pasted image 20231024174633.png",
     "README.md",
     "DFI/Lesson 1 (Intro to Forensics).md",
     "SPIM/images",
