@@ -293,4 +293,17 @@ Recommendations when choosing a stationary or lightweight workstation
 * 400-watt or better power supply with battery backup  
 * External FireWire and USB 2.0 ports  
 * Assortment of drive adapter bridges  
-* 
+* <b>Ergonomic keyboard</b> and mouse  
+* A good video card with at least a 17-inch monitor  
+* High-end video card and dual monitors  
+
+<br>
+
+If you have a limited budget, 1 option for outfitting your lab is to use high-end game PCs - can perform well with modifications  
+
+<br>
+
+## Using a Write-Blocker  
+
+Write-blocker  
+* Preve
