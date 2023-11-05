@@ -94,3 +94,7 @@ Verification
 
 <br>
 
+Subfunctions of validation and verification  
+* <b>Hashing - ensure that data hasn't been changed</b>, e.g. CRC-32, MD5, SHA-1  
+* <b>Filtering - To separate good files and files that need to be investigated</b>, based on hash value sets  
+* <b>Analysing file headers - To check on change file type</b>, discriminate files based on their types  
