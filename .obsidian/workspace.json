@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/IM/Lesson 2.md",
+                "file": "Electives/DSAL/Doubly Linked List.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/IM/Lesson 2.md",
+                "file": "Electives/DSAL/Doubly Linked List.md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/IM/Lesson 2.md",
+                "file": "Electives/DSAL/Doubly Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/IM/Lesson 2.md",
+                "file": "Electives/DSAL/Doubly Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/IM/Lesson 2.md"
+                "file": "Electives/DSAL/Doubly Linked List.md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "fc33a66b264139ed",
   "lastOpenFiles": [
-    "SPIM/images/Pasted image 20231021153015.png",
     "SPIM/IM/Lesson 2.md",
+    "Electives/DSAL/Doubly Linked List.md",
+    "SPIM/images/Pasted image 20231021153015.png",
     "SPIM/IM/Lesson 1.md",
     "DFI/Lesson 3 (Data Acquisition).md",
     "DFI/Lesson 2 (Understanding Computer Investigations).md",
@@ -184,7 +185,6 @@
     "SPIM/images/Pasted image 20231024174837.png",
     "SPIM/images/Pasted image 20231024174633.png",
     "SPIM/images/Pasted image 20231024172207.png",
-    "SPIM/images/Pasted image 20231024172124.png",
     "README.md",
     "DFI/Lesson 1 (Intro to Forensics).md",
     "SPIM/images",
