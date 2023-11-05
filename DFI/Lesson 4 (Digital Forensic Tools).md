@@ -357,3 +357,15 @@ NIST has created criteria for testing PC forensics tools based on
 
 <br>
 
+Your lab must meet the following criteria for tool testing  
+* Establish categories for digital forensics tools  
+* Identify forensics category requirements  
+* Develop test assertions based on the requirements, create tests to test tool's capability  
+* Identify test cases  
+* Establish a test method  
+* Report test results  
+
+<br>
+
+<b>ISO 5725</b> - specifies results must be repeatable and reproducible  
+
