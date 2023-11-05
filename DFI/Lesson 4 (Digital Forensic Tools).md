@@ -284,3 +284,12 @@ Can mix and match components to get the capabilities you need for your forensic 
 
 Determine where data acquisitions will take place. i.e. acquire data in the field, may want to carry something light  
 
+<br>
+
+Recommendations when choosing a stationary or lightweight workstation  
+* Full tower to allow for expansion devices  
+* As much memory and processor power as budget allows  
+* Different sizes of hard drives  
+* 400-watt or better power supply with battery backup  
+* External FireWire and USB 2.0 ports  
+* Assortment of drive adapter bridges
