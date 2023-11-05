@@ -17,6 +17,9 @@ Describe methods for validating and testing forensics tools
 * [GUI Forensics Tools](#gui-forensics-tools)  
 * [Digital Forensics Hardware Tools](#digital-forensics-hardware-tools)  
 * [Forensic Workstations](#forensic-workstations)  
+* [Recommendations for a Forensic Workstation](#recommendations-for-a-forensic-workstation)  
+* [Using a Write-Blocker](#using-a-write-blocker)  
+* 
 * [Using Validation Protocols](#using-validation-protocols)  
 * [Summary](#summary)
 
