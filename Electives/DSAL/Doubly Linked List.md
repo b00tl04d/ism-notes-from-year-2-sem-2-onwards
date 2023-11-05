@@ -54,5 +54,66 @@ Node  class
 
 Double Linked List Class  
 ```C#
+	// 
+    internal class SeatDoubleLinkedList
+    {
+        // "Always ensure" that this "start" refers to the first node of the list
+        public Node Start { get; set; }
+
+        public SeatDoubleLinkedList()
+        {
+            this.Start = null;
+        }
+
+        public void InsertAtEnd(Seat pSeatData)
+        {
+            Node newNode = new Node(pSeatData);
+
+            if (this.Start == null)
+            {
+                this.Start = newNode;
+                return;
+            }
+
+            Node p = this.Start;
+
+            // Traverse through list till p refers to the last node
+            while (p.Next != null)
+            {
+                p = p.Next;
+            }
+
+            p.Next = newNode;
+            newNode.Prev = p;
+        } // End of InsertAtEnd
+
+        public Seat SearchByRowAndColumn(int pRow, int pColumn)
+        {
+            Node p = this.Start;
+
+            while (p.Next != null)
+            {
+                if ((p.Seat.Column == pColumn) && (p.Seat.Row == pRow))
+                {
+                    // If node referenced by p satisfies
+                    // the search criteria, exit the loop
+                    // p will reference the node which satisfies
+                    // the search criteria before exiting the while loop
+                    break;
+                }
+
+                p = p.Next; // Continue to the next node
+            }
+
+            if (p == null)
+            {
+                return null;
+            }
+            else
+            {
+                return p.Seat;
+            }
+        }
+    }
 
 ```
