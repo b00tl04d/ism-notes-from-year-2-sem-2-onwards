@@ -13,6 +13,7 @@ Uses a "head" and a "tail" to point to the next and previous nodes in the doubly
 <br>
 
 ### Code in C# for a node and doubly linked list  
+Node  class
 ```C#
 	// In this case the node will contain a "Seat" object
     internal class Node
@@ -46,5 +47,12 @@ Uses a "head" and a "tail" to point to the next and previous nodes in the doubly
             set { _prev = value; }
         }
     }
+
+```
+
+<br>
+
+Double Linked List Class  
+```C#
 
 ```
