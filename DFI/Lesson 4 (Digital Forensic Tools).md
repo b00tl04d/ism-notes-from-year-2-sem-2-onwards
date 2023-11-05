@@ -138,3 +138,38 @@ Methods of reconstruction
 * Image-to-partition copy  
 * Rebuilding files from data runs and carving  
 
+<br>
+
+Examples of disk-to-image copy tools  
+* Linux dd command  
+* ProDiscover  
+* Voom Technologies Shadow Drive  
+
+<br>
+
+Reporting  
+* To perform a forensics disk analysis and examination, you need to create a report  
+
+<br>
+
+Subfunctions of reporting  
+* Bookmarks or tagging  
+* Log reports - document investigation steps  
+* Report generator  
+
+<br>
+
+Use this info when producing a final report for an investigation  
+
+<br>
+
+## Considerations for Tools  
+
+Considerations  
+* Flexibility  
+* Reliability  
+* Future expandability  
+
+<br>
+
+Create a software library containing older versions of forensics utilities, OSes, and other programs  
