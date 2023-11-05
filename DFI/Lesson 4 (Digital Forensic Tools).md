@@ -63,6 +63,8 @@ All PC forensics tools, both hardware and software, perform specific functions. 
 
 Acquisition  
 * Making a copy of the original drive  
+* 2 types of data-copying methods used in software acquisitions, Physical copying of entire drive, and Logical copying of disk partition  
+* Formats for disk acquisitions vary from raw data to vendor-specific proprietary  
 
 <br>
 
