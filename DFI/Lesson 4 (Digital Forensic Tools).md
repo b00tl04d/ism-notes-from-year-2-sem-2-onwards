@@ -201,3 +201,86 @@ Disadvantages
 * Produce inconsistent results - Because of the type of OS used. 32 bits OS vs 64 bits OS  
 * Create tool dependencies, investigators may want to use only 1 tool - Refuse to change. Should be familiar with more than 1 type of tool  
 
+<br>
+
+## Digital Forensics <b>Hardware Tools</b>  
+
+Technology changes rapidly  
+
+Hardware eventually fails  
+
+Schedule equipment replacements periodically  
+
+<br>
+
+When planning your budget consider  
+* Amount of time you expect the forensic workstation to be running  
+* Failures - <b>how often does it fail?</b>  
+* Consultant and vendor fees - <b>support the h/w</b>  
+* Anticipate equipment replacement - the more you use the more the equipment will breakdown  
+
+<br>
+
+## Forensic Workstations  
+
+Carefully consider what you need  
+
+<br>
+
+Categories  
+* Stationary workstation  
+* Portable workstation  
+* Lightweight workstation  
+
+<br>
+
+Balance what you need and what your system can handle  
+* Remember that RAM and storage need updating as technology advances  
+
+<br>
+
+Police agency labs  
+* Need many options  
+* Use several PC configurations  - due to diverse investigations  
+
+<br>
+
+Keep a hardware library in addition to your software library  
+
+<br>
+
+Private corporation labs  
+* Handle only system types used in the organisation  
+
+<br>
+
+Building a forensic workstation is not as difficult as it sounds  
+
+<br>
+
+Custom forensic workstation advantages  
+* Customized to your needs  
+* Save money  
+
+<br>
+
+Custom forensic workstation disadvantages  
+* <b>Hard to find support for problems</b>  
+* Can become expensive if careless  
+
+<br>
+
+Also need to identify what you intend to analyse  
+
+<br>
+
+## Recommendations for a Forensic Workstation  
+
+Some vendors offer workstations designed for digital forensics  
+
+Having vendor support can save you time and frustration when you have problems  
+
+Can mix and match components to get the capabilities you need for your forensic workstation  
+
+Determine where data acquisitions will take place. i.e. acquire data in the field, may want to carry something light  
+
