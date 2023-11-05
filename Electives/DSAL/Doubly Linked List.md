@@ -1,1 +1,1 @@
-Idea is t
+Idea is to 
