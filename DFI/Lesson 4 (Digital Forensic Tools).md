@@ -27,3 +27,48 @@ Questions to ask when evaluating tools
 * Can a scripting language be used with the tool to automate repetitive functions?  
 * Does it have automated features?  
 * What is the vendor's reputation for providing support?  
+
+<br>
+
+## Types of Digital Forensics Tools  
+
+Hardware forensics tools  
+* Range from single-purpose components to complete PC systems and servers  
+
+<br>
+
+Software forensic tools  
+* Range from $300 up  
+* 2 Types, CLI and GUI apps  
+* Commonly used to copy data from a suspect's disk drive to an image file  
+
+<br>
+
+## Tasks Performed by Digital Forensics Tools  
+
+Follow guidelines set up by NIST's PC Forensics Tool Testing (CFTT) program  
+
+ISO standard 27037 states: Digital Evidence First Responders (DEFRs) should use validated tools  
+
+<br>
+
+All PC forensics tools, both hardware and software, perform specific functions. These functions can be grouped into 5 major categories  
+* Acquisition  
+* Validation and verification  
+* Extraction  
+* Reconstruction  
+* Reporting  
+
+<br>
+
+Acquisition  
+* Making a copy of the original drive  
+
+<br>
+
+Acquisition subfunctions  
+* Physical data copy  
+* Logical data copy - logical partition  
+* Data acquisition format - raw data format  
+* GUI acquisition  
+* Remote, live (login), and memory acquisitions  
