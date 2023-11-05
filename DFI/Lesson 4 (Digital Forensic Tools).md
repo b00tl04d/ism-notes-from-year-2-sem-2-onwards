@@ -83,6 +83,14 @@ You can view the contents of a raw image file with any hexadecimal editor
 
 <br>
 
-Validation
-* A way to confirm that a tool is functioning as intended  
-* 
+Validation  
+* A way to confirm that a tool is functioning as intended, ensuring the integrity of data being copied  
+
+<br>
+
+Verification  
+* <b>Proves that 2 sets of data are identical</b> by calculating hash values or using similar methods  
+* A related process is filtering, which involves sorting and searching through investigation findings to separate good data and suspicious data  
+
+<br>
+
