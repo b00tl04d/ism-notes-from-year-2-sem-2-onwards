@@ -7,6 +7,12 @@ Uses a "head" and a "tail" to point to the next and previous nodes in the doubly
 
 <br>
 
+### Comparison between array and linked-list from geeksforgeeks  
+
+![image](images/Pasted%20image%2020231105155913.png)  
+
+<br>
+
 ### Image from geeksforgeeks on doubly linked list  
 ![image](images/Pasted%20image%2020231105155358.png)  
 
