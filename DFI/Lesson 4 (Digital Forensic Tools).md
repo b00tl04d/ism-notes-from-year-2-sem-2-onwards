@@ -369,3 +369,43 @@ Your lab must meet the following criteria for tool testing
 
 <b>ISO 5725</b> - specifies results must be repeatable and reproducible  
 
+<br>
+
+NIST created the National Software Reference Library (NSRL) project  
+* Collects all known hash values for commercial software apps and OS files  
+* Uses SHA-1 to generate a known set of digital signatures called the Reference Data Set (RDS)  
+* Helps filtering known info that could help speed up investigation time  
+* Can use RDS to locate and identify known bad files  
+
+<br>
+
+## Using Validation Protocols  
+
+Always verify your results by performing the same tasks with other similar forensics tools  
+
+<br>
+
+<b>Use at least 2 tools</b>  
+* Retrieving and examination  
+* Verification  
+
+<br>
+
+Understand how forensics tools work  
+
+<br>
+
+1 way to compare results and verify a new tool is by using a <b>disk editor</b>, such as Hex Workshop or WinHex  
+* <b>Disk editor</b> can be used to view data on a disk in its raw format  
+
+<br>
+
+<b>Disk editors</b> do not have a flashy interface, however they  
+* Are reliable tools  
+* Can access raw data  
+
+<br>
+
+Computer Forensics Examination Protocol  
+* Perform the investigation with a GUI tool  
+* Verify your results with a disk 
