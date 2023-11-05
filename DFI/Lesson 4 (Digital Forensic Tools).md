@@ -84,4 +84,5 @@ You can view the contents of a raw image file with any hexadecimal editor
 <br>
 
 Validation
-* A way to confirm that a tool is functioning as intended 
+* A way to confirm that a tool is functioning as intended  
+* 
