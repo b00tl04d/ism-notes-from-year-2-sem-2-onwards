@@ -341,4 +341,19 @@ It is important to make sure the <b>evidence</b> you recover and analyse <b>can 
 
 You must <b>test and validate</b> your software to prevent damaging the evidence  
 
+<br>
+
+## Using National Institute of Standards and Technology Tools  
+
+NIST publishes articles, provides tools, and creates procedures for testing/validating forensics software  
+
+Computer Forensics Tool Testing (CFTT) project manages research on PC forensics tools  
+
+<br>
+
+NIST has created criteria for testing PC forensics tools based on  
+* Standard testing methods  
+* ISO 17025 criteria for testing items that have no current standards  
+
+<br>
 
