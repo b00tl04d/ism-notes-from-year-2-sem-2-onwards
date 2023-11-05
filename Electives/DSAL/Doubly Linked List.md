@@ -54,7 +54,6 @@ Node  class
 
 Double Linked List Class  
 ```C#
-	// 
     internal class SeatDoubleLinkedList
     {
         // "Always ensure" that this "start" refers to the first node of the list
