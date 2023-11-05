@@ -12,7 +12,7 @@ Uses a "head" and a "tail" to point to the next and previous nodes in the doubly
 
 <br>
 
-### Code in C# for a node and doubly linked list  
+### Code in C# for a node and doubly linked list in the context of a linked list of seats  
 Node class  
 ```C#
 	// In this case the node will contain a "Seat" object
