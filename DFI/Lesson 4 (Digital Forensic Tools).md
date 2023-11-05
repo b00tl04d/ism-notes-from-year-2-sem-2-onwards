@@ -305,5 +305,40 @@ If you have a limited budget, 1 option for outfitting your lab is to use high-en
 
 ## Using a Write-Blocker  
 
-Write-blocker  
-* Preve
+Write-blocker prevents data writes to a hard disk  
+* A write blocker is any tool that permits read-only access to data storage devices without compromising the integrity of the data  
+
+<br>
+
+Software-enabled blockers  
+* Typically run in a shell mode (Windows CLI)  
+* Example: PDBlock from Digital Intelligence  
+
+<br>
+
+Hardware options  
+* Ideal for GUI forensic tools as they prevent Windows or Linux from writing data to the blocked device  
+* Act as a bridge between the suspect drive and the forensic workstation  
+
+<br>
+
+You can navigate to the blocked drive with any app - no problem accessing the blocked drive's apps after write-blocker is installed  
+
+Discards the written data, for the OS the data copy is successful  
+
+<br>
+
+Connecting technologies  
+* FireWire  
+* USB 2.0 and 3.0  
+* SATA, PATA, and SCSI controllers  
+
+<br>
+
+## Validating and Testing Forensic Software  
+
+It is important to make sure the <b>evidence</b> you recover and analyse <b>can be admitted in court</b>  
+
+You must <b>test and validate</b> your software to prevent damaging the evidence  
+
+
