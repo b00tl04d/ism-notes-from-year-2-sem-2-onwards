@@ -109,6 +109,9 @@ Extraction
 * <b>Most challenging of all tasks to master!!</b>  
 * Recovering data is the 1st step in analysing an investigation's data  
 * <b>Keyword search</b> speeds up analysis for investigators  
+* From an investigation perspective, encrypted files and systems are a problem  
+* Many password recovery tools have a feature for generating <b>potential password lists</b> for a <b>password dictionary attack</b>  
+* If a password dictionary attack fails, you can run a <b>brute-force attack</b>  
 
 <br>
 
@@ -119,3 +122,19 @@ Subfunctions of extraction
 * Carving - Reconstructing fragments of files  
 * Decrypting - Can be a potential problem for investigation  
 * Bookmarking or tagging  
+
+<br>
+
+Reconstruction  
+* Re-create a suspect drive to show what happened during a crime or an incident - Another reason is to create a copy of suspect drive for other investigators  
+* To re-create an image of a suspect drive, copy an image to another location, such as a partition, a physical disk, or a VM. <b>Simplest method is to use a tool that makes a direct disk-to-image copy</b>  
+
+<br>
+
+Methods of reconstruction  
+* Disk-to-disk copy  
+* Partition-to-partition copy  
+* Image-to-disk copy  
+* Image-to-partition copy  
+* Rebuilding files from data runs and carving  
+
