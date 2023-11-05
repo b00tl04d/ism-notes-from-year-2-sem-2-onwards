@@ -408,4 +408,5 @@ Understand how forensics tools work
 
 Computer Forensics Examination Protocol  
 * Perform the investigation with a GUI tool  
-* Verify your results with a disk 
+* Verify your results with a disk editor  
+* Compare hash values obtained with both tools  
