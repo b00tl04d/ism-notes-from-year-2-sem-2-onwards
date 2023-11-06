@@ -108,7 +108,7 @@ Verification
 Subfunctions of validation and verification  
 * <b>Hashing - ensure that data hasn't been changed</b>, e.g. CRC-32, MD5, SHA-1  
 * <b>Filtering - To separate good files and files that need to be investigated</b>, based on hash value sets  
-* <b>Analysing file headers - To check on change file type</b>, discriminate files based on their types ()  
+* <b>Analysing file headers - To check on change file type</b>, discriminate files based on their types  
 * National Software Reference Library (NSRL) has compiled a list of known file hashes, for a variety of OSes, apps, and images  
 * Many PC forensics programs include a list of common header values, with this info, you can see whether a file extension is incorrect for the file type  
 * Most forensics tools can identify header values  
