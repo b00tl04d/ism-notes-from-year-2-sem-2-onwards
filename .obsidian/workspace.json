@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/IM/Lesson 3.md",
+                "file": "SPIM/IM/Lesson 2.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/IM/Lesson 3.md",
+                "file": "SPIM/IM/Lesson 2.md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/IM/Lesson 3.md",
+                "file": "SPIM/IM/Lesson 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/IM/Lesson 3.md",
+                "file": "SPIM/IM/Lesson 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/IM/Lesson 3.md"
+                "file": "SPIM/IM/Lesson 2.md"
               }
             }
           }
@@ -168,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc33a66b264139ed",
+  "active": "0687dc5c50edddd9",
   "lastOpenFiles": [
-    "SPIM/IM/Lesson 2.md",
     "SPIM/IM/Lesson 3.md",
+    "SPIM/IM/Lesson 2.md",
     "DFI/Lesson 4 (Digital Forensic Tools).md",
     "DFI/Lesson 3 (Data Acquisition).md",
     "Electives/DSAL/Doubly Linked List.md",
