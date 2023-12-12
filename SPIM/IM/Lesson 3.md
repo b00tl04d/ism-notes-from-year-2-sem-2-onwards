@@ -1,6 +1,3 @@
-ST2610
-Security Policies and Incident
-Management
 Elephant in the Room
 Value Chain of a IT Business
 Service
