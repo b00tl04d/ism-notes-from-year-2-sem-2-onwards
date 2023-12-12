@@ -8,7 +8,7 @@ information
 • Application, database, network, server  
 • Policy engine to examine the asset profiles and  
 enforce policies  
-52technic
+52Singapore Polytechnic
 
 Security Intelligence as a  
 Solution  
@@ -23,12 +23,12 @@ abnormal activities are highly sought after
 intelligence feeds is a critical differentiator for next  
 generation security platforms  
 - Gartner, April 2015  
-53technic
+53Singapore Polytechnic
 
 Splunk Enterprise  
 Security  
 Product Walkthrough  
-54technic
+54Singapore Polytechnic
 
 Splunk Enterprise Security  
 • A premium application built on top of Splunk  
@@ -40,11 +40,11 @@ security devices, systems, and applications
 and address both ‘known’ and ‘unknown’ threats  
 • Identify issues and allow quick investigation and  
 resolution of the security threats  
-55technic
+55Singapore Polytechnic
 
 Splunk Enterprise Security  
 • Solution Architecture  
-56technic
+56Singapore Polytechnic
 
 Splunk Enterprise Security  
 • Notable Events  
@@ -55,11 +55,11 @@ particular pattern or type of activity.
 followed by a successful authentication  
 • Event information and asset list are combined to further  
 identify important pattern  
-57technic
+57Singapore Polytechnic
 
 Splunk Enterprise Security  
 • Deployment  
-58technic
+58Singapore Polytechnic
 
 Splunk Enterprise Security  
 • Data Feeds  
@@ -73,7 +73,7 @@ Vulnerability management solutions Common Vulnerabilities and Exposures
 (CVE) information  
 Application logs Application specific notification (for  
 Windows for Unix)  
-technic
+Singapore Polytechnic
 
 Summary  
 • Security data characteristics  
