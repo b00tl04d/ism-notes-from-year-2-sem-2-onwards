@@ -1,5 +1,3 @@
-ST2610 Security Policy and
-Incident Management
 Security Data Analytics and Intelligence
 Objectives
 • After completing the sessions, you will be

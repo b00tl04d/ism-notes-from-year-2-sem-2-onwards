@@ -1,6 +1,3 @@
-ST2610
-Security Policies and Incident
-Management
 Cyber Intelligence
 Definition of Threat
 Intelligence From an operational perspective (CPNI): "As with traditional
