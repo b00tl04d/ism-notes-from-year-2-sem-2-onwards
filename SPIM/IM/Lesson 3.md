@@ -783,8 +783,3 @@ secure file, can be reconstructed at some later point
 • Normalization – translate to a well known log
 event format
 • Challenges with time synchronization
-www.sp.edu.sg
-500 Dover Road
-Singapore 139651
-tel. (65) 6775 1133
-fax. (65) 6870 6189
