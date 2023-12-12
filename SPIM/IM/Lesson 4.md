@@ -516,6 +516,7 @@ Summary
 • Different levels of analytic capabilities
 • Enterprise security intelligence concept
 • Security analytics/intelligence product(s)
+
 References
 1. Prepare for the Emergence of Enterprise Security Intelligence, Gartner, Jun 2010
 2. Cool Vendors in Security: Security Intelligence, Gartner, Apr 2015
@@ -532,4 +533,3 @@ Storey, MIS Quarterly Vol 36 No.4, Dec 2012
 11. Analytics Examples, http://www.analytics.northwestern.edu/program-overview/analytics-examples.html,
 Northwestern University
 12. The Fast-Evolving State of Security Analytics, Avivah Litan, Toby Bussa, Eric Ahlm, Gartner, 04 April 2016
-61Singapore Polytechnic
