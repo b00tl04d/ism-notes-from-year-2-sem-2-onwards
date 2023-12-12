@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/IM/Lesson 5.md",
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
                 "mode": "source",
                 "source": true
               }
@@ -34,8 +34,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/IM/Lesson 5.md",
-                "mode": "preview",
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
+                "mode": "source",
                 "source": false
               }
             },
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/IM/Lesson 5.md",
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/IM/Lesson 5.md",
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/IM/Lesson 5.md"
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md"
               }
             }
           }
@@ -170,8 +170,10 @@
   },
   "active": "fc33a66b264139ed",
   "lastOpenFiles": [
-    "SPIM/IM/Lesson 4.md",
+    "DFI/EST Prep.md",
     "SPIM/IM/Lesson 5.md",
+    "SPIM/IM/Lesson 6.md",
+    "SPIM/IM/Lesson 4.md",
     "SPIM/IM/Lesson 3.md",
     "SPIM/IM/Lesson 2.md",
     "README.md",
