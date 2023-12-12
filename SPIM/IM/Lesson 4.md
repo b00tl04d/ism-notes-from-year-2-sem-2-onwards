@@ -57,7 +57,7 @@ Splunk Enterprise Security
 Splunk Enterprise Security  
 • Data Feeds  
 • Security Data  
-59  
+
 Data source Type of data collected  
 Operating systems logs Log files  
 Network device logs Log files  
