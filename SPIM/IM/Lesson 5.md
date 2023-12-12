@@ -882,11 +882,3 @@ Phases of SOAR
 THREE KEY PARTS
 SOAR Capabilities
 THROUGH AN EXAMPLE
-© Copyright 2017
-NETMONASTERY Inc
-www.sp.edu.sg
-Singapore Polytechnic
-500 Dover Road
-Singapore 139651
-tel. (65) 6775 1133
-fax. (65) 6870 6189
