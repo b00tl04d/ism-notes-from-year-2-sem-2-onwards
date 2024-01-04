@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
+                "file": "DFI/Lesson 5 (Evidence Processing).md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
+                "file": "DFI/Lesson 5 (Evidence Processing).md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
+                "file": "DFI/Lesson 5 (Evidence Processing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
+                "file": "DFI/Lesson 5 (Evidence Processing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/Lesson 4 (Digital Forensic Tools).md"
+                "file": "DFI/Lesson 5 (Evidence Processing).md"
               }
             }
           }
@@ -170,12 +170,13 @@
   },
   "active": "fc33a66b264139ed",
   "lastOpenFiles": [
+    "DFI/Lesson 4 (Digital Forensic Tools).md",
+    "DFI/Lesson 5 (Evidence Processing).md",
+    "DFI/EST Prep.md",
     "SPIM/IM/Lesson 3.md",
     "SPIM/IM/Lesson 5.md",
     "SPIM/IM/Lesson 4.md",
-    "DFI/EST Prep.md",
     "SPIM/IM/Lesson 2.md",
-    "DFI/Lesson 4 (Digital Forensic Tools).md",
     "DFI/Lesson 3 (Data Acquisition).md",
     "Electives/DSAL/Doubly Linked List.md",
     "Electives/DSAL/images/Pasted image 20231105155913.png",
