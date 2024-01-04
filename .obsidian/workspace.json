@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/EST Prep.md",
+                "file": "DFI/Lesson 3 (Data Acquisition).md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/EST Prep.md",
+                "file": "DFI/Lesson 3 (Data Acquisition).md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/EST Prep.md",
+                "file": "DFI/Lesson 3 (Data Acquisition).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DFI/EST Prep.md",
+                "file": "DFI/Lesson 3 (Data Acquisition).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/EST Prep.md"
+                "file": "DFI/Lesson 3 (Data Acquisition).md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "fc33a66b264139ed",
   "lastOpenFiles": [
-    "DFI/Lesson 1 (Intro to Forensics).md",
     "DFI/EST Prep.md",
+    "DFI/Lesson 1 (Intro to Forensics).md",
+    "DFI/Lesson 2 (Understanding Computer Investigations).md",
     "An Overview of Steganography__xid-4487525_2.docx",
     "chain-of-custody-evidence-form-template__xid-7525359_2.jpg",
     "DFI/Lesson 5 (Evidence Processing).md",
@@ -187,7 +188,6 @@
     "Electives/DSAL/images/Pasted image 20231105155358.png",
     "SPIM/images/Pasted image 20231021153015.png",
     "SPIM/IM/Lesson 1.md",
-    "DFI/Lesson 2 (Understanding Computer Investigations).md",
     "SPIM/images/Pasted image 20231024180230.png",
     "SPIM/images/Pasted image 20231024175448.png",
     "SPIM/images/Pasted image 20231024175341.png",
