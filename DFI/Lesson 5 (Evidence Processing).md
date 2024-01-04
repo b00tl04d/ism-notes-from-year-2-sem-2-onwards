@@ -18,7 +18,9 @@ Explain the purpose of a virtual machine
 
 # Navigation  
 
-* [Understanding File Systems]
+* [Understanding File Systems](#understanding-file-systems)  
+* [Understanding the Boot Sequence](#understanding-the-boot-sequence)  
+* [Understanding Disk Drives](#understanding-disk-drives)  
 
 <br>
 
