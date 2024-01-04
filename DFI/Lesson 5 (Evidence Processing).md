@@ -41,4 +41,11 @@ Complementary Metal Oxide Semiconductor (CMOS)
 
 <br>
 
-Basic Input/Output System (BIOS) or Extensible Firmware Interface (EFI) 
+Basic Input/Output System (BIOS) or Extensible Firmware Interface (EFI)  
+* Contains programs that perform input and output at the hardware level  
+
+<br>
+
+Bootstrap process  
+* Contained in ROM, tells the PC how to proceed  
+* Displays
