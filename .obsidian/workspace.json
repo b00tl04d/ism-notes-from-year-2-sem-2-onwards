@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/EST Prep.md",
+                "file": "DFI/Lesson 5 (Evidence Processing).md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/EST Prep.md",
+                "file": "DFI/Lesson 5 (Evidence Processing).md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/EST Prep.md",
+                "file": "DFI/Lesson 5 (Evidence Processing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DFI/EST Prep.md",
+                "file": "DFI/Lesson 5 (Evidence Processing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/EST Prep.md"
+                "file": "DFI/Lesson 5 (Evidence Processing).md"
               }
             }
           }
@@ -170,11 +170,11 @@
   },
   "active": "fc33a66b264139ed",
   "lastOpenFiles": [
+    "DFI/EST Prep.md",
     "DFI/Lesson 5 (Evidence Processing).md",
     "DFI/Lesson 4 (Digital Forensic Tools).md",
     "DFI/Lesson 3 (Data Acquisition).md",
     "DFI/Lesson 2 (Understanding Computer Investigations).md",
-    "DFI/EST Prep.md",
     "DFI/Lesson 1 (Intro to Forensics).md",
     "An Overview of Steganography__xid-4487525_2.docx",
     "chain-of-custody-evidence-form-template__xid-7525359_2.jpg",

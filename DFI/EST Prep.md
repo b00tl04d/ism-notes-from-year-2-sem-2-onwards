@@ -67,3 +67,4 @@ Objective: Explain how the Windows Registry works
 Objective: Describe Microsoft startup tasks  
 
 Objective: Explain the purpose of a virtual machine  
+
