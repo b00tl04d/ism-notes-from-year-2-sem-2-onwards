@@ -23,3 +23,16 @@ Explain the purpose of a virtual machine
 
 ## Understanding File Systems  
 
+File system  
+* Gives OS a road map to data on a disk  
+
+<br>
+
+Type of file system an OS uses determines how data is stored on the disk  
+
+When you need to access a suspect's PC to acquire or inspect data (You should be familiar with both the PC OS and its file system)  
+
+<br>
+
+## Understanding the Boot Sequence  
+
