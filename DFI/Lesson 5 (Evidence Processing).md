@@ -36,3 +36,6 @@ When you need to access a suspect's PC to acquire or inspect data (You should be
 
 ## Understanding the Boot Sequence  
 
+Complementary Metal Oxide Semiconductor (CMOS)  
+* PC stores system config, date and time info in the CMOS  
+
