@@ -40,3 +40,11 @@ Objective: List other forensic tools available for data acquisitions
 
 ## Lesson 4  
 
+Objective: Explain how to evaluate the needs for digital forensics tools  
+
+Objective: List some considerations for digital forensics hardware tools  
+
+Objective: Describe methods for validating and testing forensics tools  
+
+<br>
+
