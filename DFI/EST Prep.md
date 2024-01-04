@@ -54,14 +54,14 @@ Objective: Describe methods for validating and testing forensics tools
 
 Objective: Explain the purpose and structure of file systems  
 
-Describe Microsoft file structures  
+Objective: Describe Microsoft file structures  
 
-Explain the structure of NTFS disks  
+Objective: Explain the structure of NTFS disks  
 
-List some options for decrypting drives encrypted with whole disk encryption  
+Objective: List some options for decrypting drives encrypted with whole disk encryption  
 
-Explain how the Windows Registry works  
+Objective: Explain how the Windows Registry works  
 
-Describe Microsoft startup tasks  
+Objective: Describe Microsoft startup tasks  
 
-Explain the purpose of a virtual machine  
+Objective: Explain the purpose of a virtual machine  
