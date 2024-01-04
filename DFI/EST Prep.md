@@ -1,3 +1,5 @@
+# Important note: Lookout for questions/stuff that can be tested via application (i.e. How to find RAM slack given x bytes )
+
 # Summarized Theory  
 
 ## Lesson 1  
