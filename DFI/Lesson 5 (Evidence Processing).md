@@ -52,3 +52,7 @@ Bootstrap process
 
 <br>
 
+CMOS should be modified to boot from a forensic floppy disk or CD to prevent evidence from hard disk being overwritten  
+
+<br>
+
