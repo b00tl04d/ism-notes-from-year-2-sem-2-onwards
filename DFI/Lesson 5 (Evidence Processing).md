@@ -48,4 +48,7 @@ Basic Input/Output System (BIOS) or Extensible Firmware Interface (EFI)
 
 Bootstrap process  
 * Contained in ROM, tells the PC how to proceed  
-* Displays
+* Displays the key or keys to press to open the CMOS setup screen (Besides date and time, BIOS settings are stored in CMOS)  
+
+<br>
+
