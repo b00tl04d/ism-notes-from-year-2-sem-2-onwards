@@ -56,3 +56,19 @@ CMOS should be modified to boot from a forensic floppy disk or CD to prevent evi
 
 <br>
 
+BIOS can configure:  
+* System Time/Date  
+* Boot Sequence  
+* Plug and Play  
+* Mouse/Keyboard  
+* Drive Configuration  
+* Security  
+* Power Management  
+* ..etc  
+
+<br>
+
+## Understanding Disk Drives  
+
+Disk drives are made up of 1 or more platters coated with magnetic material  
+
