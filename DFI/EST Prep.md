@@ -22,3 +22,21 @@ Objective: Summarize <b>how to conduct an investigation</b> including critiquing
 
 ## Lesson 3  
 
+Objective: List digital evidence storage formats  
+
+Objective: Explain ways to determine the best acquisition method  
+
+Objective: Describe contingency planning for data acquisitions  
+
+Objective: Explain how to use acquisition tools  
+
+Objective: Explain how to validate data acquisitions  
+
+Objective: Explain how to use remote network acquisition tools  
+
+Objective: List other forensic tools available for data acquisitions  
+
+<br>
+
+## Lesson 4  
+

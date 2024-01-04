@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 3 (Data Acquisition).md",
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 3 (Data Acquisition).md",
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/Lesson 3 (Data Acquisition).md",
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DFI/Lesson 3 (Data Acquisition).md",
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/Lesson 3 (Data Acquisition).md"
+                "file": "DFI/Lesson 4 (Digital Forensic Tools).md"
               }
             }
           }
@@ -171,6 +171,7 @@
   "active": "fc33a66b264139ed",
   "lastOpenFiles": [
     "DFI/EST Prep.md",
+    "DFI/Lesson 3 (Data Acquisition).md",
     "DFI/Lesson 1 (Intro to Forensics).md",
     "DFI/Lesson 2 (Understanding Computer Investigations).md",
     "An Overview of Steganography__xid-4487525_2.docx",
@@ -181,7 +182,6 @@
     "SPIM/IM/Lesson 5.md",
     "SPIM/IM/Lesson 4.md",
     "SPIM/IM/Lesson 2.md",
-    "DFI/Lesson 3 (Data Acquisition).md",
     "Electives/DSAL/Doubly Linked List.md",
     "Electives/DSAL/images/Pasted image 20231105155913.png",
     "Electives/DSAL/images",
