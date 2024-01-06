@@ -104,3 +104,7 @@ All flash memory devices have a feature called wear-leveling
 When dealing with solid-state devices, making a full forensic copy as soon as possible is crucial  
 * In case you need to recover data from unallocated disk space, wear-leveling feature auto overwrites the unallocated space  
 
+<br>
+
+## Exploring Microsoft File Structures  
+
