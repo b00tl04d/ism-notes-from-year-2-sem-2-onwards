@@ -135,9 +135,7 @@ disk partition
 
 • A partition is a logical drive. i.e “C”, “D”, “E” and etc  
 
-• Windows OSs can have three primary partitions followed by
-an extended partition that can contain one or more logical
-drives  
+• Windows OSs can have three primary partitions followed by an extended partition that can contain one or more logical drives  
 
 • Partition gap  
 – Unused space between partitions  
