@@ -75,3 +75,12 @@ BIOS can configure:
 
 Disk drives are made up of 1 or more platters coated with magnetic material  
 
+<br>
+
+Disk drive components:  
+* Geometry (how data is structured)  
+* Head  
+* Tracks  
+* Cylinders  
+* Sectors (1 sector usually has 512 bytes)  
+
