@@ -148,3 +148,18 @@ describing the partitions on that disk.
 
 key hexadecimal codes is used by OS to identify and maintain the file system.  
 
+• The partition table is in the Master Boot Record (MBR)  
+– Located at sector 0 of the disk drive, preceding the first partition.
+
+• MBR stores information about partitions on a disk and
+their locations, size, and other important items  
+
+• In a hexadecimal editor, such as WinHex, you can find the
+first partition at offset 0x1BE  
+– File system’s hexadecimal code is offset 3 bytes from 0x1BE for
+the first partition  
+– Sector address of where this partition starts on the drive is offset
+8 bytes from 0x1BE.  
+– The number of sectors assigned to the partition are offset 12
+bytes from position 0x1BE.  
+
