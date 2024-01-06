@@ -143,15 +143,8 @@ drives
 – Unused space between partitions  
 – Can use to hide data!  
 
-A partition table is
-a table maintained
-on disk by the
-operating system
-describing
-the partitions on
-that disk.
-key hexadecimal
-codes is used by OS
-to identify and
-maintain
-the file system.
+A partition table is a table maintained on disk by the operating system
+describing the partitions on that disk.  
+
+key hexadecimal codes is used by OS to identify and maintain the file system.  
+
