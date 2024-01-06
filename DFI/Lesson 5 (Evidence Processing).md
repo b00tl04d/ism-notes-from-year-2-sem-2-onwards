@@ -84,3 +84,23 @@ Disk drive components:
 * Cylinders  
 * Sectors (1 sector usually has 512 bytes)  
 
+<br>  
+
+Properties handled at the drive's hardware or firmware level include:  
+* Zone bit recording (ZBR), grouping tracks by zones ensures that all tracks hold the same amount of data  
+* Track density, space between each track, the smaller the space, the more track on the platter  
+* Areal density, number of bits in 1 square inch of a disk platter  
+* Head and cylinder skew, improves disk performance by minimizing the movement of read/write head  
+
+<br>
+
+## Solid-State Storage Devices  
+
+All flash memory devices have a feature called wear-leveling  
+* An internal firmware feature used in solid-state drives that ensures even wear of read/writes for all memory cells, in general, memory cells can perform 10k - 100k reads/writes  
+
+<br>
+
+When dealing with solid-state devices, making a full forensic copy as soon as possible is crucial  
+* In case you need to recover data from unallocated disk space, wear-leveling feature auto overwrites the unallocated space  
+
