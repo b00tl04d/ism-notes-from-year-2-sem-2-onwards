@@ -154,10 +154,8 @@ key hexadecimal codes is used by OS to identify and maintain the file system.
 • MBR stores information about partitions on a disk and
 their locations, size, and other important items  
 
-• In a hexadecimal editor, such as WinHex, you can find the
-first partition at offset 0x1BE  
-– File system’s hexadecimal code is offset 3 bytes from 0x1BE for
-the first partition  
+• In a hexadecimal editor, such as WinHex, you can find the first partition at offset 0x1BE  
+– File system’s hexadecimal code is offset 3 bytes from 0x1BE for the first partition  
 – Sector address of where this partition starts on the drive is offset
 8 bytes from 0x1BE.  
 – The number of sectors assigned to the partition are offset 12
@@ -168,16 +166,12 @@ bytes from position 0x1BE.
 ## Examining FAT Disks  
 
 • File Allocation Table (FAT)  
-– File structure database that
-Microsoft originally designed for
-floppy disks
-• FAT database is typically
-written to a disk’s outermost
-track and contains:
-– Filenames, directory names, date
-and time stamps, the starting
-cluster number, and file attributes
-• Four current FAT versions
-– FAT12, FAT16, FAT32, and
-exFAT (used by Xbox game
-systems)
+– File structure database that Microsoft originally designed for
+floppy disks  
+
+• FAT database is typically written to a disk’s outermost track and contains:  
+– Filenames, directory names, date and time stamps, the starting cluster number, and file attributes  
+
+• Four current FAT versions  
+– FAT12, FAT16, FAT32, and exFAT (used by Xbox game systems)  
+
