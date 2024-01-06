@@ -169,3 +169,5 @@ floppy disks
 • Four current FAT versions  
 – FAT12, FAT16, FAT32, and exFAT (used by Xbox game systems)  
 
+• Cluster sizes vary according to disk drive size and file system  
+
