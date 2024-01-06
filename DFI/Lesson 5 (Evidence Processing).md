@@ -163,3 +163,7 @@ the first partition
 – The number of sectors assigned to the partition are offset 12
 bytes from position 0x1BE.  
 
+<br>
+
+## Examining FAT Disks  
+
