@@ -109,16 +109,25 @@ When dealing with solid-state devices, making a full forensic copy as soon as po
 ## Exploring Microsoft File Structures  
 
 • In Microsoft file structures, sectors are grouped to form clusters
-– Storage allocation units of one or more sectors
-• Clusters can have one sector or more
+– Storage allocation units of one or more sectors  
+
+• Clusters can have one sector or more  
+
 • Combining sectors minimizes the overhead of writing or reading files to a
-disk
-• Clusters are numbered sequentially starting at 0 in NTFS and 2 in FAT
+disk  
+
+• Clusters are numbered sequentially starting at 0 in NTFS and 2 in FAT  
 – First sector of all disks contains a system area, the boot record, and a file
-structure database
-• OS assigns these cluster numbers, called logical addresses
-– Address point to relative position
-• Sector numbers are called physical addresses
-– From address 0 to last sector on disk
+structure database  
+
+• OS assigns these cluster numbers, called logical addresses  
+– Address point to relative position  
+
+• Sector numbers are called physical addresses  
+– From address 0 to last sector on disk  
+
 • Clusters and their addresses are specific to a logical disk drive, which is a
-disk partition
+disk partition  
+
+<br>
+
