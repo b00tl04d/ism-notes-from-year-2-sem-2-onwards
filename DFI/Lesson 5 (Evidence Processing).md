@@ -167,3 +167,17 @@ bytes from position 0x1BE.
 
 ## Examining FAT Disks  
 
+• File Allocation Table (FAT)  
+– File structure database that
+Microsoft originally designed for
+floppy disks
+• FAT database is typically
+written to a disk’s outermost
+track and contains:
+– Filenames, directory names, date
+and time stamps, the starting
+cluster number, and file attributes
+• Four current FAT versions
+– FAT12, FAT16, FAT32, and
+exFAT (used by Xbox game
+systems)
