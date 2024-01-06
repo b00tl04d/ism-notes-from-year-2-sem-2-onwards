@@ -126,8 +126,7 @@ structure database
 • Sector numbers are called physical addresses  
 – From address 0 to last sector on disk  
 
-• Clusters and their addresses are specific to a logical disk drive, which is a
-disk partition  
+• Clusters and their addresses are specific to a logical disk drive, which is a disk partition  
 
 <br>
 
