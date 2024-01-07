@@ -317,3 +317,4 @@ The check digit is validated in three steps:
 
 • Given IMEI is 49015420323751?  
 
+![image](../DFI/images/example_imei.png)  
