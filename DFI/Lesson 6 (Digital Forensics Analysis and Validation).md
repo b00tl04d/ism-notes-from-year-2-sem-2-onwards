@@ -67,3 +67,25 @@
 
 ## Using OSForensics to Analyse Data  
 
+• OSForensics can perform forensics analysis on the following file systems:  
+– Microsoft FAT12, FAT16, and FAT32  
+– Microsoft NTFS – Mac HFS+ and HFSX  
+– Linux Ext2fs, and Ext4fs  
+
+• OSForensics can analyze data from several sources  
+– Including image files from other vendors  
+
+<br>
+
+## Validating Forensic Data  
+
+• Ensuring the integrity of data collected is essential for presenting evidence in court  
+
+• Most forensic tools offer hashing of image files  
+– Example - when ProDiscover loads an image file:  
+• It runs a hash and compares the value with the original hash calculated when the image was first acquired  
+
+<br>
+
+## Validating with Hexadecimal Editors  
+
