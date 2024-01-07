@@ -63,3 +63,5 @@ The MTSO is what causes transmission to occur between cellular to cellular, cell
 
 ## How data is transmitted  
 
+![image](../DFI/images/mobile_data_transmission.png)  
+
