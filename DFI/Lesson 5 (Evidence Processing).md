@@ -330,3 +330,18 @@ Standard Information attribute –
 
 ## NTFS Encrypting File System (EFS)  
 
+• Encrypting File System (EFS)  
+– Introduced with Windows 2000  
+– Implements a public key and private key method of encrypting files, folders, or disk volumes  
+
+• When EFS is used in Windows 2000 and later  
+– A recovery certificate is generated and sent to the local Windows administrator account  
+
+• Recovery certificate is required if there is a problem  
+
+• Users can apply EFS to files stored on their local workstations or a remote server  
+
+<br>
+
+## EFS Recovery Key Agent  
+
