@@ -73,4 +73,35 @@
 • Estimate the number of computer cases your lab expects to examine  
 – Identify types of computers you’re likely to examine  
 
-• Take into account changes in technology – s/w n h/w upgrade • Use statistics to determine what kind of computer crimes are more likely to occur – so you can better estimate the resource you need! • Use this information to plan ahead your lab requirements and costs
+• Take into account changes in technology – s/w n h/w upgrade  
+
+• Use statistics to determine what kind of computer crimes are more likely to occur – so you can better estimate the resource you need!  
+
+• Use this information to plan ahead your lab requirements and costs  
+
+• When setting up a lab for a private company, check:  
+– Hardware and software inventory  
+– Problems reported last year  
+– Future developments in computing technology  
+
+• Time management (for better resource utilization) is a major issue when choosing software and hardware to purchase  
+
+<br>
+
+## Acquiring Certification and Training  
+
+• Update your skills through appropriate training  
+– Thoroughly research the requirements, cost, and acceptability in your area of employment  
+– Address the minimum skills for conducting computing investigations at various levels.  
+
+• International Association of Computer Investigative Specialists (IACIS)  
+– Created by police officers who wanted to formalize credentials in computing investigations  
+– Candidates who complete the IACIS test are designated as a Certified Forensic Computer Examiner (CFCE)  
+
+• AccessData Certified Examiner (ACE) Certification  
+– Open to the public and private sectors  
+– Is specific to use and mastery of AccessData Ultimate Toolkit  
+– The exam has a knowledge base assessment (KBA) and a practical skills assessment (PSA)  
+
+• Other Training and Certifications  
+– EC-Council – SysAdmin, Audit, Network, Security (SANS) Institute – can be expensive – Defense Cyber Investigations Training Academy (DCITA)
