@@ -70,3 +70,7 @@
 – Facility space  
 – Training personnel  
 
+• Estimate the number of computer cases your lab expects to examine  
+– Identify types of computers you’re likely to examine  
+
+• Take into account changes in technology – s/w n h/w upgrade • Use statistics to determine what kind of computer crimes are more likely to occur – so you can better estimate the resource you need! • Use this information to plan ahead your lab requirements and costs
