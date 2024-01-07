@@ -276,3 +276,16 @@ Note : sector size = 512 bytes (For DFI material)
 
 Basic information of a file in MFT starts at 0x10  
 
+• When a disk is created as an NTFS file structure  
+– OS assigns logical clusters to the entire disk partition  
+
+• These assigned clusters are called logical cluster numbers (LCNs)  
+– Become the addresses that allow the MFT to link to nonresident files on the disk’s partition  
+
+• When data is first written to nonresident files, an LCN address is assigned to the file  
+– This LCN becomes the file’s virtual cluster number (VCN)  
+
+<br>
+
+## MFT Structures for File Data  
+
