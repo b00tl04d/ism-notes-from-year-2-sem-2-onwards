@@ -55,3 +55,6 @@ How is data transmitted in mobile networks?
 
 MTSO will evaluate the signal strength between the device and the network and tell the device or network to make the appropriate adjustments to the transmission.  
 
+The MTSO is what causes transmission to occur between cellular to cellular, cellular to landline, cellular to internet.  
+
+![image](../DFI/images/mtso.png)  
