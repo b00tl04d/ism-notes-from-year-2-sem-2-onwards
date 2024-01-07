@@ -94,3 +94,4 @@ Phone must match service or phone goes into ROAM or No Service.
 
 ![image](../DFI/images/cellular_hand_off.png)  
 
+BTS - Base Transceiver Station BSC - Base Station Controller MSC - Mobile Switching Centre
