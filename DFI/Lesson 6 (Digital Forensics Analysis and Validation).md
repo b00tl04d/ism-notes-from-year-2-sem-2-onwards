@@ -198,3 +198,15 @@
 
 <br>
 
+## Understanding Steganalysis Methods  
+
+• Steganography - comes from the Greek word for “hidden writing”  
+– Hiding messages in such a way that only the intended recipient knows the message is there  
+
+• Steganalysis - term for detecting and analyzing steganography files  
+
+• Digital watermarking - developed as a way to protect file ownership  
+– Usually not visible when used for steganography  
+
+<br>
+
