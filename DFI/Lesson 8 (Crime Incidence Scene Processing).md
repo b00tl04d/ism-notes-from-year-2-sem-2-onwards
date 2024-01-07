@@ -118,4 +118,9 @@
 
 • Typically, businesses have inventory databases of computer hardware and software  
 – Understand what h/w and s/w help identify the computer forensics tools needed to analyze a policy violation  
-• This is also the best way to conduct the analysis  • Corporate policy statement about misuse of digital assets – Allows corporate investigators to conduct covert surveillance (surveillance on someone without the person notice it) with little or no cause – And access company systems without a warrant
+• This is also the best way to conduct the analysis  
+
+• Corporate policy statement about misuse of digital assets  
+– Allows corporate investigators to conduct covert surveillance (surveillance on someone without the person notice it) with little or no cause  
+– And access company systems without a warrant  
+
