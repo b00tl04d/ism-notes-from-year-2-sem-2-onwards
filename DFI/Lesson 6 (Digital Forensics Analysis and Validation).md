@@ -126,3 +126,18 @@
 
 ## Addressing Data-Hiding Techniques  
 
+• Data hiding - changing or manipulating a file to conceal information  
+
+• Techniques:  
+– Hiding entire partitions  
+• Use Disk Management  
+– Changing file extensions  
+– Setting file attributes to hidden  
+• Change file signature  
+– Bit-shifting  
+• Shift 1 bit to left  
+– Using encryption  
+– Setting up password protection  
+
+<br>
+
