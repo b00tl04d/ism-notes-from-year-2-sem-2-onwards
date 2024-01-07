@@ -338,3 +338,5 @@ The check digit is validated in three steps:
 – MNC : mobile network code (2 digits)  
 – MSIN: mobile station identification number (10 digits)  
 
+![image](../DFI/images/main_imei.png)  
+

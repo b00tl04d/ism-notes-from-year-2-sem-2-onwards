@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fc33a66b264139ed",
+  "active": "0687dc5c50edddd9",
   "lastOpenFiles": [
+    "main_imei.png",
     "DFI/images/example_imei.png",
     "DFI/images/imei_before_after.png",
     "DFI/images/soft_vs_hard_handoff.png",
@@ -187,7 +188,6 @@
     "DFI/images/hkeys_and_funcs.png",
     "DFI/images/win_reg_file_locations_and_purposes.png",
     "DFI/images",
-    "DFI/images/ram_slack_file_slack.png",
     "DFI/Lesson 4 (Digital Forensic Tools).md",
     "DFI/Lesson 3 (Data Acquisition).md",
     "DFI/Lesson 2 (Understanding Computer Investigations).md",
