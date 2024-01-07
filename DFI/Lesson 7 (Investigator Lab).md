@@ -51,7 +51,22 @@
 • Hardware and software  
 • OS and file types  
 • Deductive reasoning  
-• Work is reviewed regularly by the lab manager – to ensure that quality of work is maintained
+• Work is reviewed regularly by the lab manager – to ensure that quality of work is maintained  
+
+• Check the ASCLD Web site for online manual and information  
 
 <br>
+
+## Lab Budget Planning  
+
+• Break costs down into daily, quarterly, and annual expenses  
+– The better you understand these expenses, the better you can delegate resources for each investigation.  
+
+• Use past investigation expenses to extrapolate (extract) expected future costs – similar to any budget estimation  
+
+• Expenses for a lab include:  
+– Hardware  
+– Software  
+– Facility space  
+– Training personnel  
 
