@@ -123,3 +123,4 @@ If there is no other tower with a stronger signal, the call is dropped.
 Access Technologies  
 
 • How the phone talks to the tower:  
+– AMPS (Advanced Mobile Phone System) FDMA, 800 MHz, 1G, Analog  
