@@ -58,3 +58,12 @@
 – 9. Identify function of every executable file (exe) that doesn’t match known hash values. If required run file to find out more  
 – 10. Maintain control of all evidence and findings  
 
+• Refining and Modifying the Investigation Plan  
+– Even if initial plan is sound, at times you may need to deviate from it and follow evidence  
+– Knowing the types of data to look for helps you make the best use of your time  
+– The key is to start with a plan but remain flexible in the face of new evidence  
+
+<br>
+
+## Using OSForensics to Analyse Data  
+
