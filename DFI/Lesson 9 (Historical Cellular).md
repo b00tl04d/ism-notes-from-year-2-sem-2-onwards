@@ -120,3 +120,7 @@ If there is no other tower with a stronger signal, the call is dropped.
 
 ## Cellular Subsets  
 
+Access Technologies  
+
+• How the phone talks to the tower:  
+– AMPS – TDMA – iDEN – CDMA – GSM – W-CDMA – OFDM 19 (Advanced Mobile Phone System) FDMA, 800 MHz, 1G, Analog (Time Division Multiple Access) 2G, Digital (integrated Digital Enhanced Network) 2G, Digital (Code Division Multiple Access) 2G/3G, Digital (Global System Mobile Communication) 2G, Digital (Wideband CDMA) 3G, Digital (Orthogonal frequency-division multiple access) 4G, Digital
