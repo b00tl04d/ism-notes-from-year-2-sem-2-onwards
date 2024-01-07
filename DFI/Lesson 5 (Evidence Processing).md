@@ -516,3 +516,6 @@ Why need to know the start up process?
 • A virtual machine recognizes components of the physical machine it’s loaded on  
 – Virtual OS is limited by the physical machine’s OS as behaviour of virtual OS could be affected by physical machine’s OS (i.e certain operations may be blocked)  
 
+• In digital forensics  
+– Virtual machines make it possible to restore a suspect drive on your virtual machine  
+• Test can be performed and run nonstandard software the suspect might have loaded • From a network forensics standpoint, you need to be aware of some potential issues, such as: – A virtual machine used to attack another system or network. – File slack, unallocated space, and so forth don’t exist on a virtual machine, so many standard items don’t work on virtual drives.
