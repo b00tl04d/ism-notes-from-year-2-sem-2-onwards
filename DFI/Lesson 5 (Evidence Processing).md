@@ -183,7 +183,7 @@ floppy disks
 • An unintentional side effect of FAT16 having large clusters was that it reduced fragmentation  
 – As cluster size increased  
 
-![image](../images/ram_slack_file_slack.png)  
+![image](../DFI/images/ram_slack_file_slack.png)  
 
 • When you run out of room for an allocated cluster  
 – OS allocates another cluster for your file, which creates more slack space on the disk  
