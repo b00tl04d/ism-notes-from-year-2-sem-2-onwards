@@ -271,3 +271,10 @@
 • A brute-force attack requires converting a dictionary password from plaintext to a hash value  
 – Requires additional CPU cycle time  
 
+• Rainbow table  
+– A file containing the hash values for every possible password that can be generated from a computer’s keyboard  
+– No conversion necessary, so it is faster than a bruteforce or dictionary attack  
+
+• Salting passwords  
+– Aim to make password cracking difficult – Alters hash values with additional bits added to password and makes cracking passwords more difficult  
+
