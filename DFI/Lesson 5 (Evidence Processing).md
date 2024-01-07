@@ -225,3 +225,6 @@ floppy disks
 • NTFS was Microsoft’s move toward a journaling file system  
 – It records a transaction before the system carries it out. i.e deleting a file  
 
+• In NTFS, everything written to the disk is considered a file  
+
+• On an NTFS disk – First data set is the Partition Boot Sector – Next is Master File Table (MFT) • NTFS results in much less file slack space • Clusters are smaller for smaller disk drives • NTFS also uses Unicode – An international data format
