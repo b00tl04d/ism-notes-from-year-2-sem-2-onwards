@@ -298,4 +298,12 @@ Basic information of a file in MFT starts at 0x10
 • The update sequence array is used as a checksum for record integrity validation  
 
 Standard Information attribute –  
-• Create date and time • Last modified date and time • Last access date and time • Record update date and time
+• Create date and time  
+• Last modified date and time  
+• Last access date and time  
+• Record update date and time  
+
+<br>
+
+## NTFS Alternate Data Streams  
+
