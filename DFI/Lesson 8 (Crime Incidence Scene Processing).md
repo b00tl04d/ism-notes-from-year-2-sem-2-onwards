@@ -321,4 +321,11 @@
 – Record all active windows or shell sessions  
 – Make notes of everything you do when copying data from a live suspect computer  
 – Close applications and shut down the computer  
+– Bag and tag the evidence, following these steps:  
+• Assign one person to collect and log all evidence  
+– Minimize the number of people handling evidence to ensure its integrity  
+• Tag all evidence you collect with the current date and time, serial numbers or unique features, make and model, and the name of the person who collected it  
+• Maintain two separate logs of collected evidence  
+– For verification and audit purpose  
+• Maintain constant control of the collected evidence and the crime or incident scene  
 
