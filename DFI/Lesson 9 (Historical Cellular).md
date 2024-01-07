@@ -31,3 +31,6 @@ A cellular device can communicate with another cellular device, land line, inter
 Can you tell if there is anything special about the cell network diagram?  
 
 Why the cells are all in Hexagon?  
+
+Hexagonal shapes are preferred than square or circle in cellular architecture because it covers an entire area without overlapping!!  
+
