@@ -345,3 +345,18 @@ Standard Information attribute –
 
 ## EFS Recovery Key Agent  
 
+• Recovery Key Agent implements the recovery certificate  
+– Which is in the Windows administrator account  
+
+• Windows administrators can recover a key in two ways: through Windows or from an MS-DOS command prompt  
+
+• MS-DOS commands  
+– Cipher (for NTSF only)  
+– copy  
+– efsrecvr (used to decrypt EFS files. For NTSF only)  
+– Use /? to find out more  
+
+<br>
+
+## Deleting NTFS Files  
+
