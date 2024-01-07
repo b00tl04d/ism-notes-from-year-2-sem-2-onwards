@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 9 (Historical Cellular).md",
+                "file": "SPIM/IM/Lesson 5.md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 9 (Historical Cellular).md",
+                "file": "SPIM/IM/Lesson 5.md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/Lesson 9 (Historical Cellular).md",
+                "file": "SPIM/IM/Lesson 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DFI/Lesson 9 (Historical Cellular).md",
+                "file": "SPIM/IM/Lesson 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/Lesson 9 (Historical Cellular).md"
+                "file": "SPIM/IM/Lesson 5.md"
               }
             }
           }
@@ -168,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0687dc5c50edddd9",
+  "active": "fc33a66b264139ed",
   "lastOpenFiles": [
+    "DFI/Lesson 9 (Historical Cellular).md",
     "DFI/images/sg_imei.png",
     "DFI/images/na_imei.png",
     "DFI/images/main_imei.png",
@@ -177,11 +178,9 @@
     "DFI/images/imei_before_after.png",
     "DFI/images/soft_vs_hard_handoff.png",
     "DFI/images/cellular_hand_off.png",
-    "DFI/Lesson 9 (Historical Cellular).md",
     "DFI/images/when_calling.png",
     "DFI/images/when_phone_turns_on.png",
     "DFI/images/mobile_data_transmission.png",
-    "DFI/images/mtso.png",
     "DFI/Lesson 8 (Crime Incidence Scene Processing).md",
     "DFI/Lesson 7 (Investigator Lab).md",
     "DFI/Lesson 6 (Digital Forensics Analysis and Validation).md",
