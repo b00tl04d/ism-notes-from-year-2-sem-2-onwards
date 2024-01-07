@@ -310,3 +310,11 @@
 
 ## Summary  
 
+• A digital forensics lab is where you conduct investigations, store evidence, and do most of your work  
+
+• Seek to upgrade your skills through training/certifcation  
+
+• A lab facility must be physically secure so that evidence is not lost, corrupted, or destroyed  
+
+• It is harder to plan a computer forensics lab for a police department than for a private organization or corporation  
+
