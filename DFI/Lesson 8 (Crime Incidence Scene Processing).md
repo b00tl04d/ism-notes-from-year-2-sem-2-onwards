@@ -72,3 +72,14 @@
 – Computer-stored records  
 • Electronic data that a person creates and saves on a computer, such as a spreadsheet or word processing document.  
 
+• Computer and digitally stored records must be shown to be authentic and trustworthy  
+– So that it can be admitted into evidence  
+
+• Computer-generated records are considered authentic if the program that created the output is functioning correctly. I.e. No bugs  
+– Usually considered an exception to hearsay rule  
+
+• Collecting evidence according to the proper steps of evidence control helps ensure that the computer evidence is authentic  
+
+• When attorneys challenge digital evidence  
+– Often they raise the issue of whether computer-generated records were altered or damaged  
+
