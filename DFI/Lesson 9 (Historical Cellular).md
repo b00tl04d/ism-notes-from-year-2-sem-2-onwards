@@ -290,4 +290,7 @@ MIN - Mobile Identity Number
 
 ## IMEI – International Mobile Equipment Identity  
 
-• The IMEI is a unique 15-digit code used to identify an individual GSM mobile telephone to a mobile network.
+• The IMEI is a unique 15-digit code used to identify an individual GSM mobile telephone to a mobile network.  
+
+![image](../DFI/images/imei_before_after.png)  
+
