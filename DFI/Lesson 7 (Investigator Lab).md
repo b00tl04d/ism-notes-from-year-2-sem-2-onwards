@@ -192,7 +192,23 @@
 • When possible, build an evidence storage room in your lab  
 
 • Keep an evidence log  
-– Update it every time an evidence container is opened and closed
+– Update it every time an evidence container is opened and closed  
 
 <br>
 
+## Overseeing Facility Maintenance  
+
+• Immediately repair physical damages  
+
+• Escort cleaning crews as they work  
+– Is it feasible?  
+
+• Minimize the risk of static electricity  
+– Antistatic pads  
+– Clean floor and carpets – minimize dust!  
+
+• Maintain two separate trash containers  
+– Materials unrelated to an investigation  
+– Sensitive materials  
+
+• When possible, hire specialized companies for disposing sensitive materials
