@@ -324,3 +324,8 @@ The check digit is validated in three steps:
 • So the IMEI is 490154203237518  
 
 • Where are these???  
+
+<br>
+
+## IMSI -International Mobile Subscriber Identity  
+
