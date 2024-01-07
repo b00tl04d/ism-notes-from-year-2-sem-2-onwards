@@ -173,3 +173,10 @@
 – Allows the police to separate innocent information from evidence  
 – The warrant must list which items can be seized.  
 
+• Plain view doctrine  
+– Objects falling in plain view (what your eyes can see) of an officer who has the right to be in position to have that view are subject to seizure without a warrant and may be introduced in evidence  
+– Three criteria must be met:  
+• Officer is where he or she has a legal right to be  
+• Ordinary senses must not be enhanced by advanced technology in any way  
+• Any discovery must be by chance  
+
