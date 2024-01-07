@@ -94,4 +94,11 @@ Phone must match service or phone goes into ROAM or No Service.
 
 ![image](../DFI/images/cellular_hand_off.png)  
 
-BTS - Base Transceiver Station BSC - Base Station Controller MSC - Mobile Switching Centre
+BTS - Base Transceiver Station  
+BSC - Base Station Controller  
+MSC - Mobile Switching Centre  
+
+If during a call, the signal on that channel from the tower servicing the call becomes weaker, then another tower and handoff is needed.  
+
+If there is no other tower with a stronger signal, the call is dropped.  
+
