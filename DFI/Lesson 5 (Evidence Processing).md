@@ -295,4 +295,7 @@ Basic information of a file in MFT starts at 0x10
 – At offset 0x1C to 0x1F - size of the MFT record  
 – At offset 0x32 and 0x33 - the update sequence array, which stores the last 2 bytes of the first sector of the MFT record  
 
-• The update sequence array is used as a checksum for record integrity validation
+• The update sequence array is used as a checksum for record integrity validation  
+
+Standard Information attribute –  
+• Create date and time • Last modified date and time • Last access date and time • Record update date and time
