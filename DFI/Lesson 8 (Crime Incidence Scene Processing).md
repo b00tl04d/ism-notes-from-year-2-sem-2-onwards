@@ -138,3 +138,9 @@
 
 • Corporate investigators are, therefore, primarily concerned with protecting company assets  
 
+• If you discover evidence of a crime during a company policy investigation  
+– Determine whether the incident meets the elements of criminal law  
+– Inform management of the incident  
+– Stop your investigation to make sure you don’t violate Fourth Amendment restrictions on obtaining evidence  
+– Work with the corporate attorney on how to respond to a police request for more information  
+
