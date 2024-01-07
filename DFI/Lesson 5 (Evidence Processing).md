@@ -214,3 +214,14 @@ floppy disks
 
 ## Examining NTFS Disks  
 
+• NT File System (NTFS)  
+– Introduced with Windows NT  
+– Primary file system for Windows 8 or later  
+
+• Improvements over FAT file systems  
+– NTFS provides more information about a file  
+– NTFS gives more control over files and folders  
+
+• NTFS was Microsoft’s move toward a journaling file system  
+– It records a transaction before the system carries it out. i.e deleting a file  
+
