@@ -34,3 +34,14 @@ Why the cells are all in Hexagon?
 
 Hexagonal shapes are preferred than square or circle in cellular architecture because it covers an entire area without overlapping!!  
 
+<br>
+
+How is data transmitted in mobile networks?  
+
+## MTSO  
+
+• Mobile Telephone Switching Office (MTSO)  
+– Contains switching equipment for routing mobile phone calls  
+– Handles the entire cell network  
+– Controls handoff  
+• Handoff – process of transferring an ongoing call or data session from one channel (cell) to another channel (cell) – Communicates with PSTN (Public Switch Telephone Network) • Land-line network – The BRAIN of the cell phone network!
