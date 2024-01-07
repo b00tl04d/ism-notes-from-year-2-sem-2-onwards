@@ -340,3 +340,5 @@ The check digit is validated in three steps:
 
 ![image](../DFI/images/main_imei.png)  
 
+– In some (mostly North-American) countries and on some networks, other than GSM, a variation is used, where the MNC is three digits.  
+
