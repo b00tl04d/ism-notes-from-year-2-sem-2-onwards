@@ -328,4 +328,20 @@
 • Maintain two separate logs of collected evidence  
 – For verification and audit purpose  
 • Maintain constant control of the collected evidence and the crime or incident scene  
+– Look for information related to the investigation  
+• Passwords, passphrases, PINs, bank accounts  
+– Collect documentation and media related to the investigation  
+• Hardware, software, backup media, documentation, manuals  
+
+<br>
+
+## Processing Data Centers with RAID Systems  
+
+• Sparse acquisition  
+– Technique for extracting evidence from large systems  
+– Extracts only data related to evidence for your case from allocated files  
+• And minimizes how much data you need to analyze  
+
+• Drawback of this technique  
+– It doesn’t recover data in free or slack space  
 
