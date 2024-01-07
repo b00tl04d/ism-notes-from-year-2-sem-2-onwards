@@ -294,3 +294,21 @@ MIN - Mobile Identity Number
 
 ![image](../DFI/images/imei_before_after.png)  
 
+• The IMEI can be displayed on most phones by dialing the code \*#06#.  
+
+TAC: Type Approval Code - identifies the country in which type approval was sought for the phone, as well as the approval number. The post-2004 version changes the meaning of the acronym to Type Allocation Code.  
+
+FAC : Final Assembly Code - identifies the company that produced the mobile phone  
+
+SNR: Serial Number - uniquely assigned to the specific type of handset  
+
+CD: Check Digit - used to check the IMEI for its validity  
+
+<br>
+
+## IMEI Checksum Verification  
+
+The check digit is validated in three steps:  
+1. Starting from the right, double every other digit (e.g., 7 → 14).  
+2. Sum the digits (e.g., 14 → 1 + 4).  
+3. Check if the sum is divisible by 10.  
