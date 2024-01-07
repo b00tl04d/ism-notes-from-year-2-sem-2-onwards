@@ -157,3 +157,11 @@
 
 ## Hiding Partitions  
 
+• By using the Windows diskpart remove letter command  
+– You can unassign the partition’s letter, which hides it from view in File Explorer  
+
+• To unhide, use the diskpart assign letter command  
+
+• Other disk management tools:  
+– Partition Magic, Partition Master, and Linux Grand Unified Bootloader (GRUB)  
+
