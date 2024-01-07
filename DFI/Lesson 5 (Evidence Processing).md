@@ -546,3 +546,21 @@ Why need to know the start up process?
 
 • To find a hard disk’s capacity, use the cylinders, heads, and sectors (CHS) calculation  
 
+• When files are deleted in a FAT file system, the Greek letter sigma (0xE5) is inserted in the first character of the filename in the directory  
+
+• NTFS is more versatile because it uses the Master File Table (MFT) to track file information  
+
+• Records in the MFT contain attribute IDs that store metadata about files  
+
+• In NTFS, data streams can obscure information that might have evidentiary value  
+
+• File slack, RAM slack, and drive slack are areas in which valuable information can reside on a drive  
+
+• NTFS can encrypt data with EFS and BitLocker  
+
+• NTFS can compress files, folders, or volumes  
+
+• Windows Registry keeps a record of attached hardware, user preferences, network connections, and installed software  
+
+• Virtual machines enable you to run other OSs from a Windows computer  
+
