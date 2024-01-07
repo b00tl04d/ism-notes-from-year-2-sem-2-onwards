@@ -241,3 +241,25 @@
 
 • If you do encounter encrypted data in an investigation, make an effort to persuade the suspect to reveal the encryption passphrase.  
 
+<br>
+
+## Recovering Passwords  
+
+• Password-cracking tools are available for handling password-protected data or systems  
+– Some are integrated into digital forensics tools  
+
+• Stand-alone tools:  
+– Last Bit  
+– AccessData PRTK  
+– ophcrack  
+– John the Ripper  
+– Passware  
+
+• Brute-force attacks  
+– Use every possible letter, number, and character found on a keyboard  
+– This method can require a lot of time and processing power  
+
+• Dictionary attack  
+– Uses common words found in the dictionary and tries them as passwords  
+– Most use a variety of languages  
+
