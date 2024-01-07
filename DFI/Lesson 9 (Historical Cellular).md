@@ -49,3 +49,9 @@ How is data transmitted in mobile networks?
 • Land-line network  
 – The BRAIN of the cell phone network!  
 
+<br>
+
+## Mobile Telephone Switching Office  
+
+MTSO will evaluate the signal strength between the device and the network and tell the device or network to make the appropriate adjustments to the transmission.  
+
