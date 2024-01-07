@@ -208,5 +208,12 @@
 • Digital watermarking - developed as a way to protect file ownership  
 – Usually not visible when used for steganography  
 
+• A way to hide data is to use steganography tools  
+– Many are freeware or shareware  
+– Insert information into a variety of files  
+
+• If you encrypt a plaintext file with PGP and insert the encrypted text into a steganography file  
+– Cracking the encrypted message is extremely difficult!!!  
+
 <br>
 
