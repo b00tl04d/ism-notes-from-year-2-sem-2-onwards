@@ -57,3 +57,10 @@
 
 • Keep current on the latest rulings and directives on collecting, processing, storing, and admitting digital evidence  
 
+• Digital evidence is unlike other physical evidence because it can be changed more easily  
+– The only way to detect these changes is to compare the original data with a duplicate. i.e Hash  
+
+• Most courts have interpreted computer records as hearsay evidence  
+– Hearsay is secondhand or indirect evidence  
+– Hearsay - Evidence of a statement made other than by a witness  
+
