@@ -447,4 +447,12 @@ Standard Information attribute –
 
 ## Understanding Microsoft Startup Tasks  
 
-• Learn what files are accessed when Windows starts • This information helps you determine when a suspect’s computer was last accessed – Important with computers that might have been used after an incident was reported
+• Learn what files are accessed when Windows starts  
+
+• This information helps you determine when a suspect’s computer was last accessed  
+– Important with computers that might have been used after an incident was reported  
+
+<br>
+
+## Startup in Windows 7 and Windows 8  
+
