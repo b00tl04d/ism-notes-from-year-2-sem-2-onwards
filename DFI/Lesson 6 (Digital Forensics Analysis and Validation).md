@@ -25,3 +25,15 @@
 – Increases the time and resources needed to extract, analyze, and present evidence  
 – Need to document additional time spend on recovering additional evidences!!  
 
+• Scope creep has become more common  
+– Criminal investigations require more detailed examination of evidence just before trial  
+– To help prosecutors fend off attacks from defense attorneys  
+
+• New evidence discovered often isn’t revealed to prosecution  
+– It’s become more important for prosecution teams to ensure they have analyzed the evidence exhaustively before trial  
+
+<br>
+
+## Approaching Digital Forensics Cases  
+
+• Begin a case by creating an investigation plan that defines the: – Goal and scope of investigation – Materials needed – Tasks to perform • The approach you take depends largely on the type of case you’re investigating – Corporate, civil, or criminal • Corporate case tends to be easier due to easy access to evidence • Criminal case is more difficult because of scope. i.e need to contact ISP to gather evidence
