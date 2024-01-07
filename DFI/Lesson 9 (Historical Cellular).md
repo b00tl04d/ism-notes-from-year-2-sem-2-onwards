@@ -79,3 +79,10 @@ The MTSO is what causes transmission to occur between cellular to cellular, cell
 ## What happens when your phone turns on  
 
 ![image](../DFI/images/when_phone_turns_on.png)  
+
+Phone must match service or phone goes into ROAM or No Service.  
+
+<br>
+
+## What happens when I place a call?  
+
