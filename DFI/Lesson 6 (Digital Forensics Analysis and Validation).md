@@ -89,3 +89,13 @@
 
 ## Validating with Hexadecimal Editors  
 
+• Some digital forensics tools may have some limitations in performing hashing, so using advanced hexadecimal editors is necessary to ensure data integrity.  
+
+• Advanced hex editors offer features not available in digital forensics tools, such as:  
+– Hashing specific files or sectors  
+
+• With the hash value in hand  
+– You can use a forensics tool to search for a suspicious file that might have had its name changed to look like an innocuous file  
+
+• WinHex provides MD5 and SHA-1 hashing algorithms  
+
