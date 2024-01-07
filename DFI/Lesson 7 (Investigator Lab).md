@@ -318,3 +318,6 @@
 
 • It is harder to plan a computer forensics lab for a police department than for a private organization or corporation  
 
+• A forensic workstation needs to have adequate memory, storage, and ports to deal with common types of cases that come through the lab  
+
+• Prepare a business case to enlist the support of your managers and other team members when building a forensics lab – Justification!!  
