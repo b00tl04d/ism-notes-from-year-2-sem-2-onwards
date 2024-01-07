@@ -496,3 +496,7 @@ Standard Information attribute –
 – NTBootdd.sys  
 – Pagefile.sys  
 
+Why need to know the start up process?  
+
+• Contamination Concerns with Windows XP  
+– When you start a Windows XP NTFS workstation, several files are accessed immediately • The last access date and time stamp for the files change to the current date and time • Destroys any potential evidence that shows when a Windows XP workstation was last used
