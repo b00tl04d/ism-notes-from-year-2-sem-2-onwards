@@ -130,3 +130,11 @@
 • Corporate investigators should know under what circumstances they can examine an employee’s computer  
 – Every organization must have a well-defined process describing when an investigation can be initiated  
 
+• If a corporate investigator finds that an employee is committing or has committed a crime  
+• Employer can file a criminal complaint with the police. As investigator, should immediately report to corporate management  
+
+• Employers are usually interested in enforcing company policy  
+– Not seeking out and prosecuting employees  
+
+• Corporate investigators are, therefore, primarily concerned with protecting company assets  
+
