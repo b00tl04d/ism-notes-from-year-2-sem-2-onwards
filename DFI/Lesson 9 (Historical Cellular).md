@@ -346,3 +346,4 @@ The check digit is validated in three steps:
 
 • All mobile country codes (MCC) are assigned by ITU International Telecommunication Union) in Recommendation E.212 (International Identification plan for public networks)  
 
+![image](../DFI/images/sg_imei.png)  
