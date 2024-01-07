@@ -499,4 +499,20 @@ Standard Information attribute –
 Why need to know the start up process?  
 
 • Contamination Concerns with Windows XP  
-– When you start a Windows XP NTFS workstation, several files are accessed immediately • The last access date and time stamp for the files change to the current date and time • Destroys any potential evidence that shows when a Windows XP workstation was last used
+– When you start a Windows XP NTFS workstation, several files are accessed immediately  
+• The last access date and time stamp for the files change to the current date and time  
+• Destroys any potential evidence that shows when a Windows XP workstation was last used  
+
+<br>
+
+## Understanding Virtual Machines  
+
+• Virtual machine  
+– Allows you to create a representation of another computer on an existing physical computer  
+
+• A virtual machine is just a few files on your hard drive  
+– Must allocate space to it  
+
+• A virtual machine recognizes components of the physical machine it’s loaded on  
+– Virtual OS is limited by the physical machine’s OS as behaviour of virtual OS could be affected by physical machine’s OS (i.e certain operations may be blocked)  
+
