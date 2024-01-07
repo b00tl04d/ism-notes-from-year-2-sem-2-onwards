@@ -518,4 +518,31 @@ Why need to know the start up process?
 
 • In digital forensics  
 – Virtual machines make it possible to restore a suspect drive on your virtual machine  
-• Test can be performed and run nonstandard software the suspect might have loaded • From a network forensics standpoint, you need to be aware of some potential issues, such as: – A virtual machine used to attack another system or network. – File slack, unallocated space, and so forth don’t exist on a virtual machine, so many standard items don’t work on virtual drives.
+• Test can be performed and run nonstandard software the suspect might have loaded  
+
+• From a network forensics standpoint, you need to be aware of some potential issues, such as:  
+– A virtual machine used to attack another system or network.  
+– File slack, unallocated space, and so forth don’t exist on a virtual machine, so many standard items don’t work on virtual drives.  
+
+<br>
+
+## Creating a Virtual Machine  
+
+• Popular applications for creating virtual machines  
+– VMware Server, VMware Player and VMware Workstation, Oracle VM VirtualBox, Microsoft Virtual PC, and Hyper-V  
+
+• Using VirtualBox  
+– An open-source program that can be downloaded at www.virtualbox.org/wiki/Downloads  
+
+<br>
+
+## Summary  
+
+• When booting a suspect’s computer, using boot media, such as forensic boot CDs or USB drives, you must ensure that disk evidence isn’t altered  
+
+• The Master Boot Record (MBR) stores information about partitions on a disk  
+
+• Microsoft used FAT12 and FAT16 on older operating systems  
+
+• To find a hard disk’s capacity, use the cylinders, heads, and sectors (CHS) calculation  
+
