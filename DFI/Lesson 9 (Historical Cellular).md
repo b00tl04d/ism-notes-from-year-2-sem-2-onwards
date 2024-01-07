@@ -86,3 +86,5 @@ Phone must match service or phone goes into ROAM or No Service.
 
 ## What happens when I place a call?  
 
+![image](../DFI/images/when_calling.png)  
+
