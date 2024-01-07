@@ -64,3 +64,11 @@
 – Hearsay is secondhand or indirect evidence  
 – Hearsay - Evidence of a statement made other than by a witness  
 
+• Generally, digital records are considered admissible if they qualify as a business record  
+
+• Computer records are usually divided into:  
+– Computer-generated records  
+• Data maintained by system and not usually data created by human. i.e System logs, proxy log file.  
+– Computer-stored records  
+• Electronic data that a person creates and saves on a computer, such as a spreadsheet or word processing document.  
+
