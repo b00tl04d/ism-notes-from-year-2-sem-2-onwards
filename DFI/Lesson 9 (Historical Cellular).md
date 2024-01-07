@@ -104,3 +104,5 @@ If there is no other tower with a stronger signal, the call is dropped.
 
 <br>
 
+## Difference between Hard and Soft Hand Off  
+
