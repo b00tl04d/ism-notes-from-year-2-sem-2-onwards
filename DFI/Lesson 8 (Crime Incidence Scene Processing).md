@@ -264,3 +264,17 @@
 • Educate specialists in investigative techniques  
 – Prevent evidence damage  
 
+<br>
+
+## Determining the Tools You Need  
+
+• Prepare tools using incident and crime scene information  
+– This is after you have gather as much info about the case as possible about the incident or crime scene  
+
+• Create an initial-response field kit  
+– Should be lightweight and easy to transport  
+
+• Create an extensive-response field kit  
+– Includes all tools you can afford to take to the field  
+– When at the scene, extract only those items you need to acquire evidence  
+
