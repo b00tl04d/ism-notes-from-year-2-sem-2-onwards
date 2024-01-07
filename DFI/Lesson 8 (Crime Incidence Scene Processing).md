@@ -206,3 +206,18 @@
 • Including whether it involves the private or public sector  
 • i.e employee abusing Internet privileges by surfing the Web excessively  
 
+• The nature of the case dictates how you proceed  
+– And what types of assets or resources you need to use in the investigation  
+
+<br>
+
+## Identifying the Type of OS or Digital Device  
+
+• For law enforcement  
+– This step might be difficult because the crime scene isn’t controlled  
+• You might not know what kinds of computers were used to commit a crime or how or where they were used.  
+
+• If you can identify the OS or device by:-  
+– Estimate the size of the drive on the suspect’s computer  
+• And how many devices to process at the scene  
+
