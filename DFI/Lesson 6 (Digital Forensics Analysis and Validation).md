@@ -174,3 +174,27 @@
 
 <br>
 
+## Marking Bad Clusters  
+
+• A data-hiding technique used in FAT file systems is placing sensitive or incriminating data in free or slack space on disk partition clusters  
+– Involves using old utilities such as Norton DiskEdit  
+
+• Can mark good clusters as bad clusters in the FAT table so the OS considers them unusable  
+– Only way they can be accessed from the OS is by changing them back to good clusters with a disk editor  
+
+• DiskEdit runs only in MS-DOS and can access only FAT-formatted disk media  
+
+<br>
+
+## Bit-Shifting  
+
+• Some users use a low-level encryption program that changes the order of binary data  
+– Makes altered data unreadable To secure a file, users run an assembler program (also called a “macro”) to scramble bits  
+– Run another program to restore the scrambled bits to their original order  
+
+• Bit shifting changes data from readable code to data that looks like binary executable code  
+
+• WinHex includes a feature for shifting bits  
+
+<br>
+
