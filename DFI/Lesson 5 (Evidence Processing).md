@@ -428,3 +428,14 @@ Standard Information attribute –
 
 ## Exploring the Organization of the Windows Registry  
 
+• Registry terminology:  
+– Registry  
+– Registry Editor  
+– HKEY  
+– Key  
+– Subkey  
+– Branch  
+– Value  
+– Default value  
+– Hives  
+
