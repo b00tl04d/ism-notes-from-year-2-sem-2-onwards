@@ -104,4 +104,44 @@
 – The exam has a knowledge base assessment (KBA) and a practical skills assessment (PSA)  
 
 • Other Training and Certifications  
-– EC-Council – SysAdmin, Audit, Network, Security (SANS) Institute – can be expensive – Defense Cyber Investigations Training Academy (DCITA)
+– EC-Council  
+– SysAdmin, Audit, Network, Security (SANS) Institute – can be expensive  
+– Defense Cyber Investigations Training Academy (DCITA)  
+
+<br>
+
+## Determining the Physical Requirements for a Computer Forensics Lab  
+
+• Most of your investigation is conducted in a lab  
+
+• Lab should be secure so evidence is not lost, corrupted, or destroyed  
+
+• Provide a safe and secure physical environment  
+
+• Keep inventory control of your assets  
+– Know what you have and what you don’t have  
+– Know when to order more supplies  
+
+<br>
+
+## Identifying Lab Security Needs  
+
+• Secure facility  
+– Should preserve integrity of evidence data  
+
+• Minimum requirements  
+– Small room with true floor-to-ceiling walls  
+– Door access with a locking mechanism  
+– Secure container  
+– Visitor’s log  
+
+• People working together should have same access level  
+
+• Brief your staff about security policy  
+
+<br>
+
+## Conducting High-Risk Investigations  
+
+• High-risk investigations demand more security than the minimum lab requirements  
+
