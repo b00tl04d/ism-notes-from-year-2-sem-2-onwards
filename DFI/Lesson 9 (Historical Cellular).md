@@ -58,3 +58,8 @@ MTSO will evaluate the signal strength between the device and the network and te
 The MTSO is what causes transmission to occur between cellular to cellular, cellular to landline, cellular to internet.  
 
 ![image](../DFI/images/mtso.png)  
+
+<br>
+
+## How data is transmitted  
+
