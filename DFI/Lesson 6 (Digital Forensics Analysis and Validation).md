@@ -263,3 +263,11 @@
 – Uses common words found in the dictionary and tries them as passwords  
 – Most use a variety of languages  
 
+• With many programs, you can build profiles of a suspect to help determine his or her password  
+– Names of relatives or pets, favourite colours, and schools attended. We tends to use thing we familiar with…  
+
+• Many password-protected OSs and application store passwords in the form of MD5 or SHA hash values  
+
+• A brute-force attack requires converting a dictionary password from plaintext to a hash value  
+– Requires additional CPU cycle time  
+
