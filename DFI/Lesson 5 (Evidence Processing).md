@@ -243,3 +243,25 @@ Note : sector size = 512 bytes (For DFI material)
 
 ## NTFS System Files  
 
+• Master File Table (MFT) contains information about all files on the disk  
+– Including the system files OS uses  
+
+• In the MFT, the first 15 records are reserved for system files  
+
+• Records in the MFT are called metadata  
+
+<br>
+
+## MFT and File Attributes  
+
+• In the NTFS MFT  
+– All files and folders are stored in separate records of 1024 bytes each  
+
+• Each record contains file or folder information  
+– This information is divided into record fields containing metadata  
+
+• A record field is referred to as an attribute ID  
+
+• File or folder information is typically stored in one of two ways in an MFT record:  
+– Resident and nonresident  
+
