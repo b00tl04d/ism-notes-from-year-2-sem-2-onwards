@@ -88,3 +88,7 @@ Phone must match service or phone goes into ROAM or No Service.
 
 ![image](../DFI/images/when_calling.png)  
 
+<br>
+
+## Cellular Hand Off  
+
