@@ -329,3 +329,12 @@ The check digit is validated in three steps:
 
 ## IMSI -International Mobile Subscriber Identity  
 
+• A global uniquely identifier. Always 56bit and is unique in every network.  
+
+• Allowed for authentication of a device to a network  
+
+• Consists of three parts:  
+– MCC: mobile country code (3 digits)  
+– MNC : mobile network code (2 digits)  
+– MSIN: mobile station identification number (10 digits)  
+
