@@ -211,4 +211,47 @@
 – Materials unrelated to an investigation  
 – Sensitive materials  
 
-• When possible, hire specialized companies for disposing sensitive materials
+• When possible, hire specialized companies for disposing sensitive materials  
+
+<br>
+
+## Considering Physical Security Needs  
+
+• Enhance security by setting security policies  
+
+• Enforce your policy  
+– Maintain a sign-in log for visitors  
+• Anyone that is not assigned to the lab is a visitor  
+• Escort all visitors all the time  
+– Use visible or audible indicators that a visitor is inside your premises  
+• Visitor badge  
+– Install an intrusion alarm system  
+– Hire a guard force for your lab  
+
+<br>
+
+## Auditing a Digital Forensics Lab  
+
+• Auditing ensures proper enforcing of policies  
+
+• Audits should include inspecting the following facility components and practices:  
+1. Ceiling, floor, roof, and exterior walls of the lab  
+2. Doors and doors locks  
+3. Visitor logs  
+4. Evidence container logs  
+5. At the end of every workday, secure any evidence that’s not being processed in a forensic workstation  
+
+<br>
+
+## Determining Floor Plans for Digital Forensics Labs  
+
+• How you configure the work area will depend on:  
+– Your budget  
+– Amount of available floor space  
+– Number of computers you assign to each computing investigator  
+
+• Ideal configuration is to have:  
+– Two forensic workstations  
+– One work station for 2 to 3 cases a month  
+– One non-forensic workstation with Internet access  
+
