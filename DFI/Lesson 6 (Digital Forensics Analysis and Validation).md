@@ -231,3 +231,13 @@
 
 ## Examining Encrypted Files  
 
+• To decode an encrypted file  
+– Users supply a password or passphrase. Not easy to crack if without password or passphrase…  
+
+• Many encryption programs use a technology called “key escrow”  
+– Designed to recover encrypted data if users forget their passphrases or if the user key is corrupted after a system failure  
+
+• Key sizes of 2048 bits to 4096 bits make breaking them nearly impossible with current technology  
+
+• If you do encounter encrypted data in an investigation, make an effort to persuade the suspect to reveal the encryption passphrase.  
+
