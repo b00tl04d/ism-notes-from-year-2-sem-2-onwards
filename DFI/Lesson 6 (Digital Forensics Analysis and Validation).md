@@ -282,3 +282,22 @@
 
 ## Summary  
 
+• Examining and analyzing digital evidence depend on the nature of the investigation and the amount of data to process  
+– plan may need to be modified!  
+
+• General procedures:  
+– Wipe and prepare target drives, document all hardware components on the suspect’s computer, check date and time values in the suspect’s computer’s CMOS, acquire data and document steps, list all folders and files, attempt to open password-protected files, determine function of executable files, and document steps  
+
+• Advanced digital forensics tools have features such as indexing text data, making keyword searches faster – to make your analysis easier  
+
+• A critical aspect of digital forensics is validating digital evidence  
+– ensuring the integrity of data you collect is essential for presenting evidence in court  
+
+• Data hiding involves changing or manipulating a file to conceal information  
+
+• Three ways to recover passwords:  
+– Dictionary attacks  
+– Brute-force attacks  
+– Rainbows tables  
+
+• Please read additional material “An Overview of Steganography.docx” in Lesson 6 folder.  
