@@ -46,5 +46,12 @@
 – Create and monitor lab policies for staff  
 – Provide a safe and secure workplace for staff and evidence  
 
+• Staff member duties:  
+– Have Knowledge and Training:  
+• Hardware and software  
+• OS and file types  
+• Deductive reasoning  
+• Work is reviewed regularly by the lab manager – to ensure that quality of work is maintained
+
 <br>
 
