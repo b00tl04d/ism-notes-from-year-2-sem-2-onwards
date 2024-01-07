@@ -318,3 +318,9 @@ The check digit is validated in three steps:
 • Given IMEI is 49015420323751?  
 
 ![image](../DFI/images/example_imei.png)  
+
+• To make the sum divisible by 10, we set ? = 8,  
+
+• So the IMEI is 490154203237518  
+
+• Where are these???  
