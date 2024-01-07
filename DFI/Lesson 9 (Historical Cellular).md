@@ -116,3 +116,7 @@ If there is no other tower with a stronger signal, the call is dropped.
 
 ![image](../DFI/images/soft_vs_hard_handoff.png)  
 
+<br>
+
+## Cellular Subsets  
+
