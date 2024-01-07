@@ -184,5 +184,15 @@
 7. Maintain the same level of security for keys as for evidence containers  
 8. Change locks and keys annually  
 
+• Container should be made of steel with an internal cabinet or external padlock  
+
+• If possible, acquire a media safe  
+– Designed to protect electronic media  
+
+• When possible, build an evidence storage room in your lab  
+
+• Keep an evidence log  
+– Update it every time an evidence container is opened and closed
+
 <br>
 
