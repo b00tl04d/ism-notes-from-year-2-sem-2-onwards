@@ -201,3 +201,8 @@
 
 ## Identifying the Nature of the Case  
 
+• When you’re assigned a digital investigation case  
+– Start by identifying the nature of the case  
+• Including whether it involves the private or public sector  
+• i.e employee abusing Internet privileges by surfing the Web excessively  
+
