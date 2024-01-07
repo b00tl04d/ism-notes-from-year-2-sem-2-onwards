@@ -312,3 +312,8 @@ The check digit is validated in three steps:
 1. Starting from the right, double every other digit (e.g., 7 → 14).  
 2. Sum the digits (e.g., 14 → 1 + 4).  
 3. Check if the sum is divisible by 10.  
+
+### Example  
+
+• Given IMEI is 49015420323751?  
+
