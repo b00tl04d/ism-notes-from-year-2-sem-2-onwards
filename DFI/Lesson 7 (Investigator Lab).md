@@ -251,7 +251,6 @@
 – Number of computers you assign to each computing investigator  
 
 • Ideal configuration is to have:  
-– Two forensic workstations  
-– One work station for 2 to 3 cases a month  
+– Two forensic workstations – One work station for 2 to 3 cases a month  
 – One non-forensic workstation with Internet access  
 
