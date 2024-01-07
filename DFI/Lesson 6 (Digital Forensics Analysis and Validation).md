@@ -36,4 +36,13 @@
 
 ## Approaching Digital Forensics Cases  
 
-• Begin a case by creating an investigation plan that defines the: – Goal and scope of investigation – Materials needed – Tasks to perform • The approach you take depends largely on the type of case you’re investigating – Corporate, civil, or criminal • Corporate case tends to be easier due to easy access to evidence • Criminal case is more difficult because of scope. i.e need to contact ISP to gather evidence
+• Begin a case by creating an investigation plan that defines the:  
+– Goal and scope of investigation  
+– Materials needed  
+– Tasks to perform  
+
+• The approach you take depends largely on the type of case you’re investigating  
+– Corporate, civil, or criminal  
+• Corporate case tends to be easier due to easy access to evidence  
+• Criminal case is more difficult because of scope. i.e need to contact ISP to gather evidence  
+
