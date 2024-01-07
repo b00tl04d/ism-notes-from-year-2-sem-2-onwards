@@ -440,3 +440,4 @@ Standard Information attribute –
 – Hives  
 
 ![image](../images/win_reg_file_locations_and_purposes.png)  
+
