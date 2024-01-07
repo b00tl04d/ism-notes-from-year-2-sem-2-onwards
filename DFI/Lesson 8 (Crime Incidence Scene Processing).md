@@ -345,3 +345,13 @@
 • Drawback of this technique  
 – It doesn’t recover data in free or slack space  
 
+<br>
+
+## Using a Technical Advisor  
+
+• A technical advisor can help:  
+– List the tools you need to process the incident or crime scene  
+– Guide you about where to locate data and helping you extract log records  
+• Or other evidence from large RAID servers  
+– Create the search warrant by itemizing what you need for the warrant  
+
