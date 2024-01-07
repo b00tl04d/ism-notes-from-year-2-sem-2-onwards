@@ -238,3 +238,29 @@
 • If removing the computers will irreparably harm a business  
 – The computers should not be taken offsite  
 
+• Additional complications:  
+– Files stored offsite that are accessed remotely  
+– Availability of cloud storage, which can’t be located physically  
+• Stored on drives where data from many other subscribers might be stored  
+
+• If you aren’t allowed to take the computers to your lab  
+– Determine the resources you need to acquire digital evidence and which tools can speed data acquisition  
+
+<br>
+
+## Using Additional Technical Expertise  
+
+• Determine whether you need specialized help to process the incident or crime scene  
+– Go look for domain expert, we can’t know everything under the sky!  
+
+• You may need to look for specialists in:  
+– OSs  
+– RAID servers  
+– Databases  
+
+• Finding the right person can be a challenge  
+– Sometime can be harder than digital forensic!  
+
+• Educate specialists in investigative techniques  
+– Prevent evidence damage  
+
