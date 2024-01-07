@@ -233,4 +233,8 @@
 • Ideally situation for incident or crime scenes is seizing the computers and taking them to your lab for further processing.  
 
 • Law enforcement investigators need a warrant to remove computers from a crime scene  
-– And transport them to a lab
+– And transport them to a lab  
+
+• If removing the computers will irreparably harm a business  
+– The computers should not be taken offsite  
+
