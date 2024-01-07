@@ -278,3 +278,7 @@
 • Salting passwords  
 – Aim to make password cracking difficult – Alters hash values with additional bits added to password and makes cracking passwords more difficult  
 
+<br>
+
+## Summary  
+
