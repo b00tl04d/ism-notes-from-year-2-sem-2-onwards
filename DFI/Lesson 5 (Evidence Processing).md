@@ -387,3 +387,14 @@ Standard Information attribute –
 – Key management function  
 • Passphrase to reset password  
 
+• Whole disk encryption tools encrypt each sector of a drive separately  
+
+• Many of these tools encrypt the drive’s boot sector  
+– To prevent any efforts to bypass the secured drive’s partition  
+
+• To examine an encrypted drive, decrypt it first!!  
+– Run a vendor-specific program to decrypt the drive  
+– Many vendors use a bootable CD or USB drive that prompts for a one-time passphrase  
+
+• Note : Without the necessary credentials to unlock an encrypted drive, it is not possible to view any logical level information.  
+
