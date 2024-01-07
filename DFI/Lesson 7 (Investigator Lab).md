@@ -254,3 +254,59 @@
 – Two forensic workstations – One work station for 2 to 3 cases a month  
 – One non-forensic workstation with Internet access  
 
+<br>
+
+## Selecting a Basic Forensic Workstation  
+
+• Depends on budget and needs  
+
+• Use less powerful workstations for mundane tasks  
+
+• Use multipurpose workstations for resource-heavy analysis tasks  
+
+<br>
+
+## Selecting Workstations for a Lab  
+
+• Identify the environment you deal with  
+– Hardware platform  
+– Operating system – Windows / Mac  
+
+• Police labs have the most diverse needs for computing investigation tools  
+– A lab might need legacy systems and software to match what’s used in the community  
+
+• A small, local police department might have one multipurpose forensic workstation and one or two general-purpose workstations  
+
+• You can now use a laptop PC with FireWire, USB 3.0, or SATA hard disks to create a lightweight, mobile forensic workstation  
+
+<br>
+
+## Stocking Hardware Peripherals  
+
+• Any lab should have in stock:  
+1. IDE cables  
+2. Ribbon cables for floppy disks  
+3. Extra USB 3.0 or newer cables and SATA cards  
+4. SCSI cards, preferably ultrawide  
+5. Graphics cards, both PCI and AGP types  
+6. Assorted FireWire and USB adapters  
+7. Hard disk drives  
+8. At least two 2.5-inch Notebook IDE hard drives to standard IDE/ATA or SATA adapter  
+9. Computer hand tools  
+
+<br>
+
+## Maintaining Operating Systems and Software Inventories  
+
+• Maintain licensed copies of software like:  
+1. Microsoft Office (current and older version)  
+2. Quicken - personal finance management tool  
+3. Programming languages (Visual Basic and Visual C++)  
+4. Specialized viewers (Quick View- Viewer can be used to view practically any file)  
+5. LibreOffice, OpenOffice, or Apache OpenOffice  
+6. Peachtree and QuickBooks accounting applications  
+
+<br>
+
+## Summary  
+
