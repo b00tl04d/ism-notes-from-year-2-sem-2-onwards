@@ -456,3 +456,9 @@ Standard Information attribute –
 
 ## Startup in Windows 7 and Windows 8  
 
+• Windows 7/8 is a multiplatform OS  
+– Can run on desktops, laptops, tablets, and smartphones  
+
+• The boot process uses a boot configuration data (BCD) store  
+
+• The BCD contains the boot loader that initiates the system’s bootstrap process – Press F8 or F12 when the system starts to access the Advanced Boot Options, ie. Start in Safe Mode
