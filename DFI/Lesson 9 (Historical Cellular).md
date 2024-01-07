@@ -74,3 +74,7 @@ The MTSO is what causes transmission to occur between cellular to cellular, cell
 – Frequency is measured in Hertz or Hz  
 – 1 Hz means 1 complete waves length per second  
 
+<br>  
+
+## What happens when your phone turns on  
+
