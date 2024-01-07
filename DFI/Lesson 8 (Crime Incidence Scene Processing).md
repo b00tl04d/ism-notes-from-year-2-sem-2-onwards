@@ -152,4 +152,24 @@
 
 • You should also understand how a search warrant works and what to do when you process one  
 
-• Law enforcement officer may search for and seize criminal evidence only with probable cause – Probable cause - Reasonable grounds to believe that a particular person has committed a crime, especially to justify making a search or preferring a charge – Refers to the standard specifying whether a police officer has the right to make an arrest, conduct a personal or property search, or obtain a warrant for arrest
+• Law enforcement officer may search for and seize criminal evidence only with probable cause  
+– Probable cause - Reasonable grounds to believe that a particular person has committed a crime, especially to justify making a search or preferring a charge  
+– Refers to the standard specifying whether a police officer has the right to make an arrest, conduct a personal or property search, or obtain a warrant for arrest  
+
+• With probable cause, a police officer can obtain a search warrant from a judge  
+– That authorizes a search and seizure of specific evidence related to the criminal complaint  
+
+• The Fourth Amendment states that only warrants “particularly describing the place to be searched, and the persons or things to be seized” can be issued  
+
+<br>
+
+## Understanding Concepts and Terms Used in Warrants  
+
+• Innocent information  
+– Unrelated information: often included in the information you are looking for. Need to sort all information to obtain what you need. Sometime amount of data can be up to Terabyte!  
+– i.e Enron case - by the use of accounting loopholes and poor financial reporting  
+
+• Judges often issue a limiting phrase to the warrant  
+– Allows the police to separate innocent information from evidence  
+– The warrant must list which items can be seized.  
+
