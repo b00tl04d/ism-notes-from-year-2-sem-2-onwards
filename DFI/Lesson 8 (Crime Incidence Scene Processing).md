@@ -291,3 +291,26 @@
 – Is the computer powered on when you arrive?  
 • Data may be lost after machine is powered down  
 
+• More questions…  
+
+• Ask your supervisor or senior forensics examiner in your organization the following questions:  
+– Is the suspect you’re investigating in the immediate area of the computer?  
+• Sometime company may not want to employee know investigation is going on  
+– Is it possible the suspect damaged or destroyed the computer, peripherals, or media?  
+– Will you have to separate the suspect from the computer?  
+
+<br>
+
+## Processing an Incident or Crime Scene  
+
+• Guidelines  
+– Keep a journal to document your activities  
+– Secure the scene  
+• Be professional and courteous with onlookers  
+• Remove people who are not part of the investigation  
+– Take video and still recordings of the area around the computer  
+• You want to return belongings to original locations  
+• Pay attention to details  
+– Sketch the incident or crime scene  
+– Check state of computers as soon as possible  
+
