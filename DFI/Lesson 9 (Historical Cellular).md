@@ -128,4 +128,15 @@ Access Technologies
 – iDEN (integrated Digital Enhanced Network) 2G, Digital  
 – CDMA (Code Division Multiple Access) 2G/3G, Digital  
 – GSM (Global System Mobile Communication) 2G, Digital  
-– W-CDMA (Orthogonal frequency-division multiple  
+– W-CDMA (Wideband CDMA) 3G, Digital  
+– OFDM (Orthogonal frequency-division multiple access) 4G, Digital  
+
+<br>
+
+## TDMA  
+
+• Time Division Multiple Access  
+
+• A method of digitizing and compressing  
+– A number of equal timeslots are configured for each frequency channel  
+
