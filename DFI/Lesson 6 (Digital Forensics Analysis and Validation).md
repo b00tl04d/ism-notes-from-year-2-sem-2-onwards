@@ -109,5 +109,20 @@
 
 ## Validating with Digital Forensics Tools  
 
-• ProDiscover 
-– .eve files contain metadata that includes hash value – Has a preference you can enable for using the Auto Verify Image Checksum feature when image files are loaded – If the Auto Verify Image Checksum and the hashes in the .eve file’s metadata don’t match • ProDiscover will notify that the acquisition is corrupt and can’t be considered reliable evidence
+• ProDiscover  
+– .eve files contain metadata that includes hash value  
+– Has a preference you can enable for using the Auto Verify Image Checksum feature when image files are loaded  
+– If the Auto Verify Image Checksum and the hashes in the .eve file’s metadata don’t match  
+• ProDiscover will notify that the acquisition is corrupt and can’t be considered reliable evidence  
+
+• Raw format image files don’t contain metadata  
+– You must validate them manually to ensure integrity  
+
+• In AccessData FTK Imager, when selecting the Expert Witness (.e01) or SMART (.s01) format:  
+– Additional options for validating the acquisition are available  
+– Validation report lists MD5 and SHA-1 hash values  
+
+<br>
+
+## Addressing Data-Hiding Techniques  
+
