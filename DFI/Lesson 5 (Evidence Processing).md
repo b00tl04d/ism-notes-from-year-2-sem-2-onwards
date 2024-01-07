@@ -360,3 +360,13 @@ Standard Information attribute –
 
 ## Deleting NTFS Files  
 
+• When a file is deleted in Windows NT and later  
+– The OS renames it and moves it to the Recycle Bin  
+
+• Can use the Del (delete) MS-DOS command to delete file too  
+– This method does not rename and move deleted file to recycle bin but eliminates the file from the MFT listing in the same way FAT does  
+
+<br>
+
+## Understanding Whole Disk Encryption (WDE)  
+
