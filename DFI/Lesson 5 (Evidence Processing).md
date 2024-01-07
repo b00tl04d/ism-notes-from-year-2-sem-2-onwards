@@ -461,4 +461,18 @@ Standard Information attribute –
 
 • The boot process uses a boot configuration data (BCD) store  
 
-• The BCD contains the boot loader that initiates the system’s bootstrap process – Press F8 or F12 when the system starts to access the Advanced Boot Options, ie. Start in Safe Mode
+• The BCD contains the boot loader that initiates the system’s bootstrap process  
+– Press F8 or F12 when the system starts to access the Advanced Boot Options, ie. Start in Safe Mode  
+
+<br>
+
+## Startup in Windows NT and Later  
+
+• All NTFS computers perform the following steps when the computer is turned on:  
+– Power-on self test (POST)  
+– Initial startup  
+– Boot loader  
+– Hardware detection and configuration  
+– Kernel loading  
+– User logon  
+
