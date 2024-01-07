@@ -521,3 +521,12 @@
 – Report to company management  
 – Require warrants  
 
+• Protect your safety and health as well as the integrity of the evidence  
+
+• Follow guidelines when processing an incident or crime scene – Security perimeter / Scope – Video recording  
+
+• As you collect digital evidence, guard against physically destroying or contaminating it  
+
+• Forensic hash values verify that data or storage media have not been altered  
+
+• To analyze computer forensics data, learn to use more than one vendor tool • You must handle all evidence the same way every time you handle it. • After you determine that an incident scene has digital evidence, identify the digital information or artifacts that can be used as evidence
