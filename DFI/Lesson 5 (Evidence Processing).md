@@ -328,3 +328,5 @@ Standard Information attribute –
 
 <br>
 
+## NTFS Encrypting File System (EFS)  
+
