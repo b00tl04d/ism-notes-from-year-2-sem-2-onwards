@@ -197,4 +197,20 @@ floppy disks
 
 <br>
 
-##
+## Deleting FAT Files  
+
+• In Microsoft OSs, when a file is deleted  
+– Directory entry is marked as a deleted file  
+
+• With the hex E5 character replacing the first letter of the filename  
+
+• FAT chain for that file is set to 0  
+
+• Data in the file remains on the disk drive  
+
+• Area of the disk where the deleted file resides becomes unallocated disk space  
+– Available to receive new data from newly created files or other files needing more space  
+<br>
+
+## Examining NTFS Disks  
+
