@@ -108,4 +108,9 @@ If there is no other tower with a stronger signal, the call is dropped.
 
 | S/No | Hard Hand-off | Soft Hand-off |
 | -----  | ------------ | ------------ |
-| 1 | The definition of a hard-hand off is one where an existing connection must be broken when the new one is established. Break then make. | 
+| 1 | The definition of a hard-hand off is one where an existing connection must be broken when the new one is established. Break then make. | Soft hand-off is defined as a hand-off where a new connection is established before old one is released. Make before break. |
+| 2 | It allocates Different frequency | It allocates same frequency |
+| 3 | Hard hand-off typically used in TDMA and FDMA | Soft hand-off used in CDMA and some TDMA systems | 
+| 4 | Hard hand-off is not very complicated | More complex than hard hand-off |
+| 5 | In hard hand-off handset always communicated with one BS at a time | Communicate up to three or four BS at the same time| 
+
