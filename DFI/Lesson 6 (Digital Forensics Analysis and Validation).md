@@ -99,3 +99,15 @@
 
 • WinHex provides MD5 and SHA-1 hashing algorithms  
 
+• Using Hash Values to Discriminate Data  
+– AccessData has its own hashing database, is known as Known File Filter (KFF)  
+– KFF filters known program files from view and contains hash values of known illegal files  
+– It compares known file hash values with files on your evidence drive to see if they contain suspicious data  
+– Other digital forensics tools can import the NSRL database and run hash comparisons  
+
+<br>
+
+## Validating with Digital Forensics Tools  
+
+• ProDiscover 
+– .eve files contain metadata that includes hash value – Has a preference you can enable for using the Auto Verify Image Checksum feature when image files are loaded – If the Auto Verify Image Checksum and the hashes in the .eve file’s metadata don’t match • ProDiscover will notify that the acquisition is corrupt and can’t be considered reliable evidence
