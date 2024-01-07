@@ -92,3 +92,4 @@ Phone must match service or phone goes into ROAM or No Service.
 
 ## Cellular Hand Off  
 
+![[Pasted image 20240107173808.png]]
