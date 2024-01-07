@@ -140,3 +140,39 @@ Access Technologies
 • A method of digitizing and compressing  
 – A number of equal timeslots are configured for each frequency channel  
 
+• Divides conversations by frequency and time  
+
+• Outdated technology  
+
+• It facilitates many users to share the same frequency without interference. Its technology divides a signal into different timeslots, and increases the data carrying capacity  
+
+• Breaks up frequency allocation by time (i.e 6.7ms).  
+
+• Two channels are used. (decoding/encoding)  
+
+<br> 
+
+## iDEN  
+
+• Integrated Digital Enhanced Network  
+
+• Based on TDMA by Motorola  
+
+• iDEN phones can support SMS messages, voice mail, and data networking such as VPNs, the Internet, and intranets.  
+
+• Allows user to take advantage of PTT (push to talk) walkie talkie technology  
+– Half duplex  
+– Used by:  
+• Sprint (shutdown in 2013)  
+• AT&T  
+• Verizon  
+
+<br>
+
+## CDMA  
+
+• Code Division Multiple Access  
+
+• Utilizes spread-spectrum technology  
+– Spreads information contained in a particular signal (code) of interest over a much greater bandwidth than the original signal.  
+
