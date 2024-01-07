@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 6 (Digital Forensics Analysis and Validation).md",
+                "file": "DFI/Lesson 7 (Investigator Lab).md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 6 (Digital Forensics Analysis and Validation).md",
+                "file": "DFI/Lesson 7 (Investigator Lab).md",
                 "mode": "preview",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/Lesson 6 (Digital Forensics Analysis and Validation).md",
+                "file": "DFI/Lesson 7 (Investigator Lab).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DFI/Lesson 6 (Digital Forensics Analysis and Validation).md",
+                "file": "DFI/Lesson 7 (Investigator Lab).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/Lesson 6 (Digital Forensics Analysis and Validation).md"
+                "file": "DFI/Lesson 7 (Investigator Lab).md"
               }
             }
           }
@@ -170,8 +170,9 @@
   },
   "active": "fc33a66b264139ed",
   "lastOpenFiles": [
-    "DFI/Lesson 5 (Evidence Processing).md",
     "DFI/Lesson 6 (Digital Forensics Analysis and Validation).md",
+    "DFI/Lesson 7 (Investigator Lab).md",
+    "DFI/Lesson 5 (Evidence Processing).md",
     "DFI/EST Prep.md",
     "DFI/images/hkeys_and_funcs.png",
     "DFI/images/win_reg_file_locations_and_purposes.png",
