@@ -144,3 +144,12 @@
 – Stop your investigation to make sure you don’t violate Fourth Amendment restrictions on obtaining evidence  
 – Work with the corporate attorney on how to respond to a police request for more information  
 
+<br>
+
+## Processing Law Enforcement Crime Scenes  
+
+• You must be familiar with criminal rules of search and seizure  
+
+• You should also understand how a search warrant works and what to do when you process one  
+
+• Law enforcement officer may search for and seize criminal evidence only with probable cause – Probable cause - Reasonable grounds to believe that a particular person has committed a crime, especially to justify making a search or preferring a charge – Refers to the standard specifying whether a police officer has the right to make an arrest, conduct a personal or property search, or obtain a warrant for arrest
