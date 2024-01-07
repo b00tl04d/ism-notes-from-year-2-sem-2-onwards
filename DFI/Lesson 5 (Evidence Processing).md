@@ -237,3 +237,9 @@ floppy disks
 
 • NTFS also uses Unicode – An international data format  
 
+Note : sector size = 512 bytes (For DFI material)  
+
+<br>
+
+## NTFS System Files  
+
