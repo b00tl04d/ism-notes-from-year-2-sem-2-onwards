@@ -265,4 +265,14 @@ Note : sector size = 512 bytes (For DFI material)
 • File or folder information is typically stored in one of two ways in an MFT record:  
 – Resident and nonresident  
 
-• Each MFT record starts with a header identifying it as a resident or nonresident attribute • Files larger than 512 bytes (nonresident) are stored outside the MFT – MFT record provides cluster addresses where the file is stored on the drive’s partition • Referred to as data runs • For very small files, about 512 bytes or less (resident), all file metadata and data are stored in the MFT record.
+• Each MFT record starts with a header identifying it as a resident or nonresident attribute  
+
+• Files larger than 512 bytes (nonresident) are stored outside the MFT  
+– MFT record provides cluster addresses where the file is stored on the drive’s partition  
+
+• Referred to as data runs  
+
+• For very small files, about 512 bytes or less (resident), all file metadata and data are stored in the MFT record.  
+
+Basic information of a file in MFT starts at 0x10  
+
