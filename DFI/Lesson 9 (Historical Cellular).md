@@ -92,4 +92,5 @@ Phone must match service or phone goes into ROAM or No Service.
 
 ## Cellular Hand Off  
 
-![[cellular_hand_off.png]]
+![image](../DFI/images/cellular_hand_off.png)  
+
