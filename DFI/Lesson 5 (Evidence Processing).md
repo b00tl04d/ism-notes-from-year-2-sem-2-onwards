@@ -476,3 +476,11 @@ Standard Information attribute –
 – Kernel loading  
 – User logon  
 
+• Startup Files for Windows Vista:  
+– The Ntldr (NT Loader) program in Windows XP used to load the OS has been replaced with these three boot utilities:  
+• Bootmgr.exe  
+• Winload.exe  
+• Winresume.exe  
+– Windows Vista includes the BCD editor for modifying boot options and updating the BCD registry file  
+– The BCD store (Namespace container for BCD Objects) replaces the Windows XP boot.ini file  
+• Old Windows uses boot.ini to configure boot sequences
