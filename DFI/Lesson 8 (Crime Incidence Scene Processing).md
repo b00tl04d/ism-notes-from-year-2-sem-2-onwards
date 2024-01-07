@@ -61,7 +61,7 @@
 – The only way to detect these changes is to compare the original data with a duplicate. i.e Hash  
 
 • Most courts have interpreted computer records as hearsay evidence  
-– Hearsay is secondhand or indirect evidence  
+– Hearsay is second hand or indirect evidence  
 – Hearsay - Evidence of a statement made other than by a witness  
 
 • Generally, digital records are considered admissible if they qualify as a business record  
@@ -101,3 +101,21 @@
 – Investigations involving network servers  
 • Removing a server from the network to acquire evidence data could cause harm to a business or its owner, who might be an innocent bystander to a crime or civil wrong  
 
+<br>
+
+## Rules of Evidence  
+
+• The five properties that evidence must have in order to be useful:  
+– Admissible  
+– Authentic  
+– Complete  
+– Reliable  
+– Believable  
+
+<br>
+
+## Collecting Evidence in Private-Sector Incident Scenes  
+
+• Typically, businesses have inventory databases of computer hardware and software  
+– Understand what h/w and s/w help identify the computer forensics tools needed to analyze a policy violation  
+• This is also the best way to conduct the analysis  • Corporate policy statement about misuse of digital assets – Allows corporate investigators to conduct covert surveillance (surveillance on someone without the person notice it) with little or no cause – And access company systems without a warrant
