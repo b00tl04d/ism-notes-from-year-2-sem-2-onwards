@@ -114,3 +114,5 @@ If there is no other tower with a stronger signal, the call is dropped.
 | 4 | Hard hand-off is not very complicated | More complex than hard hand-off |
 | 5 | In hard hand-off handset always communicated with one BS at a time | Communicate up to three or four BS at the same time| 
 
+![image](../DFI/images/soft_vs_hard_handoff.png)  
+
