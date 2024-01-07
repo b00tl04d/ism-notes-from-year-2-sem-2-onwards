@@ -278,3 +278,16 @@
 – Includes all tools you can afford to take to the field  
 – When at the scene, extract only those items you need to acquire evidence  
 
+<br>
+
+## Preparing to Acquire Digital Evidence  
+
+• The evidence you acquire at the scene depends on the nature of the case  
+– And the alleged crime or violation  
+
+• Ask your supervisor or senior forensics examiner in your organization the following questions:  
+– Do you need to take the entire computer and all peripherals and media in the immediate area?  
+– How are you going to protect the computer and media while transporting them to your lab?  
+– Is the computer powered on when you arrive?  
+• Data may be lost after machine is powered down  
+
