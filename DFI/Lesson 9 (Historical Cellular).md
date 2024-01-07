@@ -176,3 +176,118 @@ Access Technologies
 • Utilizes spread-spectrum technology  
 – Spreads information contained in a particular signal (code) of interest over a much greater bandwidth than the original signal.  
 
+• Assigns a code to each piece of data passed across the spectrum  
+
+• Newer technologies still utilize the original TDMA concept. Deemed more superior to FDMA and TDMA  
+
+• Unable to carry voice and data at the same time  
+
+• Every communication channel uses the full available spectrum  
+
+• Two channels • Encode / Decode  
+
+• Spread Spectrum: channels are spread across the entire frequency range (1850- 1990MHz) instead of dedicated to one  
+
+CDMA Family:-  
+
+• cdmaOne (2G):  
+– Original CDMA system  
+• CDMA2000 (3G):  
+– Evolved from cdmaOne  
+– A family of technology for 3G mobile cellular communications for transmission of voice, data and signals  
+– 1xRTT (Voice), 1xEV-DO (3G wireless standard-Data)  
+• W-CDMA (3G):  
+– Borrows ideas from CDMA  
+– Use GSM technology and evolve into UMTS (Universal Mobile Telecommunications Service)  
+
+<br>
+
+## BitPIM Software for CDMA  
+
+• BitPIM is an open source, crossplatform program that allows you to view and manipulate data on many CDMA phones.  
+– These include the PhoneBook, Calendar, WallPapers, RingTones and the Filesystem.  
+
+• Analyse most Qualcomm CDMA chipset based phones.  
+
+• PIM stands for Personal Information Management  
+
+<br>
+
+## Qualcomm for CDMA  
+
+• Founded in 1985 - Multinational semiconductor and telecommunications equipment company. Listed company in USA NASDAQ  
+
+• Created CDMA and it’s components in the late 1990’s.  
+
+• Commercially launched in 1995  
+
+• Originally built base stations, chipsets, and cell phones.  
+
+• Owns the patent on CDMA chipset technology  
+
+<br>
+
+## GSM  
+
+• Based on TDMA  
+
+• 70%-80% of the world’s phones  
+
+• A digital cellular technology used for transmitting mobile voice and data services  
+
+• Established 1987 as standard  
+– Primarily developed in Europe  
+
+• Available in over 212 countries and territories  
+
+• Global Systems for Mobile Communication with frequency range from 850-1900MHz  
+
+• Utilizes SIM technology  
+
+<br>
+
+## Cell Phone Identification Numbers  
+
+MIN - Mobile Identity Number  
+
+• 10 digit number  
+– More with Country Code  
+
+• Assigned by the carrier and used for mobile phone identification  
+
+• It consists of two different parts MIN 1 and MIN 2  
+– The MIN 1 is usually the 24-bit number after the area code  
+– MIN 2 is the area/mobile subscriber code  
+
+• Can be ported 
+
+• e.g. (303)866-1010  
+
+<br>
+
+## ESN –Electronic Serial Number  
+
+• Unique 32bit number assigned to each TDMA or CDMA (non GSM) device/equipment. (i.e Like MAC address in NIC)  
+
+• As 8 bit manufacturer’s code almost exhausted, a 14 bit code authorized as a fill in until new system is in place.  
+
+<br>
+
+## MEID –Mobile Equipment ID  
+
+• Replaces the soon to be exhausted ESN for CDMA devices.  
+
+• All of these fields are hexadecimal values.  
+– RR: Regional Code. Globally administered. 
+– XXXXXX  
+• 000000 - For small quantities of test/prototype mobiles.  
+• 000001 - FFFFFE - Allocated to regional administration bodies or mobile manufacturers, subject to industry agreement.  
+• FFFFFF – Reserved.  
+– ZZZZZZ: Manufacturer assigned to uniquely ID device.  
+– C – Check Digit: Not transmitted over the air.  
+
+<br>
+
+## IMEI – International Mobile Equipment Identity  
+
+• The IMEI is a unique 15-digit code used to identify an individual GSM mobile telephone to a mobile network.
