@@ -22,3 +22,12 @@ Mode of communication:-
 
 • Phone network allows for “Frequency Reuse”. Cell 1s is on the same frequency, but the different 1’s won’t interfere with each other because of physical separation. The interference is called “cross talk” where you can hear other people’s conversations.  
 
+<br>
+
+## Cellular Division  
+
+A cellular device can communicate with another cellular device, land line, internet n others.  
+
+Can you tell if there is anything special about the cell network diagram?  
+
+Why the cells are all in Hexagon?  
