@@ -416,3 +416,15 @@ Standard Information attribute –
 
 ## Understanding Windows Registry  
 
+• Registry  
+– A database that stores hardware and software configuration information, network connections, user preferences, and setup information  
+
+• To view the Registry, you can use:  
+– Regedit (Registry Editor) program for Windows 9x systems  
+– Regedt32 for Windows 2000, XP, and Vista  
+– Both utilities can be used for Windows 7 and later.  
+
+<br>
+
+## Exploring the Organization of the Windows Registry  
+
