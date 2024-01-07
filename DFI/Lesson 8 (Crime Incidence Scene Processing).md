@@ -314,3 +314,11 @@
 – Sketch the incident or crime scene  
 – Check state of computers as soon as possible  
 
+• More Guidelines…  
+– Don’t cut electrical power to a running system unless it’s an older Windows 9x or MS-DOS system  
+• May lose essential network activity records if power is terminated without a proper shutdown  
+– Save data from current applications as safely as possible  
+– Record all active windows or shell sessions  
+– Make notes of everything you do when copying data from a live suspect computer  
+– Close applications and shut down the computer  
+
