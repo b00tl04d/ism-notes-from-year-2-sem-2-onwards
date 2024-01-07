@@ -289,3 +289,6 @@ Basic information of a file in MFT starts at 0x10
 
 ## MFT Structures for File Data  
 
+• For the header of all MFT records, the record fields of interest are as follows:  
+– At offset 0x00 - the MFT record identifier FILE  
+– At offset 0x14 - length of the header (indicates where the next attribute starts) 38 00  00 38 = 56 bytes!! – At offset 0x1C to 0x1F - size of the MFT record – At offset 0x32 and 0x33 - the update sequence array, which stores the last 2 bytes of the first sector of the MFT record • The update sequence array is used as a checksum for record integrity validation
