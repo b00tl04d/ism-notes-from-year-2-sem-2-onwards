@@ -185,3 +185,7 @@
 • Example - In a case where police were searching a computer for evidence related to illegal drug trafficking:  
 – If an examiner observes an .avi file and find child pornography, he must get an additional warrant or an expansion of the existing warrant to continue the search for child pornography  
 
+<br>
+
+## Preparing for a Search  
+
