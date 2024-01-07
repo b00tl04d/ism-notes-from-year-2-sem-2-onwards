@@ -165,3 +165,12 @@
 • Other disk management tools:  
 – Partition Magic, Partition Master, and Linux Grand Unified Bootloader (GRUB)  
 
+• To detect whether a partition has been hidden  
+– Account for all disk space when examining an evidence drive  
+– Analyze any disk areas containing space you can’t account for  
+
+• In ProDiscover, a hidden partition appears as the highest available drive letter set in the BIOS  
+– Other forensics tools have their own methods of assigning drive letters to hidden partitions  
+
+<br>
+
