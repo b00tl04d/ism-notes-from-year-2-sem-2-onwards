@@ -215,7 +215,17 @@
 • If you encrypt a plaintext file with PGP and insert the encrypted text into a steganography file  
 – Cracking the encrypted message is extremely difficult!!!  
 
-• Steganalysis methods – Stego-only attack • Only have Converted covered file to analyze – Known cover attack • Has both the Covered file and Converted covered file to analyze – Known message attack • When the hidden message is revealed later – Chosen stego attack • A steganography tool is used – Chosen message attack • The steganalyst generates a stego-object from some steganography tool or algorithm of a chosen message.
+• Steganalysis methods  
+– Stego-only attack  
+• Only have Converted covered file to analyze  
+– Known cover attack  
+• Has both the Covered file and Converted covered file to analyze  
+– Known message attack  
+• When the hidden message is revealed later  
+– Chosen stego attack  
+• A steganography tool is used  
+– Chosen message attack  
+• The steganalyst generates a stego-object from some steganography tool or algorithm of a chosen message.  
 
 <br>
 
