@@ -529,4 +529,8 @@
 
 • Forensic hash values verify that data or storage media have not been altered  
 
-• To analyze computer forensics data, learn to use more than one vendor tool • You must handle all evidence the same way every time you handle it. • After you determine that an incident scene has digital evidence, identify the digital information or artifacts that can be used as evidence
+• To analyze computer forensics data, learn to use more than one vendor tool  
+
+• You must handle all evidence the same way every time you handle it.  
+
+• After you determine that an incident scene has digital evidence, identify the digital information or artifacts that can be used as evidence  
