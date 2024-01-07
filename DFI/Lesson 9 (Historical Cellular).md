@@ -344,3 +344,5 @@ The check digit is validated in three steps:
 
 ![image](../DFI/images/na_imei.png)  
 
+• All mobile country codes (MCC) are assigned by ITU International Telecommunication Union) in Recommendation E.212 (International Identification plan for public networks)  
+
