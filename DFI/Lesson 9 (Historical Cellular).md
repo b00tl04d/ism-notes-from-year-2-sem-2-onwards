@@ -106,3 +106,6 @@ If there is no other tower with a stronger signal, the call is dropped.
 
 ## Difference between Hard and Soft Hand Off  
 
+| S/No | Hard Hand-off | Soft Hand-off |
+| -----  | ------------ | ------------ |
+| 1 | The definition of a hard-hand off is one where an existing connection must be broken when the new one is established. Break then make. | 
