@@ -183,3 +183,4 @@ floppy disks
 • An unintentional side effect of FAT16 having large clusters was that it reduced fragmentation  
 – As cluster size increased  
 
+![image](../images/ram_slack_file_slack.png)  
