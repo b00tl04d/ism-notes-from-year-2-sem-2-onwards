@@ -143,3 +143,17 @@
 
 ## Hiding Files by Using the OS  
 
+• One of the first techniques to hide data:  
+– Changing file extensions  
+
+• Advanced digital forensics tools check file headers  
+– Compare the file extension to verify that it’s correct  
+– If there’s a discrepancy, the tool flags the file as a possible altered file  
+
+• Another hiding technique  
+– Selecting the Hidden attribute in a file’s Properties dialog box (windows)  
+
+<br>
+
+## Hiding Partitions  
+
