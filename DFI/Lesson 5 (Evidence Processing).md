@@ -377,3 +377,13 @@ Standard Information attribute –
 
 • To help prevent loss of information, software vendors now provide whole disk encryption  
 
+• Current whole disk encryption tools offer the following features:  
+– Preboot authentication  
+• single sign-on password, fingerprint scan  
+– Full or partial disk encryption with secure hibernation  
+• Password protected screen saver  
+– Advanced encryption algorithms  
+• i.e AES or IDEA  
+– Key management function  
+• Passphrase to reset password  
+
