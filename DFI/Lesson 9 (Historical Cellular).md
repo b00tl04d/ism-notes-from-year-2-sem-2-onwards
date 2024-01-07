@@ -124,3 +124,8 @@ Access Technologies
 
 • How the phone talks to the tower:  
 – AMPS (Advanced Mobile Phone System) FDMA, 800 MHz, 1G, Analog  
+– TDMA (Time Division Multiple Access) 2G, Digital  
+– iDEN (integrated Digital Enhanced Network) 2G, Digital  
+– CDMA (Code Division Multiple Access) 2G/3G, Digital  
+– GSM (Global System Mobile Communication) 2G, Digital  
+– W-CDMA (Orthogonal frequency-division multiple  
