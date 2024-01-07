@@ -87,3 +87,17 @@
 – The author of a Microsoft Word document can be identified by using file metadata  
 • May not be easy as records recovered from slack space or unallocated disk space usually don’t identify the author  
 
+• The process of establishing digital evidence’s trustworthiness originated with written documents and the “best evidence rule”  
+
+• Best evidence rule states:  
+– To prove the content of a written document, recording, or photograph, ordinarily the original writing, recording, or photograph is required  
+– Allow a duplicate instead of originals when it is produced by the same impression as the original  
+• No always possible to produce original  
+
+• As long as bit-stream copies of data are created and maintained properly  
+– The copies can be admitted in court, although they aren’t considered best evidence  
+
+• Example of not being able to use original evidence  
+– Investigations involving network servers  
+• Removing a server from the network to acquire evidence data could cause harm to a business or its owner, who might be an innocent bystander to a crime or civil wrong  
+
