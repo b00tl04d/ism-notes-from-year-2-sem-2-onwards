@@ -185,3 +185,16 @@ floppy disks
 
 ![image](../images/ram_slack_file_slack.png)  
 
+• When you run out of room for an allocated cluster  
+– OS allocates another cluster for your file, which creates more slack space on the disk  
+
+• As files grow and require more disk space, assigned clusters are chained together  
+– The chain can be broken or fragmented due to deleted files or expansion files  
+
+• When the OS stores data in a FAT file system, it assigns a starting cluster position to a file  
+– Data for the file is written to the first sector of the first assigned cluster  
+– When this first assigned cluster is filled and runs out of room, FAT assigns the next available cluster to the file  
+
+<br>
+
+##
