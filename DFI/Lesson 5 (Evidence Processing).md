@@ -483,4 +483,16 @@ Standard Information attribute –
 • Winresume.exe  
 – Windows Vista includes the BCD editor for modifying boot options and updating the BCD registry file  
 – The BCD store (Namespace container for BCD Objects) replaces the Windows XP boot.ini file  
-• Old Windows uses boot.ini to configure boot sequences
+• Old Windows uses boot.ini to configure boot sequences  
+
+• Startup Files for Windows XP: 
+– NT Loader (NTLDR)  
+– Boot.ini  
+– Ntoskrnl.exe  
+– Bootvid.dll  
+– Hal.dll  
+– BootSect.dos  
+– NTDetect.com  
+– NTBootdd.sys  
+– Pagefile.sys  
+
