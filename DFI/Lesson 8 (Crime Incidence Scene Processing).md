@@ -221,3 +221,16 @@
 – Estimate the size of the drive on the suspect’s computer  
 • And how many devices to process at the scene  
 
+• Determine which OSs and hardware are involved  
+– Microsoft, Linux, UNIX, Macintosh, or mainframe computer  
+
+<br>
+
+## Determining Whether You Can Seize Computers and Digital Devices  
+
+• The type of case and location of the evidence  
+– Determine whether you can remove digital evidence  
+• Ideally situation for incident or crime scenes is seizing the computers and taking them to your lab for further processing.  
+
+• Law enforcement investigators need a warrant to remove computers from a crime scene  
+– And transport them to a lab
