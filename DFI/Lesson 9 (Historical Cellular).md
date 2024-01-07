@@ -65,3 +65,12 @@ The MTSO is what causes transmission to occur between cellular to cellular, cell
 
 ![image](../DFI/images/mobile_data_transmission.png)  
 
+<br>
+
+## What is a wireless frequency?  
+
+• Transmission of voice or data through the use of electric waves that are set to specific frequencies.  
+– No. of waves per second => frequency!!  
+– Frequency is measured in Hertz or Hz  
+– 1 Hz means 1 complete waves length per second  
+
