@@ -83,3 +83,7 @@
 • When attorneys challenge digital evidence  
 – Often they raise the issue of whether computer-generated records were altered or damaged  
 
+• One test to prove that computer-stored records are authentic is to demonstrate that a specific person created the records  
+– The author of a Microsoft Word document can be identified by using file metadata  
+• May not be easy as records recovered from slack space or unallocated disk space usually don’t identify the author  
+
