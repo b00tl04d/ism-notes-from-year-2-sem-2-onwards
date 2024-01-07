@@ -44,4 +44,8 @@ How is data transmitted in mobile networks?
 – Contains switching equipment for routing mobile phone calls  
 – Handles the entire cell network  
 – Controls handoff  
-• Handoff – process of transferring an ongoing call or data session from one channel (cell) to another channel (cell) – Communicates with PSTN (Public Switch Telephone Network) • Land-line network – The BRAIN of the cell phone network!
+• Handoff – process of transferring an ongoing call or data session from one channel (cell) to another channel (cell)  
+– Communicates with PSTN (Public Switch Telephone Network)  
+• Land-line network  
+– The BRAIN of the cell phone network!  
+
