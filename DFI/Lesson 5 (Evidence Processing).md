@@ -439,9 +439,9 @@ Standard Information attribute –
 – Default value  
 – Hives  
 
-![image](../images/win_reg_file_locations_and_purposes.png)  
+![image](../DFI/images/win_reg_file_locations_and_purposes.png)  
 
-![image](../images/hkeys_and_funcs.png)  
+![image](../DFI/images/hkeys_and_funcs.png)  
 
 <br>
 
