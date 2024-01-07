@@ -398,3 +398,21 @@ Standard Information attribute –
 
 • Note : Without the necessary credentials to unlock an encrypted drive, it is not possible to view any logical level information.  
 
+<br>
+
+## Examining Microsoft BitLocker (Example)  
+
+• Available Vista Enterprise/Ultimate, Windows 7 and 8 Professional/Enterprise, and Server 2008, 2012 and 2016.  
+
+• Hardware and software requirements  
+– A computer capable of running Windows Vista or later  
+– The Trusted Platform Module(TPM) microchip, version 1.2 or newer  
+• stores RSA encryption keys specific to the host system for hardware authentication.  
+– A computer BIOS compliant with Trusted Computing Group (TCG)  
+– Two NTFS partitions  
+– The BIOS configured so that the hard drive boots first before checking other bootable peripherals  
+
+<br>
+
+## Understanding Windows Registry  
+
