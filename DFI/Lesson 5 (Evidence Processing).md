@@ -370,3 +370,10 @@ Standard Information attribute –
 
 ## Understanding Whole Disk Encryption (WDE)  
 
+• In recent years, there has been more concern about loss of  
+– Personal identity information (PII) and trade secrets caused by computer theft  
+
+• Of particular concern is the theft of laptop computers and other handheld devices  
+
+• To help prevent loss of information, software vendors now provide whole disk encryption  
+
