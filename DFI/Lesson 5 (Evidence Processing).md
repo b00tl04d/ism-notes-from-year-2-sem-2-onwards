@@ -171,3 +171,15 @@ floppy disks
 
 • Cluster sizes vary according to disk drive size and file system  
 
+• Microsoft OSs allocate disk space for files by clusters  
+– Results in drive slack  
+
+• Unused space in a cluster between the end of an active file and the end of the cluster  
+
+• Drive slack includes:  
+– RAM slack (portion of the last sector used in the last assigned cluster) and 
+– File slack (unused space allocated for a file)  
+
+• An unintentional side effect of FAT16 having large clusters was that it reduced fragmentation  
+– As cluster size increased  
+
