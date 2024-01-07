@@ -189,3 +189,15 @@
 
 ## Preparing for a Search  
 
+• Preparing for a computer search and seizure  
+– Probably the most important step in computing investigations  
+• The better you prepare, the smoother your investigation will be  
+
+• To perform these tasks  
+– You might need to get answers from the victim and an informant  
+• Who could be a police detective assigned to the case, a law enforcement witness, or a manager or co-worker of the person of interest to the investigation  
+
+<br>
+
+## Identifying the Nature of the Case  
+
