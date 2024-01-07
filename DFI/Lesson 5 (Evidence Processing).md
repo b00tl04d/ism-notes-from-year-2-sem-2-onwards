@@ -307,3 +307,24 @@ Standard Information attribute –
 
 ## NTFS Alternate Data Streams  
 
+• Alternate data streams  
+– Ways data can be appended to existing files  
+– Can obscure valuable evidentiary data, intentionally or by coincidence  
+
+• In NTFS, an alternate data stream becomes an additional file attribute  
+– Allows the file to be associated with different applications  
+
+• You can only tell whether a file has a data stream attached by examining that file’s MFT entry  
+
+<br>
+
+## NTFS Compressed Files  
+
+• NTFS provides compression similar to FAT  
+
+• Under NTFS, files, folders, or entire volumes can be compressed  
+
+• Most computer forensics tools can uncompress and analyze compressed Windows data  
+
+<br>
+
