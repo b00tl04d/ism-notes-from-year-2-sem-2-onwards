@@ -42,6 +42,9 @@
 – based on existing resources  
 – Estimate how many cases an investigator can handle  
 – Certain case can be longer due to the nature of the case  
+– Estimate when to expect preliminary and final results  
+– Create and monitor lab policies for staff  
+– Provide a safe and secure workplace for staff and evidence  
 
 <br>
 
