@@ -355,3 +355,169 @@
 • Or other evidence from large RAID servers  
 – Create the search warrant by itemizing what you need for the warrant  
 
+• Responsibilities  
+– Know all aspects of the seized system  
+– Direct investigator handling sensitive material  
+– Help secure the scene  
+– Help document the planning strategy  
+– Conduct ad hoc trainings  
+• On the technologies and components being seized and searched  
+– Document activities  
+– Help conduct the search and seizure  
+
+<br>
+
+## Documenting Evidence in the Lab  
+
+• Record your activities and findings as you work  
+– Maintain a journal to record the steps you take as you process evidence  
+
+• Your goal is to be able to reproduce the same results  
+– When you or another investigator repeat the steps you took to collect evidence, results should be the same!  
+
+• A journal serves as a reference that documents the methods you used to process digital evidence  
+
+<br>
+
+## Processing and Handling Digital Evidence  
+
+• Maintain the integrity of digital evidence in the lab  
+– As you do when collecting it in the field!!  
+
+• Steps to create image files:  
+– Copy all image files to a large drive  
+– Start your forensics tool to analyze the evidence  
+– Run an MD5 or SHA-1 hashing algorithm on the image files to get a digital hash  
+– Secure the original media in an evidence locker  
+
+<br>
+
+## Storing Digital Evidence  
+
+• The media you use to store digital evidence usually depends on how long you need to keep it  
+
+• CDs, DVDs, DVD-Rs, DVD+Rs, or DVD-RWs  
+– The ideal media  
+– Capacity: up to 17 GB  
+– Lifespan: 2 to 5 years  
+
+• Magnetic tapes - 4-mm DAT  
+– Capacity: 40 to 72 GB  
+– Lifespan: 30 years  
+– Costs: drive: $400 to $800; tape: $40  
+
+• Super Digital Linear Tape (Super-DLT or SDLT)  
+– Specifically designed for large RAID data backups  
+– Can store more than 1 TB of data  
+
+• Smaller external SDLT drives can connect to a workstation through a SCSI card  
+
+• Don’t rely on one media storage method to preserve your evidence  
+– Make two copies of every image to prevent data loss  
+– Use different tools to create the two images  
+
+<br>
+
+## Evidence Retention and Media Storage Needs  
+
+• To help maintain the chain of custody (paper trail that records the sequence of custody) for digital evidence  
+– Restrict access to lab and evidence storage area  
+
+• Lab should have a sign-in roster for all visitors  
+– Maintain logs for a period based on legal requirements  
+
+• You might need to retain evidence indefinitely  
+– Check with your local prosecuting attorney’s office or state laws to make sure you’re in compliance  
+
+<br>
+
+## Documenting Evidence  
+
+• Create or use an evidence custody form  
+– An evidence custody form serves the following functions:  
+• Identifies the evidence  
+• Identifies who has handled the evidence  
+• Lists dates and times the evidence was handled  
+
+• You can add more information to your form  
+– Such as a section listing MD5 and SHA-1 hash values  
+
+• Include any detailed information you might need to reference  
+
+• Evidence bags also include labels or evidence forms you can use to document your evidence  
+– Use antistatic bags for electronic components  
+
+<br>
+
+## Obtaining a Digital Hash  
+
+• Cyclic Redundancy Check (CRC)  
+– Mathematical algorithm that determines whether a file’s contents have changed  
+– Not considered a forensic hashing algorithm  
+
+• Message Digest 5 (MD5)  
+– Mathematical formula that translates a file into a hexadecimal code value, or a hash value  
+– If a bit or byte in the file changes, it alters the hash value, which can be used to verify a file or drive has not been tampered with  
+
+• Three rules for forensic hashes:  
+– You can’t predict the hash value of a file or device  
+– No two hash values can be the same  
+– If anything changes in the file or device, the hash value must change  
+
+• Secure Hash Algorithm version 1 (SHA-1)  
+– A newer hashing algorithm  
+– Developed by the National Institute of Standards and Technology (NIST)  
+• Not secure now!!!  
+
+<br>
+
+## Reviewing a Case  
+
+• General tasks you perform in any computer forensics case:  
+– Identify the case requirements  
+– Plan your investigation  
+– Conduct the investigation  
+– Complete the case report  
+– Critique the case  
+
+<br>
+
+## Sample Civil Investigation  
+
+• Most cases in the corporate environment are considered low-level investigations  
+– Or noncriminal cases  
+
+• Common activities and practices  
+– Recover specific evidence  
+• Suspect’s Outlook e-mail folder (PST file)  
+– Covert surveillance  
+• Its use must be well defined in the company policy  
+• Risk of civil or criminal liability  
+– Sniffing tools for data transmissions  
+• Wireshark?  
+
+• Computer crimes examples  
+– Fraud  
+– Check fraud  
+– Homicides  
+– Others…  
+
+• Need a warrant to start seizing evidence  
+– Limit searching area  
+
+<br>
+
+## Summary  
+
+• Digital evidence is anything stored or transmitted on electronic or optical media  
+
+• In the private sector, incident scene is often in a contained and controlled area  
+
+• Companies should publish the right to inspect computer assets policy  
+
+• Private and public sectors follow same computing investigation rules  
+
+• Criminal cases  
+– Report to company management  
+– Require warrants  
+
