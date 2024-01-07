@@ -51,7 +51,7 @@
 – 2. Inventory the hardware on the suspect’s computer, and note condition of seized computer  
 – 3. For static acquisitions, remove original drive and check the date and time values in system’s CMOS  
 – 4. Record how you acquired data from the suspect drive  
-– 5. Process drive’s contents methodically and logically. i.e emailsJPGspreadsheetword  
+– 5. Process drive’s contents methodically and logically. i.e emails &rarr; JPG &rarr; spreadsheet &rarr; word  
 – 6. List all folders and files on the image or drive. Note where a file/picture is found  
 – 7. Examine contents of all data files in all folders. Starting from root directory  
 – 8. Recover file contents for all password-protected files. Use password recovery tools  
