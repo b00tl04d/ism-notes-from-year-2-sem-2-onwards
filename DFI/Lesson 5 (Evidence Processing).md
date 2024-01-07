@@ -184,3 +184,4 @@ floppy disks
 – As cluster size increased  
 
 ![image](../images/ram_slack_file_slack.png)  
+
