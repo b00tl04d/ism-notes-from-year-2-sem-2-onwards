@@ -12,9 +12,11 @@
             "id": "fc33a66b264139ed",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "cellular_hand_off.png"
+                "file": "DFI/Lesson 9 (Historical Cellular).md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "afa339c244a3c4d7"
@@ -30,9 +32,11 @@
             "id": "49a9f3c1a32f932f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "cellular_hand_off.png"
+                "file": "DFI/Lesson 9 (Historical Cellular).md",
+                "mode": "source",
+                "source": false
               }
             },
             "group": "afa339c244a3c4d7"
@@ -103,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cellular_hand_off.png",
+                "file": "DFI/Lesson 9 (Historical Cellular).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cellular_hand_off.png",
+                "file": "DFI/Lesson 9 (Historical Cellular).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cellular_hand_off.png"
+                "file": "DFI/Lesson 9 (Historical Cellular).md"
               }
             }
           }
@@ -164,10 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0687dc5c50edddd9",
+  "active": "fc33a66b264139ed",
   "lastOpenFiles": [
-    "DFI/Lesson 9 (Historical Cellular).md",
     "cellular_hand_off.png",
+    "DFI/Lesson 9 (Historical Cellular).md",
     "DFI/images/when_calling.png",
     "DFI/images/when_phone_turns_on.png",
     "DFI/images/mobile_data_transmission.png",
