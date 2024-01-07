@@ -124,3 +124,9 @@
 – Allows corporate investigators to conduct covert surveillance (surveillance on someone without the person notice it) with little or no cause  
 – And access company systems without a warrant  
 
+• Companies should display a warning banner and publish a policy  
+– Stating that they reserve the right to inspect computing assets at will  
+
+• Corporate investigators should know under what circumstances they can examine an employee’s computer  
+– Every organization must have a well-defined process describing when an investigation can be initiated  
+
