@@ -145,3 +145,44 @@
 
 • High-risk investigations demand more security than the minimum lab requirements  
 
+– TEMPEST facilities  
+• Electromagnetic Radiation (EMR) proofed  
+– leaking signal can be used to reconstruct information  
+• Such facilities can stop information systems from leaking through emanations, including unintentional radio or electrical signals, sounds, and vibrations.  
+
+– TEMPEST facilities are very expensive  
+• You can use low-emanation workstations instead  
+
+<br>
+
+## Using Evidence Containers  
+
+• Known as evidence lockers  
+– Must be secure so that no unauthorized person can easily access your evidence  
+
+• Recommendations for securing storage containers:  
+1. Locate them in a restricted area  
+2. Limited number of authorized people to access the container  
+3. Maintain records on who is authorized to access each container  
+4. Containers should remain locked when not in use  
+
+• If a combination locking system is used:  
+1. Provide the same level of security for the combination as for the container’s contents – Need to protect the combination!  
+2. Destroy any previous combinations after setting up a new combination  
+3. Allow only authorized personnel to change lock combinations  
+4. Change the combination every six months or when required  
+
+<br>
+
+• If you’re using a keyed padlock:  
+1. Appoint a key custodian – Someone responsible for distributing keys  
+2. Stamp sequential numbers on each duplicate key  
+3. Maintain a registry listing which key is assigned to which authorized person  
+4. Conduct a monthly audit  
+5. Take an inventory of all keys  
+6. Place keys in a lockable container  
+7. Maintain the same level of security for keys as for evidence containers  
+8. Change locks and keys annually  
+
+<br>
+
