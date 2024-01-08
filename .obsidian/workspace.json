@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/IM/Lesson 5.md",
+                "file": "DFI/Lesson 8 (Crime Incidence Scene Processing).md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SPIM/IM/Lesson 5.md",
+                "file": "DFI/Lesson 8 (Crime Incidence Scene Processing).md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SPIM/IM/Lesson 5.md",
+                "file": "DFI/Lesson 8 (Crime Incidence Scene Processing).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SPIM/IM/Lesson 5.md",
+                "file": "DFI/Lesson 8 (Crime Incidence Scene Processing).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SPIM/IM/Lesson 5.md"
+                "file": "DFI/Lesson 8 (Crime Incidence Scene Processing).md"
               }
             }
           }
@@ -170,6 +170,7 @@
   },
   "active": "fc33a66b264139ed",
   "lastOpenFiles": [
+    "SPIM/IM/Lesson 5.md",
     "DFI/Lesson 9 (Historical Cellular).md",
     "DFI/images/sg_imei.png",
     "DFI/images/na_imei.png",
@@ -193,7 +194,6 @@
     "DFI/Lesson 1 (Intro to Forensics).md",
     "An Overview of Steganography__xid-4487525_2.docx",
     "SPIM/IM/Lesson 3.md",
-    "SPIM/IM/Lesson 5.md",
     "SPIM/IM/Lesson 4.md",
     "SPIM/IM/Lesson 2.md",
     "Electives/DSAL/Doubly Linked List.md",
