@@ -8,7 +8,7 @@ Mode of communication:-
 
 • Half-Duplex  
 – CB Radios (citizen band)  
-• Radio frequency signal <-- > electrical signal  
+• Radio frequency signal <---> electrical signal  
 – Only one party can speak at a time  
 – Walkie-Talkie  
 

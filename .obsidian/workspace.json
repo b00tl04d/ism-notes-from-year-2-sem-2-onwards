@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 8 (Crime Incidence Scene Processing).md",
+                "file": "DFI/Lesson 9 (Historical Cellular).md",
                 "mode": "source",
                 "source": true
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DFI/Lesson 8 (Crime Incidence Scene Processing).md",
+                "file": "DFI/Lesson 9 (Historical Cellular).md",
                 "mode": "preview",
                 "source": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DFI/Lesson 8 (Crime Incidence Scene Processing).md",
+                "file": "DFI/Lesson 9 (Historical Cellular).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DFI/Lesson 8 (Crime Incidence Scene Processing).md",
+                "file": "DFI/Lesson 9 (Historical Cellular).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DFI/Lesson 8 (Crime Incidence Scene Processing).md"
+                "file": "DFI/Lesson 9 (Historical Cellular).md"
               }
             }
           }
@@ -170,6 +170,7 @@
   },
   "active": "fc33a66b264139ed",
   "lastOpenFiles": [
+    "DFI/Lesson 8 (Crime Incidence Scene Processing).md",
     "SPIM/IM/Lesson 5.md",
     "DFI/Lesson 9 (Historical Cellular).md",
     "DFI/images/sg_imei.png",
@@ -182,7 +183,6 @@
     "DFI/images/when_calling.png",
     "DFI/images/when_phone_turns_on.png",
     "DFI/images/mobile_data_transmission.png",
-    "DFI/Lesson 8 (Crime Incidence Scene Processing).md",
     "DFI/Lesson 7 (Investigator Lab).md",
     "DFI/Lesson 6 (Digital Forensics Analysis and Validation).md",
     "DFI/Lesson 5 (Evidence Processing).md",
